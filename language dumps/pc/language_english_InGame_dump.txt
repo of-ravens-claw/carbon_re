@@ -1,0 +1,3810 @@
+0x0000054B : HD
+0x000BCB9F : Activate Crew Member
+0x00359225 : Dry Shot Nitrous Kit
+0x00359226 : Nitrous Purge Kit
+0x00359227 : 10 lb Nitrous Bottle
+0x00359228 : Wet Shot Nitrous Kit
+0x00359229 : Nitrous Bottle Heater
+0x0035922A : 15 lb Nitrous Bottle
+0x0035922B : Direct Port Nitrous Kit
+0x0035922C : Nitrous Pressure Controller
+0x0035922D : 20 lb Nitrous Bottle
+0x00421A31 : INTRAX
+0x004236A1 : Nissan 240 SX
+0x00A97903 : Mazda RX-8
+0x00CBC057 : Pontiac GTO
+0x00CBC058 : Inferno Vinyl
+0x00CBC059 : Rotor4 Vinyl
+0x00CBC05A : BBS RX Wheels
+0x00CBC05B : Los Colibris Vinyl
+0x00CBC05C : BBS CH Wheels
+0x00CBC05D : BBS LM Wheels
+0x00CBC05E : Toyota MR2
+0x00CBC05F : Mooo! Vinyl
+0x00CBC077 : Porsche 911 GT3 RS
+0x00E7B059 : PURSUITS
+0x015CC35E : CORVETTE
+0x01613DE0 : Zoom
+0x016A37A9 : Times Played
+0x01FFCD37 : MANAGING CREWS^
+0x022A40C2 : STOCK
+0x022A40C3 : JORGEN
+0x022A40C4 : ROCKER 5
+0x022A40C5 : AIRFORCE
+0x022A40C6 : ARROW
+0x022A40C7 : BARRACUDA
+0x022A40C8 : WILDFIRE
+0x022A40C9 : RIPPER
+0x022A40CA : REAPER
+0x022A40CB : BORRA
+0x02E65097 : Hiding Spot
+0x033C5200 : Infinite Speedbreaker!
+0x0357D9BD : CLUTCHMASTERS
+0x03692BEF : ±µ„„´²³
+0x03FB4741 : KAIZER
+0x041DA334 : NEUSPEED
+0x04236D06 : Motion Blur^
+0x04AD02A9 : CASTROL SYNTEC
+0x04F2417A : ZONE HEAT
+0x057035EC : TURBO
+0x057037B8 : SHIELD
+0x0570387E : TROPHY
+0x057075B6 : RAM
+0x05708C7E : ROCKET
+0x059CBE03 : Reached Online XP Level %d! You have unlocked: %s
+0x062B6051 : PHOENIX
+0x06CF4395 : Rotate Camera
+0x06D55A17 : HUNGARY
+0x0713A2F1 : I didn't expect you to show your face again.
+0x0713A2F2 : Things have changed around here. This place is a battleground now.
+0x0713A2F3 : Tuners
+0x0713A2F4 : Muscles
+0x0713A2F5 : Exotics
+0x0713A2F6 : Crews fightin' for territory in the city.
+0x0713A2F7 : And it all gets settled in the canyon.
+0x0713A2F8 : But you'd never survive it.
+0x0713A2F9 : Yeah. I heard you were back in town. Now I want to hear you're gone.
+0x071EEF3E : Rhino Unlocked For Quick Race!
+0x078E5292 : Event
+0x07BCAF68 : LUNATI
+0x07F0143F : You have been arrested by the Palmont City Police Department, and your car has been given an Impound Strike marker. You can either pay your fines with money or with a Get out of Jail Free card.
+0x0807FAEA : BOSS
+0x08348AEE : *PURSUIT*
+0x0837C1F0 : LOST PASSWORD
+0x083E42B7 : *CONQUERED*
+0x086D96C2 : PURSUITS^
+0x08A9AC8C : Pontiac GTO
+0x08AB7F30 : MATRIX RACING
+0x08FCD29B : DEFENSIVE RACES
+0x09436B7F : YOU FINISHED SIXTEENTH
+0x09A7B1FA : MOROSO
+0x09A89EA0 : MOTEGI
+0x0A38B0BA : Black Edition 1
+0x0A38B0BB : Black Edition 2
+0x0A38B0BC : Black Edition 3
+0x0A3C4B77 : BEAST CF
+0x0A3C4B78 : DOUBLE-V CF
+0x0A3C4B79 : TRI-SLOT CF
+0x0A3C4B7A : SPEED CF
+0x0A3C4B7B : G-FORCE CF
+0x0A3C4B7C : OVERDIAL CF
+0x0A3C4B7D : TRIDENT CF
+0x0A3C4B7E : SPEEDLINE CF
+0x0A3C4B7F : DUAL-STAGE CF
+0x0AA44893 : The Autosave feature can not save your progress because the storage device you selected has been replaced or removed. Do you wish to continue with Autosave on?
+0x0AB39F12 : FT
+0x0AB39FAA : KG
+0x0B05FC52 : Increase your Online XP level to unlock exclusive Cars and visual upgrades! Anytime you play Online you'll get OXP points towards your next level-up. The higher you place in a game, the more OXP you'll get. Reach level 50 to unlock the custom Lotus Europa S!
+0x0B19DBA7 : TWO TONE
+0x0B83E379 : Xbox Guide
+0x0B8AA673 : CARBONO PLAGUE
+0x0B9B97A1 : Need for Speed Carbon
+0x0BE9C967 : Tuning nitrous components for Velocity versus duration allows you to control the volume usage of nitrous.  Tune for velocity to get a shorter burst but larger impact out of your nitrous or tune for duration to get a longer burst with less impact.
+0x0BF8E9AE : In this 2-stage race, earn points by chasing the Lead Racer.^A player who drives off the cliff will lose the race immediately.^Collision Detection is turned off in Online Canyon Duel to make it a pure test of driving skill!
+0x0BF98ED3 : NOLOGY
+0x0C0F132B : STEERING WHEEL
+0x0C24DA54 : MCLAREN
+0x0C989268 : GAME OVER^
+0x0CD1702F : You can jump into any location marked on your world map. This way you can visit Car Dealerships, Safe Houses you have conquered from other Crews, and of course access any track you want to race. You can even do this in middle of Free Roam as long as cops are not chasing you.^
+0x0CF9C3C8 : San Juan
+0x0CF9C3C9 : Kempton
+0x0CF9C3CA : Downtown
+0x0CF9C3CB : Fortuna
+0x0CF9C3CC : Silverton
+0x0CF9C3CD : Canyon
+0x0D0763BC : CAR TIERS
+0x0D64776A : WINDOW TINT
+0x0D8500C3 : CUSTOM
+0x0DC6C9CC : REWARD CARDS GAINED
+0x0E0204F4 : Done
+0x0E3EA020 : TYPHOON CF DUAL
+0x0ED96883 : TWO TONE
+0x0F02B521 : DYNAMIC PURSUIT BREAKERS^
+0x0F13F663 : Check your map to see how much cop activity each zone has. The more you race in any given area, the more likely it is that you will be chased in the middle of the race there. The more you race in any given zone, the more cops will start patrolling there. To let the Heat cool down, avoid racing in that zone for a while.
+0x0F87AA86 : PORSCHE
+0x0FA174B5 : Number of Infractions
+0x0FBA4DF0 : BLASTBACK DUAL
+0x0FD9AC15 : Need some new crew?
+0x0FF46015 : BILSTEIN
+0x0FFBA3C4 : Making Your Name
+0x0FFBA3C5 : Street Racer
+0x0FFBA3C6 : Road to Victory
+0x0FFBA3C7 : Makin' Money
+0x0FFBA3C8 : Stash
+0x0FFBA3C9 : Speed Freak
+0x0FFBA3CA : Cannonball
+0x0FFBA3CB : Cuttin' Deals
+0x0FFBA3CC : Speed Demon 
+0x0FFBA3E4 : Getting Noticed
+0x0FFBA3E5 : Getaway
+0x0FFBA3E6 : Escape Artist
+0x0FFBA3E7 : Vandal
+0x0FFBA3E8 : Quick Exit
+0x0FFBA3E9 : 8 Minute Exit
+0x0FFBA3EA : 12 Minute Exit 
+0x0FFBA3EB : A New Challenger
+0x0FFBA3EC : Challenge Novice
+0x0FFBA3ED : Challenge Journeyman 
+0x0FFBA405 : Challenge Champion
+0x0FFBA406 : 1/4 Mile
+0x0FFBA407 : Iron Wall 
+0x0FFBA408 : Urban Battle
+0x0FFBA409 : Small Car Lot
+0x0FFBA40A : Arcade Level 1
+0x0FFBA40B : Arcade Level 2
+0x0FFBA40C : Arcade Level 3
+0x0FFBA40D : Arcade Level 4 
+0x0FFBA40E : Rivals
+0x0FFBA426 : Baiter
+0x0FFBA427 : Fabricator
+0x0FFBA428 : Stone Wheels
+0x0FFBA429 : Time Shift
+0x0FFBA42A : 20K Bill
+0x0FFBA42B : Drift Novice
+0x0FFBA42C : Wrecking Ball 
+0x0FFBA42D : Big Bucks 
+0x0FFBA42E : All Your Base 
+0x0FFBA42F : Canyon Conqueror 
+0x0FFBA447 : Consolation Award
+0x0FFBA448 : Defender
+0x0FFBA449 : Career Mogul
+0x0FFBA44A : Fender Bender
+0x0FFBA44B : Reckless
+0x0FFBA44C : Brake For No One
+0x0FFBA44D : Public Enemy No. 1 
+0x0FFBA44E : 50 Tracks 
+0x0FFBA44F : 85 Tracks 
+0x0FFBA450 : Need for Speed
+0x0FFBA468 : Unblockable 
+0x0FFBA469 : Street Legend
+0x0FFBA46A : Untouchable
+0x0FFBA46B : Houdini 
+0x0FFBA46C : Block Breaker
+0x0FFBA46D : Iron Tires 
+0x0FFBA46E : Battering Ram
+0x0FFBA46F : Drifter
+0x0FFBA470 : 3 Rides
+0x0FFBA471 : 20K Bounty
+0x0FFBA489 : 50K Bounty 
+0x0FFBA48A : Big Game Hunter 
+0x0FFBA48B : Bronze Medal
+0x0FFBA48C : Silver Medal 
+0x0FFBA48D : Gold Medal
+0x0FFBA48E : Free Ride
+0x0FFBA48F : Diamond Tires
+0x0FFBA490 : Burnt Rubber
+0x0FFBA491 : 5 Rides 
+0x0FFBA492 : Full House 
+0x0FFBA4AA : Muscle Head 
+0x0FFBA4AB : Tuner Addict 
+0x0FFBA4AC : Exotic Aficionado 
+0x0FFBA4AD : Troublemaker
+0x0FFBA4AE : Big Biz 
+0x0FFBA4AF : Wheels of Steel 
+0x0FFBA4B0 : Drift Pro 
+0x0FFBA4B1 : Large Car Lot
+0x0FFBA4B2 : 8 Rides
+0x0FFBA4B3 : Challenge Master
+0x0FFBA4CB : Crime Spree 
+0x0FFBA4CC : Most Wanted 
+0x0FFBA4CD : Moving Disaster
+0x0FFBA4CE : Fast Wheels
+0x0FFBA4CF : Downtown Turf 
+0x0FFBA4D0 : Number 1 
+0x0FFBA4D1 : Conqueror
+0x0FFBA4D2 : Street King
+0x0FFBA4D3 : Titanium Tires 
+0x0FFBA4D4 : Urban Combat
+0x0FFBA4EC : Urban Warfare
+0x0FFBA4ED : Unstoppable
+0x0FFBA4EE : Crusher
+0x0FFBA4EF : Canyon Run
+0x0FFBA4F0 : Wolfshead 
+0x0FFBA4F1 : Leader of the Pack 
+0x0FFBA4F2 : Collector
+0x0FFBA4F3 : First Blood
+0x0FFBA4F4 : 100K
+0x0FFBA4F5 : Hard Time
+0x0FFBA804 : Drift King
+0x0FFBA805 : Head-to-head
+0x0FFBA806 : Sprinter
+0x0FFBA807 : Downhill Dynamo
+0x10660FC3 : SCORPION
+0x106FD18B : Fourth
+0x11124417 : abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*()_-=+;:/?\><,.""'{}[]§©®
+0x1135ADDD : ROTATE
+0x117A7405 : Engage Event
+0x119B927A : CAMO 1
+0x11EF4C2D : Infinite Crew Charge!
+0x120F7691 : AIRSTREAM DUAL
+0x121C35D1 : Length
+0x127EDD23 : Performance Info
+0x12D21853 : BLASTBACK CF
+0x12D2A4B4 : AIRSTREAM CF
+0x12D449D7 : CYCLONE CF
+0x12D4D638 : TEMPEST CF
+0x12D5EEFA : BACKDRAFT CF
+0x12D67B5B : TYPHOON CF
+0x135F79D6 : QUAIFE
+0x136E857F : UNLOCALIZED
+0x1375825B : DRAFTER
+0x13E43D36 : Meet me at Safe House
+0x140DA5F5 : IN PURSUIT
+0x1412E444 : CENTERLINE
+0x145F4F37 : DODGE
+0x14A26F11 : Tips
+0x14AB262B : [FOR REFERENCE, RICH PRESENCE] Ranked
+0x14C23C38 : FIDANZA
+0x14DCAF21 : You already have 10 saved Photos. Would you like to overwrite your first saved Photo?
+0x14FA043A : I-FORGED
+0x150A7305 : FE Music Volume
+0x1517BD14 : YOKOHAMA
+0x1554303E :  STRIPE 1
+0x1554303F : STRIPE 2
+0x15543040 : STRIPE 3
+0x15543041 : STRIPE 4
+0x15543042 : STRIPE 5
+0x15543043 : STRIPE 6
+0x15543044 : STRIPE 7
+0x15543045 : STRIPE 8
+0x15543046 : STRIPE 9
+0x1554305E : STRIPE 10
+0x1554305F : STRIPE 11
+0x15543060 : STRIPE 12
+0x15543061 : STRIPE 13
+0x15543062 : STRIPE 14
+0x15543063 : STRIPE 15
+0x15543064 : STRIPE 16
+0x15543065 : STRIPE 17
+0x15543066 : STRIPE 18
+0x15543067 : STRIPE 19
+0x1554307F : STRIPE 20
+0x15543080 : STRIPE 21
+0x15543081 : STRIPE 22
+0x15543082 : STRIPE 23
+0x15543083 : STRIPE 24
+0x15543084 : STRIPE 25
+0x15543085 : STRIPE 26
+0x15543086 : STRIPE 27
+0x15543087 : STRIPE 28
+0x155AF3EC : UNLOCKS ACHIEVED:
+0x1596626D : This is your only car. Come back once you have more than one.
+0x159D2F37 : Accept
+0x15AD6472 : Sequential
+0x15BFEEF8 : ONLINE PLAYER STATS
+0x15DD4EE5 : STOPTECH
+0x171471B4 : NEXT LANDMARK:
+0x175FE379 : SKUNK2 RACING
+0x176D93E7 : Watch for the Car Dealership and Race icons, when you are driving through the world in Free Roam. These icons give you access to the Car Dealerships and Races. Once you are near an icon, the engage system activates, and can be seen in the top left of your screen.^
+0x17808876 : STILLEN
+0x17AF7683 : SPARCO
+0x17B4BC91 : CHALLENGE INCOMPLETE
+0x17EECE57 : LOWERING HEAT
+0x1853F612 : Uploading Photo to NeedforSpeed.com
+0x186AAECC : Press START to begin
+0x189674C3 : Drive the entire highway before time runs out.
+0x189674C4 : Complete the East meets West Checkpoint Challenge in under 3:10 to win.
+0x189674C5 : Make it around the city before time runs out.
+0x189674DD : Win a Race Wars on Highway 142 Circuit against easy opposition.
+0x189674DE : Win a Race Wars on Garcia Street Circuit against intermediate opposition.
+0x189674DF : Win a Race Wars on Route 21 Circuit against hard opposition.
+0x189674E0 : Disable at least %s police vehicles and evade the pursuit to win.
+0x189674E1 : Evade the police pursuit after at least %s minutes at Heat Level 7 to win.
+0x189674E2 : Disable at least %s police Rhino SUV and evade the pursuit to win.
+0x1899E66C : Total Time
+0x18F640F8 : BUSHIDO
+0x190EF074 : CYCLONE DUAL
+0x1922DFD4 : REAR BIAS
+0x1922DFD5 : FRONT BIAS
+0x19240266 : Joker Autosculpt Spoiler
+0x19240267 : 5Zigen Gravis 1 Wheels
+0x19240269 : Dynamo CF Spoiler
+0x1924026B : Volk GT-P Wheels
+0x1924026C : Dynamo Autosculpt Spoiler
+0x1924026D : O.Z. Superturismo Wheels
+0x1924026E : Joker Autosculpt CF Spoiler
+0x19240287 : Dynamo Autosculpt CF Spoiler
+0x19240288 : Tenzo Psycho Wheels
+0x19240289 : Kings Bonus Vinyl
+0x1924028A : Pulse Exhaust
+0x1924028B : Phoenix CF Spoiler
+0x1924028D : Tenzo Shu 10 Wheels
+0x1924028E : Volk CE28 Wheels
+0x1924028F : Black Hearts Bonus Vinyl
+0x19240290 : Volk TE37 Wheels
+0x192402A9 : Velocity Exhaust
+0x192402AA : Tenzo RS-5 Wheels
+0x192402AB : 5Zigen FN01R Wheels
+0x192402AD : Phoenix Autosculpt Spoiler
+0x192402AE : O.Z. Opera Wheels
+0x192402B0 : Scorpios Bonus Vinyl
+0x192402C9 : Phoenix Autosculpt CF Spoiler
+0x192402CB : ADR Sokudo8 Wheels
+0x192402CD : Tartan Bonus Vinyl
+0x192402D0 : Work Euroline S2H Wheels
+0x192402EA : Lotus Europa S
+0x1925F756 : Need for Speed (TM) Carbon
+0x192613E9 : Need for Speed Carbon
+0x193548EC : A
+0x1944D61D : TENZO R
+0x195D4136 : CASTROL SYNTEC BLEND
+0x195F04B8 : CRASHED!
+0x19EEB388 : th
+0x1A294DAD : Cancel
+0x1AC91191 : You can change the sensitivity of the Steering in the Controller Config screen of the Options Menu.
+0x1AF8F154 : STOCK
+0x1B04C248 : Shadow
+0x1B641915 : TEMPEST DUAL
+0x1B963F42 : Custom
+0x1BAD0AEA : B&M
+0x1BAD0BB3 : HP
+0x1BAD0BB5 : H&R
+0x1BAD0BF1 : JL AUDIO
+0x1BAD0C14 : K&N
+0x1BAD0C81 : NITROUS EXPRESS
+0x1BAD0CA4 : OZ RACING
+0x1BAD0DC6 : XS ENGINEERING
+0x1BD213F8 : Canyon Drift
+0x1BF81C4B : 800x600
+0x1BF95F78 : DYNAMIC PURSUIT BREAKERS^
+0x1C074E14 : TIME BONUS!
+0x1C1DBF91 : RIVAL CREW CHALLENGE!
+0x1C442B53 : CASTROL
+0x1CB84707 : th
+0x1CBBF110 : Resolution
+0x1CBEBFFE : Chris
+0x1CC2DB44 : Shelby GT500
+0x1CC5C9FA : Delete
+0x1D21F04D : Save Prompts
+0x1D5D51A3 : KNOCKOUT FEVER
+0x1D5FEC5E : RACINGHART
+0x1D9E9728 : YOU FINISHED EIGHTEENTH
+0x1DA9A145 : Toyota MR2
+0x1DE0CFF5 : Increase Strikes
+0x1DF5E6AF : TFK
+0x1E726D2A : Time of Night
+0x1E79D872 : APEXI
+0x1E7B4633 : Options
+0x1E80D2D0 : View Territory
+0x1E832805 : Vauxhall Monaro VXR
+0x1E8B9A4B : BORLA
+0x1EC138C7 : ENKEI
+0x1EC5646D : Send Photo To NeedforSpeed.com
+0x1EE7B1A4 : Need for Speed Carbono
+0x1EF6AEEE : Carbono ST-5 Autosculpt Rims
+0x1F09968F : INJEN
+0x1F13E89F : Nikki
+0x1F2E6573 : KÖNIG
+0x1F31AB5F : KUMHO
+0x1F489CA0 : YOU FINISHED FIFTEENTH
+0x1F70F385 : PINSTRIPE 1
+0x1F70F386 : PINSTRIPE 2
+0x1F70F387 : PINSTRIPE 3
+0x1F70F388 : PINSTRIPE 4
+0x1F70F389 : PINSTRIPE 5
+0x1F70F38A : PINSTRIPE 6
+0x1F70F38B : PINSTRIPE 7
+0x1F70F38C : PINSTRIPE 8
+0x1F70F38D : PINSTRIPE 9
+0x1F70F3A5 : PINSTRIPE 10
+0x1F70F3A6 : PINSTRIPE 11
+0x1F8C82E7 : PINSTRIPE
+0x1FE663D7 : MAGNAFLOW
+0x1FEFF800 : VENOM
+0x2003F099 : PERFORMANCE^
+0x200E6A57 : BACKDRAFT DUAL
+0x2015432E : Record
+0x201FFF34 : UNLOCK:
+0x20412793 : WEIAND
+0x20894839 : CERAMICOOL
+0x2102D463 : Loading %1. Please don't turn off your Xbox console.
+0x21091E6C : INFINITI
+0x212213C6 : NEVILLE
+0x212A3596 : Low
+0x214A4E24 : NEVILLE
+0x21691140 : Nikki
+0x21A8290F : NFS Carbon Exclusive
+0x21A82911 : Part 2 Feat. Fallacy
+0x2228A85D : TRIBAL
+0x222B2F7E : 5 Zigen
+0x222B2F7F : ABS Dynamics
+0x222B2F80 : AC Autotechnic
+0x222B2F81 : ACT
+0x222B2F82 : ADR Wheels
+0x222B2F83 : AEM
+0x222B2F84 : Alpine
+0x222B2F85 : American Racing
+0x222B2F86 : Apex Springs
+0x225D16E7 : CORAL
+0x226392F8 : TYPHOON DUAL
+0x2269C5AA : DEVIL
+0x22796D34 : EAGLE
+0x228D11BB : INFERNO
+0x2294F6BD : FABRICATOR
+0x22AD5D36 : Plymouth Road Runner
+0x22B1CF8A : HEART
+0x22F21AC5 : Save successful.
+0x2319C39B : View Ownership
+0x23537327 : *BUSTED*
+0x2368535A : Quick List
+0x236C443C : ROBOT
+0x237A822F : SHARK
+0x237C7BA1 : SKULL
+0x2388DD82 : PEARL BLACK
+0x238D3EF1 : TIGER
+0x2390B7B6 : TORCH
+0x23B18DBB : VINES
+0x23B1963C : VIPER
+0x23E6B396 : PEARL GREEN
+0x23F8901E : SOUTH KOREA
+0x240E81BA : CREW USE- SCOUT
+0x2414DE28 : MY CARS
+0x241555B2 : NFS Carbono Exclusive
+0x242F13FD : You did it!
+0x2432F9AE : Cash
+0x2435C651 : Heat
+0x2437E8BF : Laps
+0x244C66E4 : *VINYL*
+0x2456CB3D : Your ride has been busted one too many times. The cops have Impounded the car, off to the wrecker it goes! I hope you have another car.
+0x24BDCB89 : *PERFORMANCE*
+0x24D57B0A : POWERSLOT
+0x24E0064F : Unranked
+0x24F0A19F : CREW INFO
+0x2613DE62 : Split screen Co-op
+0x2629E9C1 : Hi, I'm Emmanuelle Vaugier.
+0x2629E9C2 : The moves that you and your crew do in the game are meant to stay in the game.
+0x2629E9C3 : In the real world, drive safe, obey the laws of the road and always wear your seatbelt.
+0x2676DCCC : To have a break from the Career, you can try to beat the Bronze, Silver and Gold challenges in the Challenge Series. Each Gold challenge unlocks a cool customization item to use in your Career or My Cars.
+0x268B0366 : Your selected storage device has been removed or replaced. A storage device is required before game progress and personal settings can be saved.
+0x26BFA335 : NEVILLE
+0x26E5146B : DEACTIVATE NOW^Press Activate Wingman Button
+0x26F7FB49 : Skills
+0x2745AB04 : Fifth
+0x2745DDFB : First
+0x27607649 : 1024x768
+0x27885DA4 : BLACK
+0x2816BF20 : Far
+0x281C4C1D : STREETSPIN
+0x28201E0F : Collision Detection
+0x2821D8C9 : SAMSON
+0x28313623 : Sixth
+0x2839A51E : Cops
+0x2842822E : Third
+0x2873752A : 21st STREET
+0x28C09CCB : STOCK
+0x28D56004 : High
+0x28F8E3F1 : NFS CARBONO 1
+0x29021F46 : NFS CARBONO 3
+0x290252E8 : WHITE
+0x297072B3 : Safe House
+0x297C9C74 : PLYMOUTH®
+0x29B1A3E5 : SPC
+0x29C3DAA0 : SHAPE 1
+0x29C3DAA1 : SHAPE 2
+0x29C3DAA2 : SHAPE 3
+0x29C3DAA3 : SHAPE 4
+0x29C3DAA4 : SHAPE 5
+0x29C3DAA5 : SHAPE 6
+0x29C3DAA6 : SHAPE 7
+0x29C3DAA7 : SHAPE 8
+0x29C3DAA8 : SHAPE 9
+0x29C3DAC0 : SHAPE 10
+0x29C3DAC1 : SHAPE 11
+0x29C3DAC2 : SHAPE 12
+0x29C3DAC3 : SHAPE 13
+0x29C3DAC4 : SHAPE 14
+0x29C3DAC5 : SHAPE 15
+0x29C3DAC6 : SHAPE 16
+0x29C3DAC7 : SHAPE 17
+0x29C3DAC8 : SHAPE 18
+0x29C3DAC9 : SHAPE 19
+0x29C3DAE1 : SHAPE 20
+0x29C3DAE2 : SHAPE 21
+0x29C3DAE3 : SHAPE 22
+0x29C3DAE4 : SHAPE 23
+0x29C3DAE5 : SHAPE 24
+0x29C3DAE6 : SHAPE 25
+0x29C3DAE7 : SHAPE 26
+0x29C3DAE8 : SHAPE 27
+0x29C3DAE9 : SHAPE 28
+0x29C3DAEA : SHAPE 29
+0x29C3DB02 : SHAPE 30
+0x29D06E7B : STOCK
+0x29D06E7C : STOCK
+0x2A157251 : Value
+0x2A1C91C0 : Toyota Corolla GTS
+0x2A39A90B : In-game Music Volume
+0x2A40305C : Set Colors
+0x2A96B82E : Metric
+0x2AAE5F37 : Lotus Europa S
+0x2AB5EB0D : DCSPORTS
+0x2AEFF751 : Hood
+0x2B1A5DEE : Enkei
+0x2B6CEB05 : Infractions
+0x2B878A9A : König
+0x2B997EC9 : Pharrell Vinyl Unlocked!
+0x2C437B40 : Reward Unlocked
+0x2C663A64 : Showcase
+0x2CB29B6A : TWO TONE
+0x2CC937F4 : Heat Magnet
+0x2D35EC4D : ZONE HEAT^
+0x2D3F4EDC : BUTLER
+0x2D3F4EDD : WICKED
+0x2D3F4EDE : VANCE
+0x2D3F4EDF : BOYD
+0x2D3F4EE0 : DEUCE 66
+0x2D3F4EE1 : SNOWMAN
+0x2D3F4EE2 : BIGGIE
+0x2D3F4EE3 : ATOMIC
+0x2D3F4EE4 : ELTON
+0x2D3F4EE5 : LABRUNE
+0x2D3F4EFD : SNAP
+0x2D3F4EFE : REACTIVE
+0x2D3F4EFF : SP33DY
+0x2D3F4F00 : CHARLIE
+0x2D3F4F01 : LADY DEE
+0x2D3F4F02 : CHUNG
+0x2D3F4F03 : TYLER
+0x2D3F4F04 : GEARS
+0x2D3F4F05 : MACCA
+0x2D3F4F06 : GRIFFIN
+0x2D3F4F1E : CAMEO
+0x2D3F4F1F : TRIPLE S
+0x2D3F4F20 : FLARE
+0x2D3F4F21 : TWIGG
+0x2D3F4F22 : LIL TIMMY
+0x2D3F4F23 : BOOSTER
+0x2D3F4F24 : JENSEN
+0x2D3F4F25 : PERP
+0x2D3F4F26 : LUNATIC
+0x2D3F4F27 : LIGHTNING
+0x2D3F4F3F : SHORTSHIFT
+0x2D3F4F40 : PREZ
+0x2D3F4F41 : CHROMATIC
+0x2D3F4F42 : MIMI
+0x2D3F4F43 : DRIFTWAGON
+0x2D3F4F44 : CLOSER
+0x2D3F4F45 : KELLY
+0x2D3F4F46 : LUCKY13
+0x2D3F4F47 : RUSTY
+0x2D3F4F48 : PRANKSTA
+0x2D3F4F60 : BUMPSTICK
+0x2D3F4F61 : STICKLER
+0x2D3F4F62 : BRNR
+0x2D3F4F63 : TACO
+0x2D3F4F64 : SHYSEVEN
+0x2D3F4F65 : GEARED
+0x2D3F4F66 : STOMPER
+0x2D3F4F67 : HAN
+0x2D3F4F68 : HONG
+0x2D3F4F69 : STALLION
+0x2D3F4F81 : INEZ
+0x2D3F4F82 : SERUM
+0x2D3F4F83 : MABEC
+0x2D3F4F84 : CRANE
+0x2D3F4F85 : DEELUX
+0x2D3F4F86 : SQUEAL
+0x2D3F4F87 : FROGG
+0x2D3F4F88 : ASPHALT
+0x2D3F4F89 : CRIKET
+0x2D3F4F8A : MUPTON
+0x2D3F4FA2 : ZEPPELIN
+0x2D3F4FA3 : BIG MO
+0x2D3F4FA4 : LARS
+0x2D3F4FA5 : LESKY
+0x2D3F4FA6 : WYLE
+0x2D3F4FA7 : WATSON
+0x2D3F4FA8 : CAL
+0x2D3F4FA9 : BAKER
+0x2D3F4FAA : TINKER
+0x2D3F4FAB : LEIGH
+0x2D3F4FC3 : ANDERSON
+0x2D3F4FC4 : LI
+0x2D3F4FC5 : HUNTER
+0x2D3F4FC6 : MIDGET
+0x2D3F4FC7 : BENNY
+0x2D3F4FC8 : ROTH
+0x2D3F4FC9 : SMITH
+0x2D3F4FCA : BURRELL
+0x2D3F4FCB : ZULU
+0x2D3F4FCC : COLEMAN
+0x2D3F4FE4 : GARDI
+0x2D3F4FE5 : VERBAL
+0x2D3F4FE6 : KAMBEITZ
+0x2D3F4FE7 : LYON
+0x2D3F4FE8 : POTTER
+0x2D3F4FE9 : ROBERTS
+0x2D3F4FEA : SPENCER
+0x2D3F4FEB : VERSHININ
+0x2D3F4FEC : RASMUSSEN
+0x2D3F4FED : BRAMAGE
+0x2D3F5005 : PIXXI
+0x2D3F5006 : SIOJO
+0x2D3F5007 : TIPLER
+0x2D3F5008 : DONK
+0x2D3F5009 : WASSERMAN
+0x2D3F500A : WIEBE
+0x2D3F500B : MIRANDA
+0x2D3F500C : ELIEZER
+0x2D3F500D : MYRON
+0x2D3F500E : ALAN
+0x2D3F531D : FRANCIS
+0x2D3F531E : BEARCHILD
+0x2D3F531F : GLUE
+0x2D3F5320 : SNYPER
+0x2D3F5321 : PATRICK
+0x2D3F5322 : PHIL
+0x2D3F5323 : BLACKROCK
+0x2D3F5324 : PLAYA
+0x2D3F5325 : CEEJAY
+0x2D3F5326 : REDLINE
+0x2D3F533E : RICKY
+0x2D3F533F : ROBERT
+0x2D3F5340 : ROBIN
+0x2D3F5341 : ROGER
+0x2D3F5342 : RONNIE
+0x2D3F5343 : DANABU
+0x2D3F5344 : ROSCOE
+0x2D3F5345 : HIGHROLLER
+0x2D3F5346 : SAMMIE
+0x2D3F5347 : SANTOS
+0x2D3F535F : SEAN
+0x2D3F5360 : WHEELZ
+0x2D3F5361 : THRUST
+0x2D3F5362 : KIERAN
+0x2D3F5363 : SIMON
+0x2D3F5364 : SKYE
+0x2D3F5365 : SMOKESHOW
+0x2D3F5366 : MANGO
+0x2D3F5367 : STUART
+0x2D3F5368 : PUDDIN
+0x2D3F5380 : LOWBALL
+0x2D3F5381 : SUSHI
+0x2D3F5382 : TOMMY
+0x2D3F5383 : TYSON
+0x2D3F5384 : KIRBY
+0x2D3F5385 : DIZZY
+0x2D3F5386 : 71KUSTOM
+0x2D3F5387 : SNAIL
+0x2D3F5388 : ALICE
+0x2D3F5389 : KILLA
+0x2D3F53A1 : BULLET
+0x2D3F53A2 : VINCENT
+0x2D3F53A3 : MAX
+0x2D3F53A4 : CHAN
+0x2D3F53A5 : BRUNO
+0x2D3F53A6 : SHOICHI
+0x2D3F53A7 : MICHELLE
+0x2D3F53A8 : GUNTHER
+0x2D3F53A9 : VARGAS
+0x2D3F53AA : FRANKIE
+0x2D3F53C2 : SKAN
+0x2D3F53C3 : MALICE
+0x2D3F53C4 : ERROL
+0x2D3F53C5 : LONNY
+0x2D3F53C6 : ASTRAL
+0x2D3F53C7 : DEENEN
+0x2D3F53C8 : FREDREICH
+0x2D3F53C9 : SHINGO
+0x2D3F53CA : TAKESHI
+0x2D3F53CB : SAORI
+0x2D3F53E3 : ANAMORI
+0x2D3F53E4 : HAYATO
+0x2D3F53E5 : ARMANDO
+0x2D676404 : Name
+0x2D74637E : Please reconnect the controller to controller port %d and press START to continue.^
+0x2D982DC6 : AUDIOBAHN
+0x2DB1E78F : Mechanic
+0x2DD40207 : [FOR REFERENCE, RICH PRESENCE] Crew
+0x2DDCBC33 : [FOR REFERENCE, RICH PRESENCE] Solo
+0x2E04004F : Second
+0x2E472CBD : Rep:
+0x2EBBBF1C : Gold
+0x2EF1F9AB : WINDOW TINT
+0x2F4068E7 : Infinite Nitrous!
+0x2F52325D : Gamer Profile
+0x2F926D43 : TOP SPEED
+0x2FBE422E : This is the Territory Map screen. ^^From here you can see which Crew owns each region in Palmont City. ^Races that you can compete in are shown as stars. ^Safe Houses and Car Dealerships are dotted through each region on the map.
+0x3012701C : Are you sure you want to save this Photo?
+0x304EC760 : MANAGING CREWS
+0x308FC44B : CHINA
+0x30B321B3 : *PURSUIT REWARDS*
+0x30ED2368 : Are you sure you want to quit the game?^All unsaved data will be lost.
+0x3102C9AB : ITALY
+0x310AB552 : JAPAN
+0x310F5805 : *INTERFACE*
+0x3124841A : KOREA
+0x3134DC0E : Conquered Event
+0x3158FEF7 : ASTRONAUT
+0x317D3005 : Manual
+0x317EFB1F : POV Right
+0x31AB6B65 : Reply
+0x31ADB0C8 : SHDW
+0x31B58CC3 : SPAIN
+0x31BFE5C8 : Medium
+0x31C342C3 : *PLAYER STATS*
+0x31CA694D : STREET PACKAGE
+0x31CA694E : PRO PACKAGE
+0x31CA694F : RACE PACKAGE
+0x31CD286F : [FOR REFERENCE, ACHIEVEMENT] The Carbono Plague
+0x31FD1C40 : WILWOOD
+0x32CAC57B : *SIGN IN*
+0x32D6A663 : Win 5 Career Race
+0x3318FF4A : SCORPIOS
+0x333D693B : STOCK 2
+0x333D693C : STOCK 3
+0x340DB537 : CROSS SELL
+0x34234472 : OTHER CREWS
+0x34595881 : ACQUIRING NEW RIDES
+0x348ED9F2 : STOCK
+0x3490A46C : STRIPE BODY 1
+0x3490A46D : STRIPE BODY 2
+0x3490A46E : STRIPE BODY 3
+0x3490A46F : STRIPE BODY 4
+0x3490A470 : STRIPE BODY 5
+0x3490A471 : STRIPE BODY 6
+0x3490A472 : STRIPE BODY 7
+0x3490A473 : STRIPE BODY 8
+0x3490A474 : STRIPE BODY 9
+0x3490A48C : STRIPE BODY 10
+0x3490A48D : STRIPE BODY 11
+0x3490A48E : STRIPE BODY 12
+0x34A5F223 : CLARION
+0x34B8EA85 : Vinyl Color
+0x35063D8A : STOCK
+0x35063D8B : BODY 1
+0x35063D8C : BODY 2
+0x35063D8D : BODY 3
+0x35063D8E : BODY 4
+0x35063D8F : BODY 5
+0x354289B2 : You have been arrested by the Palmont City Police Department, and your car has been given an Impound strike marker. You can either pay your fines with money or with a Get out of Jail Card.
+0x356457BE : ESRB NOTICE: Game experience may change during Online play.
+0x356E328C : *%s WON*
+0x35790C16 : PORTUGAL
+0x358F0FC5 : Bilinear 
+0x35D009BB : Hanno
+0x3609C4D6 : Speedbreaker allows you to momentarily slow time and pull off some cool moves in tight spots. Use the Speedbreaker to ram cop vehicles or maintain control of the car through extreme situations.^
+0x363C9CB1 : BUBBLES
+0x3708F8A6 : STOCK
+0x373C94CD : You can only have a maximum of three Crew, so make sure you only keep those drivers around that benefit you the most. Check out the Crew screen at your Safe House to see who is available to you.^
+0x37509CEC : Your Photo was successfully sent to NeedforSpeed.com. 
+0x3756659E : Cost
+0x376C3B1B : Would you like to pay 1000 to reduce the heat on this car?
+0x37805BE4 : Autozone Vinyl Unlocked!
+0x378867C1 : ASTON MARTIN
+0x378A6A16 : Low
+0x3802E23F : FLAMES
+0x380E997D : Click to Continue
+0x381B2A32 : TIME'S UP!
+0x3825325C : Larry^
+0x3853F71F : You have been disconnected from the current game because your loading time was too long.
+0x3863E9A2 : CREW USE- DRAFTER
+0x38A054F4 : Mini Map
+0x38B007D8 : *XBOX LIVE*
+0x38D387C4 : Split Time
+0x38DC2764 : UNIVERSITY WAY
+0x38DC2765 : GOLD VALLEY RUN
+0x38DC2766 : UNIVERSITY AVENUE
+0x38DC2767 : SKYLINE AVENUE
+0x38DC2768 : VERONA TUNNEL
+0x38DC2769 : MILLION DOLLAR DRIVE
+0x38DC276A : NORTH BELLEZZA
+0x38DC276B : LOFTY HEIGHTS DOWNHILL
+0x38DC276C : MOUNT KEMPTON DRIFT
+0x38DC2784 : OCEAN VIEW
+0x38DC2785 : YORK ROAD
+0x38DC2786 : RABINOWITZ DRIVE
+0x38DC2787 : CONDO ROW
+0x38DC2788 : AGOSTINI AVENUE
+0x38DC2789 : HILLS BOROUGH PARKWAY
+0x38DC278A : BEACHFRONT
+0x38DC278B : DOVER AND LEPUS
+0x38DC278C : MORGAN BEACH OFFRAMP
+0x38DC278D : WATERFRONT ROAD
+0x38DC27A5 : FOUNDRY ROAD
+0x38DC27A6 : DOVER STREET
+0x38DC27A7 : KEMPTON DOCKS
+0x38DC27A8 : PETERSBURG DAM
+0x38DC27A9 : STONEWALL TUNNEL
+0x38DC27AA : COPPER RIDGE
+0x38DC27AB : ESKURI WAY
+0x38DC27AC : ESKURI PLAZA
+0x38DC27AD : NEWPORT TRAINYARD
+0x38DC27AE : MISSION STREET
+0x38DC27C6 : DEVIL'S CREEK PASS
+0x38DC27C7 : NORTH ROAD
+0x38DC27C8 : KNIGHT STREET
+0x38DC27C9 : LOOKOUT POINT
+0x38DC27CA : SILK ROAD
+0x38DC27CB : KIMEI TEMPLE
+0x38DC27CC : CHINATOWN TRAM
+0x38DC27CD : MAIN STREET
+0x38DC27CE : LINCOLN BOULEVARD
+0x38DC27CF : PARK DRIVE
+0x38DC27E7 : MASON STREET
+0x38DC27E8 : MASON FOUNTAIN
+0x38DC27E9 : CITY COURTHOUSE
+0x38DC27EA : GARDEN BOULEVARD
+0x38DC27EB : KNIFE'S EDGE
+0x38DC27EC : KINGS PARK
+0x38DC27ED : SAVANNAH STREET
+0x38DC27EE : DEADFALL JUNCTION
+0x38DC27EF : DIAMOND HILLS CHASE
+0x38DC27F0 : NORTH BROADWAY
+0x38DC2808 : TROY
+0x38DC2809 : SILVERTON WAY
+0x38DC280A : LUCKY TOWERS
+0x38DC280B : OLYMPIC BOULEVARD
+0x38DC280C : THE NEON MILE
+0x38DC280D : BLACKWELL ROAD
+0x38DC280E : STARLIGHT STREET
+0x38DC280F : CANMOR ROAD
+0x38DC2810 : BOWEN AVENUE
+0x38DC2811 : SPADE STREET
+0x38DC2829 : PARADISE HOTEL
+0x38DC282A : EAGLE DRIVE
+0x38DC282B : GRAY STREET
+0x38DC282C : DESPERATION RIDGE
+0x38DC282D : SILVERTON PEAK DRIFT
+0x38DC282E : JOURNEYMAN'S BANE
+0x38DC282F : BROOKS STREET
+0x38DC2830 : KENJI BATTLE
+0x38DC2831 : ANGIE'S LAST RESORT
+0x38DC2832 : ENGAGE THE WOLF
+0x38DC284A : ETERNITY PASS
+0x38DC284B : STEYNE AQUEDUCT
+0x38DC284C : SUTHERDEN BELL TOWER
+0x38DC284D : LIBRARY SQUARE
+0x38DC284E : PLATINUM CONDOS
+0x38DC284F : MONTEZUMA AVENUE
+0x38DC2850 : SALAZAR STREET
+0x38DC2851 : MESA BRIDGE
+0x38DC2852 : ROYAL AVENUE
+0x38DC2853 : JOURNEYMAN'S BANE
+0x38DC286B : GOLD VALLEY DUEL
+0x38DC286C : ETERNITY PASS
+0x38DC286D : GOLD VALLEY
+0x38DC286E : COPPER RIDGE
+0x38DC286F : DEADFALL JUNCTION
+0x38DC2870 : ESKURI PLAZA
+0x38DC2871 : RABINOWITZ DRIVE
+0x38DC2872 : BLACKWELL ROAD
+0x38DC2873 : LOFTY HEIGHTS
+0x38DC2874 : KNIFE'S EDGE
+0x38DC288C : DESPERATION RIDGE
+0x38DC288D : GOLD VALLEY DRIFT
+0x38DC288E : KNIFE'S EDGE DRIFT
+0x38DC288F : LOOKOUT POINT DRIFT
+0x38DC2890 : STARLIGHT STRIP ESCAPE
+0x38DC2891 : BEACHFRONT DODGE
+0x38DC2892 : ROUTE 55 GETAWAY
+0x38DC2893 : HILLS BOROUGH HIJINKS
+0x38DC2894 : WYLE CENTER CRACKDOWN
+0x38DC2895 : BRIMSTONE A.P.B.
+0x38DC2BA4 : DOVER STREET
+0x38DC2BA5 : OCEANVIEW
+0x38DC2BA6 : STARLIGHT STREET
+0x38DC2BA7 : CONDO ROW
+0x38DC2BA8 : KINGS PARK
+0x38DC2BA9 : CANMOR ROAD
+0x38DC2BAA : CHINATOWN DRIFT
+0x38DC2BAB : PARK DRIVE DRIFT
+0x38DC2BAC : MAIN STREET DRIFT
+0x38DC2BAD : MILLION DOLLAR RUN
+0x38DC2BC5 : INFINITY PARK
+0x38DC2BC6 : ESKURI WAY
+0x38DC2BC7 : DOWNTOWN
+0x38DC2BC8 : FORTUNA
+0x38DC2BC9 : SILVERTON
+0x38DC2BCA : OLD QUARTER
+0x38DC2BCB : FORTUNA HEIGHTS
+0x38DC2BCC : PALMONT UNIVERSITY
+0x38DC2BCD : STARLIGHT STRIP
+0x38DC2BCE : SHADY PINE
+0x38DC2BE6 : BILLINGS DISTRICT
+0x38DC2BE7 : MASON ST BRIDGE
+0x38DC2BE8 : FRANCIS TUNNEL
+0x38DC2BE9 : BLACKWELL BRIDGE
+0x38DC2BEA : ROBINSON BAY
+0x38DC2BEB : CAMPBELL TUNNEL
+0x38DC2BEC : SOUTH FORTUNA
+0x38DC2BED : AROUND THE WORLD
+0x38DC2BEE : DOWNTOWN TUNNEL
+0x38DC2BEF : HIGHWAY 142
+0x38DC2C07 : HIGHWAY 142
+0x38DC2C08 : GARCIA STREET
+0x38DC2C09 : ROUTE 21
+0x38DC2C0A : PURSUIT PINBALL
+0x38DC2C0B : MASSIVE ESCAPE
+0x38DC2C0C : BIG GAME HUNT
+0x38DC2C0D : INFINITY PARK
+0x38DC2C0E : MORGAN BEACH
+0x38DC2C0F : NEWPORT IRONWORKS
+0x38DC2C10 : SAN JUAN
+0x38DC2C28 : KEMPTON
+0x38DC2C29 : DOWNTOWN
+0x38DC2C2A : FORTUNA
+0x38DC2C2B : SILVERTON
+0x38DC2C2C : SAN JUAN
+0x38DC2C2D : KEMPTON
+0x38DC2C2E : DOWNTOWN
+0x38DC2C2F : FORTUNA
+0x38DC2C30 : SILVERTON
+0x38F2BE1E : STOCK
+0x38F72500 : Audio Mode
+0x3905AF6D : COLIN
+0x393CA814 : Player
+0x39BDFCBC : Need for Speed Carbono Special Logo Vinyls Unlocked!
+0x39C6E5AD : [FOR REFERENCE, ACHIEVEMENT] Catch the Carbono Plague by catching all 3 other viruses
+0x39C96EAE : NIKKI
+0x3A4C75CB : nd
+0x3A7A5AFD : Scott N^
+0x3B3631FB : This is the end of the line
+0x3B4B3C8D : Pursuit Statistics
+0x3B815AA7 : Pull Camera Back
+0x3B81812C : CREDITS
+0x3BD9EB4D : Take Photo
+0x3C11DFAA : Do you want to challenge ANGIE?
+0x3C11DFAB : Do you want to challenge DARIUS?
+0x3C11DFAC : Do you want to challenge KENJI?
+0x3C11DFAD : Do you want to challenge WOLF?
+0x3C4CDC1C : CYCLONE CF DUAL
+0x3C9D6BE9 : If you accumulate 3 Impound Strikes, your ride will be permanently lost. Winning extra Impound Strikes from Boss races will allow you to raise the maximum number of Impound Strikes to 5. If a car without any Impound Strikes left is caught by the cops, you lose it permanently.
+0x3CA2DDB6 : Circuit
+0x3CCF839E : Steve A^
+0x3CF9F877 : STOCK 
+0x3D244152 : PLASMAGLOW
+0x3D333735 : WHEEL
+0x3D6C4706 : BUSTED!
+0x3D704FB4 : Replay
+0x3DB5FD04 : Remove All
+0x3DD6FA51 : MUSCLE
+0x3E25ADEE : NEVILLE
+0x3E2C81E0 : Edit Layer
+0x3E2DCFBD : What would you like to do with this Photo?
+0x3E4BD9EE : WOLFRACE
+0x3ED4F089 : KINGS
+0x3EF303E7 : ALFA ROMEO
+0x3EF968D9 : Porsche 911 Turbo
+0x3F0D8BEA : You can buy new cars at car lots, or win the pink slips from Bosses you defeat. If you don't have enough money, consider selling cars that you are not using in order to raise the cash.^
+0x3F24AC3F : Scott M.^
+0x3F40C31C : Where are you?
+0x3F8F43DE : Anti-Aliasing
+0x3FC32947 : Select
+0x3FEF6B7D : Units
+0x3FF86238 : Zone Heat
+0x40057CDB : Porsche 911 GT3 RS
+0x40601730 : Car Detail
+0x40660C3F : Leaderboard
+0x40E3EB6C : BRAZIL
+0x41536CBA : RIVAL CREW CHALLENGE^
+0x4179D4E0 : Mat^
+0x417B25E4 : No
+0x417B2601 : OK
+0x417B2604 : On
+0x4189B658 : SPIKE STRIPS
+0x41DDBD5C : Update Vinyl
+0x41EAFF94 : ACQUIRING NEW RIDES^
+0x41F02A78 : Scout
+0x420C2960 : CANADA
+0x42468C6E : EXTREME DIMENSIONS
+0x42B203C6 : INVALID GHOST
+0x42CDD8D2 : Zoom In
+0x430C7790 : When you enter the turf of a rival Crew, you sometimes get challenged to a point-to-point race. It's up to you to decide whether you accept these challenges or not.^
+0x4342D430 : YOU FINISHED FIFTH!
+0x43430727 : YOU FINISHED FIRST!
+0x437A122A : BODY KIT
+0x4385B062 : Leader:
+0x43CEFD81 : Kristian^
+0x43F0C138 : Sport Tires
+0x43F0C139 : High Performance Tires
+0x43F0C13A : Racing Tires
+0x442916A0 : Car Class:
+0x442E5F4F : YOU FINISHED SIXTH!
+0x443FAB5A : YOU FINISHED THIRD!
+0x445ABEA6 : Shader Detail
+0x44DC314C : TWO TONE
+0x450DE1EC : CAMO 2
+0x450DE1ED : CAMO 3
+0x450DE1EE : CAMO 4
+0x450DE1EF : CAMO 5
+0x450DE1F0 : CAMO 6
+0x450DE1F1 : CAMO 7
+0x450DE1F2 : CAMO 8
+0x450DE1F3 : CAMO 9
+0x45BBA377 : TWO TONE
+0x45DD28E1 : LOS COLIBRIS
+0x46002CFA : JAPAN TUNING
+0x461B41BF : Change View
+0x46242622 : Steve F^
+0x466E9B84 : High
+0x467322C7 : FIXER
+0x46838B92 : HD Compatible for optimal gaming
+0x472ED857 : WHEEL PAINT
+0x4747C1AE : Avoid Spike Strips at all costs! If you hit one, you lose your tires, and then escaping the cops is almost impossible.
+0x4755E55E : REWARD CARDS
+0x47725953 : GHOST
+0x47725954 : DRAGON
+0x47725955 : SCARAB
+0x47725956 : TANDEM
+0x47725957 : LYNX
+0x47725958 : BANSHEE
+0x47725959 : MYSTIC
+0x4772595A : SPECTER
+0x4772595B : SLINGSHOT
+0x4772595C : TORNADO
+0x47725974 : VENOM
+0x47725975 : SWITCHBLADE
+0x47725976 : SIDEWINDER
+0x47725977 : IMPACT
+0x47725978 : GROUNDMASTER
+0x47725979 : DYNAMO
+0x4772597A : JOKER
+0x4772597B : PHOENIX
+0x4772597C : FISHTAIL
+0x4772597D : VIPER
+0x47725995 : EDGE
+0x4837C9A8 : THERMAL
+0x48794EC3 : Pax^
+0x48A27F03 : DRIFT
+0x48A27F04 : GRIP
+0x48D64518 : NFS CARBONO 2
+0x4929DD1E : HIDING SPOTS^
+0x49544BB1 : NFS CARBONO 4
+0x49629148 : NFS CARBONO 5
+0x49870DB2 : MILES
+0x4990DF28 : TWO TONE
+0x49BC768A : Tuning suspension components for oversteer versus understeer allows you to control how the car enters and exits a turn.  Tune for oversteer to keep the rear end loose while entering corners or tune for understeer to make the front end push while entering corners.
+0x4A009633 : TRIBAL BODY 1
+0x4A009634 : TRIBAL BODY 2
+0x4A009635 : TRIBAL BODY 3
+0x4A009636 : TRIBAL BODY 4
+0x4A009637 : TRIBAL BODY 5
+0x4A009638 : TRIBAL BODY 6
+0x4A009639 : TRIBAL BODY 7
+0x4A00963A : TRIBAL BODY 8
+0x4A00963B : TRIBAL BODY 9
+0x4A009653 : TRIBAL BODY 10
+0x4A009654 : TRIBAL BODY 11
+0x4A009655 : TRIBAL BODY 12
+0x4A1C8866 : ACCELERATION
+0x4A1C8867 : TOP SPEED
+0x4A385A17 : FRANCE
+0x4A95ADBC : The USB wheel has been removed.^Please re-insert the USB wheel into the^USB connector, and press^the START button to continue.
+0x4AA8CCAB : th
+0x4AC26DC8 : Vibration
+0x4ACE7764 : Rod^
+0x4AF8DE6F : Handling Assist (???)
+0x4B0DA4AE : CROSSES
+0x4B22DF6B : Speedbreaker
+0x4B5001A7 : NUMBER OF BUSTS
+0x4B56B98E : AVERAGE SPEED
+0x4B60767F : NITROUS OXIDE
+0x4B6B5CFF : NUMBER 0
+0x4B6B5D00 : NUMBER 1
+0x4B6B5D01 : NUMBER 2
+0x4B6B5D02 : NUMBER 3
+0x4B6B5D03 : NUMBER 4
+0x4B6B5D04 : NUMBER 5
+0x4B6B5D05 : NUMBER 6
+0x4B6B5D06 : NUMBER 7
+0x4B6B5D07 : NUMBER 8
+0x4B6B5D08 : NUMBER 9
+0x4B6F2B7D : Infiniti G35
+0x4B82599D : NIKKI
+0x4BF63913 : The batteries are running low.  Please check the HOME Menu.
+0x4BFC2F2A : SHOWCASE
+0x4C2B3439 : *EA TRAX*
+0x4C3A1DE3 : Unserved Infractions
+0x4C8F8DF3 : GREECE
+0x4C9560B1 : REWARD CARDS^
+0x4CD46553 : .
+0x4CF74A26 : FABRICATOR
+0x4D0DBD34 : SkipFE Race DEBUG
+0x4D1ABFD8 : Clutch
+0x4DD059BE : If you lose the last of your cars and have no spare money to pay your fines, the game ends, and you must start from the beginning.^
+0x4E0672B8 : MECHANIC
+0x4E181B9E : View Heat
+0x4EB61993 : MITSUBISHI
+0x4EC7DA01 : Total Cost
+0x4ECF3CF3 : Picture in Picture
+0x4F0D62F6 : Your territory is under attack!^^If you decide not to defend your turf, the attacking Crew will take it over automatically.
+0x4F2A01D5 : Blocker
+0x4F6B07A0 : RUNNING LOW ON CASH
+0x4F7BEBE4 : Porsche 997s
+0x4F89A305 : Please press Start on\second controller.
+0x4F97419D : Autosave is saving your ALIAS. Are you sure you want to overwrite your existing ALIAS on the memory card (PS2) in MEMORY CARD slot 1? Previously saved information will be lost.
+0x504749D7 : Check out these Online exclusive game modes.^In Pursuit Knockout, the last place racer each lap is turned into a Cop! Score Cop Points by slowing down the remaining Racers.^In Pursuit Tag one player starts as a Racer while the others start as Cops in hot pursuit! Bust the Racer to become the new Racer!
+0x509F8A3E : TIME SPENT AS A RACER
+0x50DB5133 : Skill
+0x50E5B655 : FINLAND
+0x51367C19 : Angie
+0x5148CF6E : Mazda Speed3 Unlocked!
+0x51683148 : Large Diameter Sway Bar Kit
+0x51683149 : Adjustable Racing Shocks
+0x5168314A : Racing Spring Kit
+0x5168314B : Polyurethane Bushing Kit
+0x5168314C : Upper & Lower Tubular Control Arms
+0x5168314D : Traction Bars
+0x5168314E : Engine Torque Damper
+0x5168314F : Adjustable Camber Kit
+0x51683150 : Coil Over Suspension Kit
+0x51AD1B87 : Forged Racing Pistons
+0x51AD1B88 : Forged Racing Crankshaft
+0x51AD1B89 : Race Grind Camshaft
+0x51AD1B8A : Cat-Back Exhaust System
+0x51AD1B8B : High Performance Intake
+0x51AD1B8C : Heat Treated Exhaust Headers
+0x51AD1B8D : High Performance Ignition System
+0x51AD1B8E : High Volume Fuel System
+0x51AD1B8F : Port & Polished Cylinder Heads
+0x51C5BA87 : BLOWN OVER CF
+0x51C5BA88 : SPLITSIDE CF
+0x51C5BA89 : SNYPER CF
+0x51C5BA8A : CHARGED CF
+0x51C5BA8B : CONTENDER CF
+0x51C5BA8C : SHAKER CF
+0x51C5BA8D : FORMULA CF
+0x51C5BA8E : DJM HYDE CF
+0x51C5BA8F : STRIKE CF
+0x51C5BA90 : GT CF
+0x51C5BAA8 : MONGOOSE CF
+0x51C5BAA9 : RALLY CF
+0x51C5BAAA : WEDGE CF
+0x51C5BAAB : CIRCUIT CF
+0x51C5BAAC : BLISTER CF
+0x51C5BAAD : COLIX CF
+0x51C5BAAE : FACTOR X CF
+0x51C5BAAF : TSUNAMI CF
+0x51C5BAB0 : TWISTER CF
+0x51C5BAB1 : FUSION CF
+0x51C5BAC9 : AIROMAX CF
+0x51C5BACA : ERASER CF
+0x51C5BACB : TREMOR CF
+0x51D51BFA : CANYON CRAZE
+0x51DCB491 : Shelby GT500
+0x51EEF762 : %s SET HIGH SCORE
+0x521C5685 : TRIBAL 1
+0x521C5686 : TRIBAL 2
+0x521C5687 : TRIBAL 3
+0x521C5688 : TRIBAL 4
+0x521C5689 : TRIBAL 5
+0x521C568A : TRIBAL 6
+0x521C568B : TRIBAL 7
+0x521C568C : TRIBAL 8
+0x521C568D : TRIBAL 9
+0x521C56A5 : TRIBAL 10
+0x521C56A6 : TRIBAL 11
+0x521C56A7 : TRIBAL 12
+0x521C56A8 : TRIBAL 13
+0x521C56A9 : TRIBAL 14
+0x521C56AA : TRIBAL 15
+0x521C56AB : TRIBAL 16
+0x521C56AC : TRIBAL 17
+0x521C56AD : TRIBAL 18
+0x521C56AE : TRIBAL 19
+0x521C56C6 : TRIBAL 20
+0x521C56C7 : TRIBAL 21
+0x521C56C8 : TRIBAL 22
+0x521C56C9 : TRIBAL 23
+0x521C56CA : TRIBAL 24
+0x521C56CB : TRIBAL 25
+0x523A71D3 : Jump to Event
+0x523D4FF9 : Time to finish this
+0x52951E6F : LOWENHART
+0x529F51B8 : Pause
+0x52DA018E : GAMEPLAY
+0x52E0675A : Pull Camera Back
+0x534866CD : COMP CAMS
+0x538BA4BA : Angie
+0x542083B5 : *SHADOW*
+0x5481F1B5 : LOWERING HEAT^
+0x54DAE031 : You can't afford to pay the fines so the cops took your ride away. Get a real job or stop getting busted (or reload your profile...) 
+0x55090186 : Race Type
+0x5518259D : An error occurred while sending the Photo to NeedforSpeed.com. 
+0x5562BC37 : Right Ctrl
+0x55928640 : Drafter
+0x559863B6 : Photo Mode
+0x55D52539 : Are you sure you want to restart the demo? All race progress will be lost.
+0x55E0CD5B : Wolf
+0x55E7588F : *LAYER MENU*
+0x561A8589 : JETSTREAM CF DUAL
+0x56234642 : EA Messenger
+0x5647E11A : :(
+0x567FAFB6 : *VIDEO*
+0x5685D9AB : STREETGLOW
+0x5699206B : Canyon
+0x56CDBBB9 : POV Down
+0x56D1F20C : POV Left
+0x57198FFF : Defaults
+0x574C4171 : STRIPES
+0x575C4760 : Pagani Zonda F
+0x576EBAF5 : G-RACING
+0x57B07A37 : In a tight pursuit you can get big trucks to drop their cargo on the road to slow down your pursuers.^
+0x57C07DB9 : Limited Slip Differential
+0x57C07DBA : High Performance Pressure Plate
+0x57C07DBB : High Performance Clutch Disc
+0x57C07DBC : Lightweight Flywheel
+0x57C07DBD : High Flow Valve Body
+0x57C07DBE : Transmission Oil Cooling System
+0x57C07DBF : Lightweight Drive Shaft
+0x57C07DC0 : Alloy Racing Axles
+0x57C07DC1 : Short Throw Shift Kit
+0x580E5F4C : UNIQUE 1
+0x580E5F4D : UNIQUE 2
+0x580E5F4E : UNIQUE 3
+0x580E5F4F : UNIQUE 4
+0x580E5F50 : UNIQUE 5
+0x580E5F51 : UNIQUE 6
+0x580E5F52 : UNIQUE 7
+0x580E5F53 : UNIQUE 8
+0x580E5F54 : UNIQUE 9
+0x580E5F6C : UNIQUE 10
+0x580E5F6D : UNIQUE 11
+0x580E5F6E : UNIQUE 12
+0x580E5F6F : Carbon Fiber
+0x5835F5FC : Wolf
+0x5885FBB2 : Slide your car through the corners.
+0x5885FBB3 : Maintain the fastest speed possible.
+0x5885FFF3 : Connect your drifts from one corner to the next.
+0x58860434 : Drift as close to the walls as possible without touching.
+0x58860875 : Hitting the wall ends your drift.
+0x58BBED2A : No cars in list
+0x58EB11F7 : Over Bright
+0x59270F61 : GENTERA
+0x5937E106 : Part ID
+0x597829F8 : TRIBAL
+0x59ADBF6D : MEXICO
+0x59B163BB : F1
+0x59B163BC : F2
+0x59B163BD : F3
+0x59B163BE : F4
+0x59B163BF : F5
+0x59B163C0 : F6
+0x59B163C1 : F7
+0x59B163C2 : F8
+0x59B163C3 : F9
+0x59B165C9 : Up Arrow
+0x59B50D5E : Plasmaglow
+0x59B50D5F : Power Slot
+0x59B50D60 : Quaife
+0x59B50D61 : Racing Hart Wheels
+0x59B50D62 : Random Technology
+0x59B50D63 : Ray's Engineering (Volk)
+0x59B50D64 : REV Hard
+0x59B50D65 : Revo Technik
+0x59B50D66 : Richmond Gears
+0x59B50D67 : RK Sport
+0x59B50D7F : RO_JA Wheels
+0x59B50D80 : ROTA
+0x59B50D81 : Scorpion Exhaust
+0x59B50D82 : Skunk2
+0x59B50D83 : SLP Performance Parts Inc.
+0x59B50D84 : Sparco
+0x59B50D85 : Stillen
+0x59B50D86 : Stop Tech
+0x59B50D87 : Street Glow
+0x59B50D88 : Streetspin
+0x59B50DA0 : TCI
+0x59B50DA1 : Tenzo R
+0x59B50DA2 : Thermal Research & Development
+0x59B50DA3 : TODA
+0x59B50DA4 : Toyo Tires
+0x59B50DA5 : TSW Wheels
+0x59B50DA6 : Turbonetics
+0x59B50DA7 : TYC
+0x59B50DA8 : Unorthodox Racing
+0x59B50DA9 : Venom
+0x59B50DC1 : VIS Racing
+0x59B50DC2 : Weiand
+0x59B50DC3 : Weld Racing
+0x59B50DC4 : Wilwood
+0x59B50DC5 : Wiseco
+0x59B50DC6 : Wolfrace
+0x59B50DC7 : Work Wheels
+0x59B50DC8 : XS Engineering
+0x59B50DC9 : Yokohama
+0x59B50DCA : ZEX
+0x59B50DE2 : NFS  Logo
+0x59B50DE3 : Carbon Logo
+0x59B50DE4 : Manufacturer Logo
+0x5A52723B : Time for some payback
+0x5A70E9D4 : Car Lot
+0x5A73530F : STOCK 
+0x5A8B1E9D : Kenji
+0x5AB7BA6F : WHITE
+0x5AB7BA70 : BLUE
+0x5AB7BA71 : GREEN
+0x5AB7BA72 : RED
+0x5AB7BA73 : YELLOW
+0x5AB7BA74 : ORANGE
+0x5AB7BA75 : PURPLE
+0x5AB7BA76 : PINK
+0x5ABA9360 : Cash:
+0x5ABACEFA : Total Cost:
+0x5AC61CF6 : DARIUS
+0x5AC61CF7 : ANGIE
+0x5AC61CF8 : KENJI
+0x5AC61CF9 : WOLF
+0x5AC61CFA : FOOTY
+0x5AC61CFB : DUTCH
+0x5AC61CFC : STEFAN
+0x5AC61CFD : WES
+0x5AC61CFE : FERAL
+0x5AC61D17 : SARAH
+0x5AC61D18 : SAMSON
+0x5AC61D19 : LIZZY
+0x5AC61D1A : GATEWOOD
+0x5AC61D1B : HECTOR
+0x5AC61D1C : SANTHONY
+0x5AC61D1D : DALLAS
+0x5AC61D1E : FERREIRA
+0x5AC61D38 : YUMI
+0x5AC61D39 : ALI
+0x5AC61D3A : SIREN
+0x5AC61D3B : BAUXI
+0x5AC61D3C : HANZO
+0x5AC61D3D : CHO
+0x5AC61D3E : CLOWN
+0x5AC61D3F : MOON
+0x5AC61D59 : COLIN
+0x5AC61D5A : ILSA
+0x5AC61D5B : LOUIS
+0x5AC61D5C : BLAINE
+0x5AC61D5D : KAISER
+0x5AC61D5E : NIELSEN
+0x5AC61D5F : TUOMAS
+0x5AC61D60 : DEITER
+0x5AC61D7A : TORQ
+0x5AC61D7B : DOC
+0x5AC61D7C : ICEMAN
+0x5AC61D7D : SNIPS
+0x5AC61D7E : BURNE
+0x5AC61D7F : SPIDER
+0x5AC61D80 : MUMBLES
+0x5AC61D81 : ZHANG
+0x5AC61D9B : NESTO
+0x5AC61D9C : LUNA
+0x5AC61D9D : KATIE
+0x5AC61D9E : LOCO
+0x5AC61D9F : STINA
+0x5AC61DA0 : GARCIA
+0x5AC61DA1 : CHITO
+0x5AC61DA2 : RASCAL
+0x5AC61DBC : GREFF
+0x5AC61DBD : MATTY T
+0x5AC61DBE : OTTO
+0x5AC61DBF : GOOSE
+0x5AC61DC0 : SMURRAY
+0x5AC61DC1 : CHONG
+0x5AC61DC2 : SMILEY
+0x5AC61DC3 : PAX
+0x5AC61DDD : ANGELO
+0x5AC61DDE : ROSS
+0x5AC61DDF : DOYLE
+0x5AC61DE0 : PIKA
+0x5AC61DE1 : TREY
+0x5AC61DE2 : MONK
+0x5AC61DE3 : KOOL BOY
+0x5AC61DE4 : TINY EIGHT
+0x5AC61DFE : KWAN
+0x5AC61DFF : DEIRDRE
+0x5AC61E00 : MALLORY
+0x5AC61E01 : SUKI
+0x5AC61E02 : HAWK
+0x5AC61E03 : LIA
+0x5AC61E04 : DISCO
+0x5AC61E05 : BUNNY
+0x5AC61E1F : ALEX
+0x5AC61E20 : GIBSON
+0x5AC61E21 : JOEL
+0x5AC61E22 : TROND
+0x5AC61E23 : SQUEEK
+0x5AC61E24 : LAPIERRE
+0x5AC61E25 : MOLLY
+0x5AC61E26 : STONE
+0x5AC62137 : NIKKI
+0x5AC62138 : NEVILLE
+0x5AC62139 : SAL
+0x5AC6213A : MANIC
+0x5AC6213B : CROSS
+0x5AEEFF34 : TWO TONE
+0x5B29B473 : *DRIFT*
+0x5B4F8216 : Reputation
+0x5B8532F1 : UNIQUE
+0x5B88706D : BLACK HEARTS
+0x5BA04A14 : Race Wars
+0x5BB53BB7 : VAUXHALL
+0x5BDE0AD6 : Drift Race
+0x5C9D9C7A : %s%%
+0x5CD4D81C : BOSS
+0x5CE0473E : Kenji
+0x5CE99E86 : Score
+0x5CFD02BA : Car Reflection Detail
+0x5D4768EB : Best Time
+0x5DCD6563 : FALLING BEHIND!
+0x5DCD7BDB : PASSED!
+0x5DD496D8 : Press the A Button to continue
+0x5E18D044 : COOLDOWN
+0x5E2256C8 : Pursuit Length lasted over %s minutes . Cash reward: %d
+0x5E5D035C : SPIKE STRIPS
+0x5E711F10 : DEFEATED
+0x5EA9F28D : Shift Up
+0x5F31D867 : AUTOSCULPT^
+0x5F356FDF : Darius
+0x5F5DDC27 : Are you sure you would like to sell this car?
+0x5FD263BC : Drift
+0x5FECF29D : Stage 1 Turbocharger
+0x5FECF29E : Air to Air Intercooler
+0x5FECF29F : Manual Boost Controller
+0x5FECF2A0 : Stage 2 Turbocharger
+0x5FECF2A1 : Air to Water Intercooler
+0x5FECF2A2 : Blow Off Valve
+0x5FECF2A3 : Stage 3 Turbocharger
+0x5FECF2A4 : Custom Wastegate
+0x5FECF2A5 : Electronic Boost Controller
+0x5FF3BAC8 : Reward card- %s finished for completing- %s
+0x603DE45C : CHINA
+0x60567FBC : Licensed by Nintendo
+0x606FBFCD : Off
+0x606FBFCE : 2X
+0x606FBFCF : 4X
+0x606FBFD0 : 6X
+0x60790F86 : Rain
+0x60B0E9BC : ITALY
+0x60B8D563 : JAPAN
+0x60EC6793 : VOLKSWAGEN
+0x61279603 : KMS
+0x6127965B : KM/H
+0x61279EDD : MPH
+0x615B7926 : POLAND
+0x6163ACD4 : SPAIN
+0x618A9880 : Darius
+0x61D1C5A5 : Maximum
+0x62389391 : DRAGON CREST
+0x6267947D : JUMPING TO LOCATION
+0x627052FE : I can't believe Darius gave you this car.  
+0x627052FF : Start it up, let's hear it.
+0x62705300 : I think you're ready, I think you're going to blow them away.
+0x62705301 : Don't disappoint.
+0x62705302 : I don't have time for this, you...you know what?  This is...
+0x62705303 : Look, between the heat and the crews, you need to walk away. Take my car. Go, get outta here
+0x62705304 : Hey, guess who's back?
+0x62705305 : I have suspect party in custody. Suspect is code 5 and I'm still code 8. Repeat, code 8 assistance required.
+0x62705306 : Hey! Don't move!
+0x6270531E : Suspect is resisting arrest. 
+0x6270531F : We have a code 8 here. 
+0x62705320 : Get 'em cuffed!
+0x62705321 : Hey, man, between the heat and the crews, you need to walk away. Take my car. Go, get outta here.
+0x6270DF5F : Sit down!!! How ya been? It's time to settle a little score from Rockport. Ya think?
+0x6270DF60 : I don't remember asking for your help, Crock. 
+0x6270DF61 : What makes you think you can bounty hunt in Silverton without my approval?
+0x6270DF62 : It's Cross! This guy's from out of town.
+0x6270DF63 : Been a long time, kid.
+0x6270DF64 : What's his bounty?
+0x6270DF65 : A hundred and fifty K.
+0x6270DF66 : David, take care of this guy.
+0x6270DF67 : So, that's what you been up to.
+0x6270DF7F : ... Nikki.
+0x6270DF80 : This should be interesting.
+0x6270DF81 : How dare you show your face here!!!
+0x6270DF82 : Whoa, whoa, whoa, whoa, Hey...
+0x6270DF83 : Let go of me!!!
+0x6270DF84 : Hey, hey, hey. Control yourself.
+0x6270DF85 : Whoa! Damn! My bad Romeo, my bad. Look, we'll catch up real soon. You have yourself a nice night. (Laughing)
+0x6270DF86 : I still don't know what happened that night you took off. But I do know you into me now for some serious cash. 
+0x6270DF87 : Things have been getting a little too close for comfort around here with all these crews battling for new territory. 
+0x6270DF88 : I think I can use someone with your skills to help me out. The way I see things, I bailed you out of a serious jam twice now.
+0x6270DFA0 : Time for you to return the favor.
+0x6270DFA1 : Nikki. What do you say you show your old friend the ropes?
+0x6270DFA2 : You gotta be joking right?
+0x6270DFA3 : You got a better idea? Let's get him started right away.
+0x6270DFA4 : Don't disappoint. Not again.
+0x6270DFA5 : Thanks for waiting up.
+0x6270DFA6 : Ya ya. sure Nikki. Hey uh, who's the third wheel?
+0x6270DFA7 : Doesn't matter. Darius made all these cars available to you. Pick one, whichever one you want.
+0x6270DFA8 : Hey, if uh...if there's three, do I get one?
+0x6270DFA9 : I mean I...I don't care which one although I am partial to the one with the sweet rims.
+0x6270DFC1 : Why don't you just make sure the tanks are filled.
+0x6270DFC2 : That's great. I'm the monkey!
+0x6270DFC3 : Pick one. Let's get this over with.
+0x62728482 : Listen. I... I'm not saying you wouldn't have won but were you watching when I put that guy into the wall?
+0x62728483 : Hey, Nikki. You miss me?
+0x62728484 : Darius asked me to come by and see how you were doing.
+0x62728485 : Neville, why don't you go get me something to drink?
+0x62728486 : Sure... Ah... What? Like a soda or something?
+0x62728487 : How ¶bout some options?
+0x62728488 : Okay.
+0x62728489 : Look like you cleaned the place up a bit.
+0x6272848A : You been generating a lot of buzz, you know. But you're not fooling me.
+0x627284A2 : What I'm trying to figure out is why you haven't skipped town yet.
+0x627284A3 : May I introduce Sal Mustela.
+0x627284A4 : Hi... (cough) Umm... Nikki said that you might be looking for a new wingman?
+0x627284A5 : See, you don't know me, but ah... Well I know you. I'm a... I'm a big fan. I seen all your races.
+0x627284A6 : And on that note. I'll be outta here.
+0x627284A7 : See, things ain't been the same since you've gone, you know? There's a lot a... lot a posers -no respect.
+0x627284A8 : I know all the back streets-I grew up in these alleys, I can customize anything.
+0x627284A9 : I practically built all the kits you see around this place so I...
+0x627284AA : Okeydokey, I got soda and water. Where'd she go?
+0x627284AB : (Sigh) I'll even put up with this guy.
+0x627284C3 : Wha... What's to put up with?
+0x627284C4 : Nothing, ah you're a nice guy.
+0x627310E3 : Hey I saw that run with Angie. Very nice! When it's clutch time, you can really throw down.
+0x627310E4 : If you're looking for more crew, meet me at Footy's Diner.
+0x627310E5 : Well, well, well, nice of you to show.
+0x627310E6 : Listen I know you're looking to clear your rep and uh, you're gonna need some help in order to do that.
+0x627310E7 : It's just that race, the night you took off. There is somthing seriously outta whack. I was there too.
+0x627310E8 : I showed up at the line just to check things out. Everyone was talking about you.
+0x627310E9 : Then the Five-O were everywhere.
+0x627310EA : Then I see the alley cleared.
+0x627310EB : He let's you go, then shuts it up. The thing is, the guys driving, he's got a badge on his belt.
+0x62731103 : Bottom line is, the heat had an agenda and you took the fall. That's all there is to it.
+0x62731104 : Thing is I can see them coming a mile away. Not only will I block them in, but I can mix it up with them too.
+0x62731105 : Hey! Stop! Freeze! I got ya! Get down on the ground!
+0x62739D44 : How'd you hear?
+0x62739D45 : A friend mentioned it.
+0x62739D46 : You sure about that?
+0x62739D47 : I dunno.
+0x62739D48 : I'll see you later.
+0x62739D49 : Darius, what are you doing?  A few more races and he's gonna have more territory than you.
+0x62739D4A : Well hey, good for him.  He should be cleaning up his rep and he's taking care of my business for me, he owes us....both of us.
+0x62739D4B : You're using him.
+0x62739D4C : Huh, I'm not using him.  I'm the only one who knows what he's capable of.
+0x62739D64 : Is this because I had a thing for him?  That's ancient.
+0x62739D65 : What's gotten into you?
+0x62739D66 : Not all races are won on the track.
+0x627429A5 : I have a secret, thought you'd like to know.  I was there that night you left.
+0x627429A6 : I was up a fire escape. You can see pretty good up there. You can hear things too.
+0x627429A7 : Unit 4, you are confirmed for a 10-46 on suspects Bravo and Charlie and Delta. Suspect Alpha driving a blue Toyota is a non-action.
+0x627429A8 : Repeat, suspect Alpha is in violation and may flee, but is a non-action at this time.
+0x627429A9 : Then the cops step up, and hit every car...
+0x627429AA : ..but the blue one-yours, I didn't make any sense of that.
+0x627429AB : Somebody interfered in a big way and now you need a good crew to pick up the pieces.
+0x627429AC : I usually notice things everyone else misses, like, faster routes.
+0x627429AD : Kenji, he can tune cars, but he just can't see what's in front of his face you know?
+0x627429C5 : Hey! Freeze! Police! Don't move! Stay there! Hold it! Hands in the air!!
+0x6274B606 : Drive.
+0x6274B607 : I remember. I was standing right over there.
+0x6274B608 : It was so close, I knew you were gonna win... and things went crazy.
+0x6274B609 : This guy knocks me over, I...I tried to get up but he held me down.  I thought he was protecting me.
+0x6274B60A : I couldn't make it so I gave you the bag.
+0x6274B60B : If what you're saying is true and the bag was switched then, I don't know how it could have happened.
+0x6274B60C : Why didn't you ever tell me about the missing money?  If the bag was switched then, that's where it happened.
+0x6274B60D : Let's get out of here.
+0x6274B60E : Step out of your vehicles! Hands on your heads! Units 1 and 5, containment! Get on containment!
+0x6281DF1E : Look...I just wanna race, that's all I ever wanted.
+0x6281DF1F : If you're still looking to make good on the past, I might be able to help you with that too.
+0x6281DF20 : It was a big night you left...
+0x6281DF21 : It got pretty crazy real quick.
+0x6281DF22 : I was playing it cool
+0x6281DF23 : Then I see Nikki knocked down.
+0x6281DF24 : Thing is I could have sworn that the guy who knocked her down had the same bag as Nikki.
+0x6281DF25 : I can help you guys out. I'm one of the best drivers in the city and you know it.
+0x6281DF26 : I just want to win. What about you?
+0x62826B7F : So, the sleuth has figured everything out.
+0x62826B80 : You just couldn't leave good enough alone, could you? We were making bundles of cash, you were clearing your name, what more could you want?
+0x62826B81 : Well, things have progressed a little further now than I thought possible and I'm gonna have to cash you out. Mr. Crawl?
+0x62826B82 : C'mon. I didn't let you take my money the first time. What makes you think this is any different?
+0x62826B83 : You actually thought I would front you the cash to save you from this loser? (Short laugh)
+0x62826B84 : Then sit around while you were encroaching on my territory? (Laughing)
+0x62826B85 : Greed's always been your problem. You got a lot to learn about the big times, little man.
+0x62826B86 : This city is mine and it's time for you to disappear again.
+0x62826B87 : It's Cross.
+0x62826B9F : Take his ride to my place. Show's over.
+0x62826BA0 : Thanks. I'm glad you changed your mind.
+0x62826BA1 : I'm just a bounty hunter, and I always get paid. Just make sure I do.
+0x62826BA2 : Look, I hate it when people say I told you so. So here it goes.
+0x62826BA3 : Seems that some of your team was there the night that you left. And they tell a different story than the one I've been hearing from Darius.
+0x62826BA4 : Thing is, their stories seem to add up.
+0x62826BA5 : Somebody tipped off the cops. Somebody let you escape.
+0x62826BA6 : And somebody switched the bag.
+0x62826BA7 : And now I know who that somebody was.
+0x62826BA8 : Darius likes to pull the strings. Now here's something he doesn't know about. Part of the deal with Cross is that I race with you.
+0x62826BC0 : Think you handle that? You're not the only one with a score to settle.
+0x62826BC1 : Now, let's get outta here. We got a lot of ground to catch up.
+0x6282F7E0 : Yeah
+0x6282F7E1 : Fine, I'm going to need a crew that's motivated.
+0x6282F7E2 : What?
+0x6282F7E3 : Nikki did that?
+0x62838441 : The keys are in the car.
+0x62838442 : Enjoy it while it lasts. There's always someone out there who's a little faster than you are. And sooner or later they're gonna catch up.
+0x62838443 : Congratulations, I always knew you could do it.
+0x62838444 : But you know there's someone else in town who hasn't quite tested you out there yet. What do you say?
+0x62838445 : You and me?
+0x62CCA80A : %s+ Bounty Achieved. Cash Reward: %d
+0x62DE94F0 : CARBON PLAGUE
+0x6300BB20 : NETHERLANDS
+0x6356A79E : STOCK 
+0x6356A79F : STOCK 2
+0x6396BE3C : Dump Truck Unlocked For Quick Race!
+0x63A68C6E : Area
+0x63B43651 : Zone
+0x63BB53E5 : Resume
+0x63DFC121 : Darius
+0x63E008A1 : ARGENTINA
+0x63E87A9B : Anistropic
+0x640E02A6 : I'm tired of watching you. It's about time we did this. You want Kempton? Come get it. You gotta beat me in the city and then I'll take you on in the canyon.
+0x640E02A7 : You scared? You should be. I figured you were all talk. Race me or leave my territory.
+0x640E02A8 : What makes you think you can roll through Fortuna? This is mine. All of it. I'm not giving it up. Not to a punk like you. No way. So, me and you...on the city streets. You win that, then maybe I'll take you for a walk through the canyon. Teach you a lesson once and for all. 
+0x640E02A9 : You're taking your sweet time. Yeah, that's fear. Soak it up. But in the meantime, I'm getting tired of waiting. You're boring me. Show up or get out. 
+0x640E02AA : You think that car's got what it takes? Huh? Enough to take me on? Okay, first, we're gonna run in the city. And then, only if you win am I gonna give you a shot at taking what's mine. But if you think you can beat me in a canyon duel, you're as much of a joke as your car. 
+0x640E02AB : So what, you backing out? Come on! Are we racing or what?
+0x640E02AC : So, it's time that we settled this. Come get it. Come earn it.  You wanna shot at me? I'm ready. Let's do this.
+0x640E02AD : Nikki's trying to talk you out of this, isn't she? She's a smart girl, you should listen. Everyone knows I made you. But if you still want a shot, I'm not going anywhere.
+0x640E02AE : You did not disappoint. And now we've got the whole city locked up. That deserves a reward. Let's meet up at the old courthouse.
+0x640E02C6 : Hey, I saw that run with Angie. When it's clutch time, you can really hold it together. Nikki gave me your number and she said you might be looking for more crew. If that's true, meet me at Footy's Diner.
+0x640E02C7 : Hey, what's going on? You not interested? Hey, everyone needs a good blocker...and I'm the best! Just meet me at Footy's Diner.
+0x640E02C8 : Hey, I'm getting impatient here. Are we meeting up or what?
+0x640E02C9 : Hey, I'm lookin for someone to drive with. I've had it with Kenji. He'd be nothing if it wasn't for me. I want someone who drives fast and smart. If you want one more in your crew, I'm staying at the Plaza.
+0x640E02CA : Hey, don't keep me waiting. C'mon, show me how fast you are. Just get to the Plaza.
+0x640E02CB : So, I take it you can't use me?  Last chance. I'm at the Plaza. Waiting. 
+0x640E02CC : That was a great race! You think you could use another flier? Meet me at the University, let's talk.
+0x640E02CD : What, you got lost? I'm at the University. You can find it. 
+0x640E02CE : Yeah I know you got a good crew, but nobody is faster than me. I'm telling ya. I'm at the University, but not for long. 
+0x640E02CF : Hey, I forgot to tell you to watch out for the cops. They're mostly limited to their districts, but if you keep getting in trouble in the same territory, they're gonna make you their most wanted. You don't need that kind of attention.
+0x640E02E7 : Hey, we need to meet up. I've given you coordinates to a Safe House. Meet me there. 
+0x640E02E8 : Hey, it's me. You must have lost the cops by now. Head over to the Safe House. 
+0x640E02E9 : What, you can't find it? Just check your map and you'll see it marked. Follow the map, it will lead you right there. 
+0x640E02EA : Hey, I forgot to tell you. Any new boss of an area is supposed to hold a big race. Costs a lot of money to organize, but every racer nearby will turn up.^^Check it out at the safe house.^^All the local drivers are expecting you to come through with this.
+0x640E02EB : Let's make this a bit more interesting. I've called in a couple of my Friends who are going to race around the track with you. Please, don't embarrass yourself.
+0x640E02EC : This is as far as you go! If you want to take on Darius, you have to go through all three of us and our new rides. The Canyon and the City, you got to beat us in both first. No need for Darius to soil his hands!
+0x640E0308 : If your car gets chased by cops too much, it's time to lower the Heat of your car. You can do this by modifying your car's visual appearance or using a Lower Heat card that you can win from Boss races.
+0x640E0309 : To have a break from the Career, you can try to beat the progressively harder challenges in the Challenge Series. There are some cool bonus items for you to unlock if you manage to beat all of them.
+0x640E030A : Palmont City PD will be after you. The more trouble you cause, the more your car's heat will increase, and more advanced tactics and vehicles will be used against you.
+0x640E030B : You can customize, shape, and modify wheels, hoods, spoilers, and more within the Autosculpt area.
+0x640E030C : You can jump into any location marked on your world map. This way you can visit Car Dealerships, Safe Houses you have conquered from other Crews, and of course access any track you want to race. You can even do this in middle of Free Roam as long as cops are not chasing you.
+0x640E030D : Avoid Spike Strips at all costs! If you hit one, you lose your tires, and then escaping the cops is almost impossible.
+0x640E030E : Speedbreaker allows you to momentarily slow the time and pull off some cool moves in tight spots.
+0x640E030F : You can unlock cool bonuses by completing tasks given by the Reward Cards. Check out the conditions for each reward in the Main Menu. 
+0x640E0310 : When you enter the turf of a rival Crew, you sometimes get challenged to a point-to-point race. It's up to you to decide whether you accept these challenges or not.
+0x640E0311 : You can only have a maximum of three Crew, so make sure you only keep those drivers around that benefit you the most. Check out the Crew screen at your Safe House to see who is available to you.
+0x640E0329 : In a tight pursuit you can get big trucks to drop their cargo on the road to slow down your pursuers.
+0x640E032A : If you lose the last of your cars and have no spare money to pay your fines, the game ends, and you must start from the beginning.
+0x640E032B : Check your map to see how much cop activity each zone has. The more you race in any given area, the more likely it is that you will be chased in the middle of the race there. The more you race in any given zone, the more cops will start patrolling there. To let the Heat cool down, avoid racing in that zone for a while.
+0x640E032C : When chased by the cops, look out for Hiding Spots. If you get into one of these, you can lose the cops in a hurry. 
+0x640E032D : If you accumulate 3 Impound Strikes, your ride will be permanently lost. Winning extra Impound Strikes from Boss Races will allow you to raise the maximum number of Impound Strikes to 5. If a car without any Impound Strikes left is caught by the cops, you lose it permanently.
+0x640E032E : You can jump into any location marked on your world map. This way you can visit Car Dealerships, Safe Houses you have conquered from other Crews, and of course access any track you want to race. You can even do this in middle of Free Roam as long as cops are not chasing you.
+0x640E032F : During races and cop chases the Pursuit Breaker objects will be marked with icons. Drive through these icons and hit the objects to activate the Pursuit Breakers. When activated, Pursuit Breakers will obstruct and immobilize any police cars and rival racers unfortunate enough to be following you.
+0x640E0330 : Once you've equipped your car with Nitrous Oxide, you can use it during races to gain a momentary boost of speed.
+0x640E0332 : You can buy new cars at car lots, or win the pink slips from Bosses you defeat. If you don't have enough money, consider selling cars that you are not using in order to raise the cash. Check out your Map in Free Roam, you can drive to a car lot or just jump there.
+0x640E034A : You can improve your car's performance by unlocking new parts and installing them in your Safe House. Your initial car will be no match for tougher opponents no matter how much you upgrade it, so at some point you should acquire a new ride. Each car can only be upgraded with Performance parts that are on the same Tier as the car.
+0x640E034B : Palmont police are always looking to crack down on racers. Here is some advice on how to keep out of trouble:^^DISTANCE - The key to escaping is to get away from the cops.  Until you're out of their sight, you can't get away. Use tight routes and traffic to shake the cops.^^HIDING - Once you are out of sight look out for hiding spots.  Hiding spots appear on the minimap as blue circles.^^PURSUIT BREAKERS - Use Pursuit Breakers to knock those chasing cops off your tail. Pursuit breakers appear as triangles on your minimap.^^BACKUP - When the cops chasing you are low on numbers, they'll call for backup. Make sure you get out of sight before the timer runs out, or more cops will join the chase. You can see the backup timer on the pursuit bar.^
+0x640E034C : Conquering territory isn't as simple as just beating rivals and taking their turf. Sometimes they will want their turf back and will challenge you for it. When challenged to a defensive race, it is up to you to defend your turf. If you decide not to, you forfeit the turf and the control of that race.  ^
+0x640E034D : Cruising around rival turf doesn't sit well with the locals. When you drive through other Crew's turf there is a strong possibility that you will be challenged to an impromptu point to point race. It is up to you to decide to show these racers what you are made of. Beating them will guarantee you some cash.^
+0x640E034E : If you need any new parts, check them out in your Safe House in the Customization menu. If you have enough money for a new ride, go and check out a car lot.^^These can be seen on your map.^
+0x640E034F : Challenging and conquering territory is the way to show these Crews who is the best driver in town. As you beat Crews and races, your reputation will open up new opportunites for you across Palmont. Remember, you can check out your progress on the Territory Map, which will also show you new races that are available to you.^
+0x640E0350 : Beating those Bosses can be very rewarding.^^Whenever you race against a rival Crew Boss, the pink slips go up for grabs.  If you win, you get to choose 2 markers. Markers represent anything from parts, to favors, to the pink slip. You have to be lucky and pick the right one from the markers.^^
+0x640E0351 : If you're running a little low on cash, you can always go back to races you didn't complete. You can select any incomplete races from the territory map and win these for additional cash.^^Your other option is to sell one of your cars. It's a quick way to get some money, but remember, you are only going to get half the original stock price for your car. Any money you spent customizing it, will be gone. If you decide to sell one of your cars, go to the Safe House Car Select screen. Then select the car and sell it there.
+0x640E0352 : Having a blocker in your Crew means you can take out opponents with ease. Sending your blocker out to challenge opponents is easy - when you see the target on an opponent, press the Crew activation button and your blocker will attempt to take out the rival. A successful block results in your opponent being stopped in their tracks. This is useful when approaching the finish line or simply buying time to catch up.  ^
+0x640E0353 : Drafters are great Crew members-get in behind them and they can give you a large boost. Follow the drafter closely and when the time is right, you can use the draft to boost your speed momentarily and slingshot past your Crew member.  ^
+0x640E036B : Knowing all the shortcuts and best lines is key to beating out rival Crews on their own territory. Employing a scout in any given race will show all the shortcuts along with what the best lines are on the track. Follow closely to see how best to approach corners or shortcuts.  ^
+0x640E036C : Free Roam is a great way to get to know the Crews in Palmont and make some trouble with the Police Department. You can enter any races you encounter, as well as check out new rides in car lots located all across the city. ^^While cruising around, you might get chased by the cops or get challenged into races by rival crews if you enter their territory. ^^Pursuits and Crew Challenges allow you to gain cool unlocks and Reward Cards. Check out the Reward Cards section in the Main Menu.^
+0x640E036D : Each car belongs to one of three Classes. These are Exotic, Muscle, and Tuner. Within each Class there are three Tiers. The higher the Tier, the better the car. Each Tier has its own Performance tuning packages. You cannot install Tier 1 Performance parts in Tier 2 or 3 cars.^^The first cars Darius offered you are Tier 1. In order to beat the major Crews, you need to buy higher Tier cars.^^The only way to beat all rival crews is to use faster, better rides.
+0x645DBC35 : ONLINE PURSUIT TAG TACTICS
+0x64658159 : *ONLINE*
+0x64B9C414 : Castrol Cash Unlocked!
+0x64E351E9 : Reset Camera Angle
+0x651A3DD9 : X Axis
+0x651A3DDA : Y Axis
+0x651A3DDB : Z Axis
+0x65E677F7 : TWO TONE
+0x661805E3 : SMS
+0x66560D9D : BRAZIL
+0x6672259E : TERRITORY MAP SCREEN
+0x669A4CC1 : Cop Cars Disabled
+0x66F6457D : ERROR for some reason
+0x673F2749 : Button %d
+0x6776F94C : %s+ Cost to State. Cash Reward: %d
+0x677E4B91 : CANADA
+0x67911F6E : Apexi
+0x67911F6F : APR
+0x67911F70 : Arospeed
+0x67911F71 : Audiobahn
+0x67911F72 : AVUS
+0x67911F73 : B&M Racing
+0x67911F74 : Baer
+0x67911F75 : BBS
+0x67911F76 : Bilstein
+0x67911F77 : Borla
+0x67911F8F : Brembo
+0x67911F90 : Bride
+0x67911F91 : Center Force
+0x67911F92 : Center Line Wheels
+0x67911F93 : Ceramicool
+0x67911F94 : Clarion
+0x67911F95 : Clutchmasters
+0x67911F96 : Cold Fusion Nitrous Systems, LP
+0x67911F97 : Comp Cams
+0x67911F98 : Comptech USA
+0x67911FB0 : Crane Cams
+0x67911FB1 : Crower Cams
+0x67911FB2 : Dart
+0x67911FB3 : DC Sports
+0x67911FB4 : Do-Luck USA Operation
+0x67911FB5 : Donz Wheels
+0x67911FB6 : Dynatech
+0x67911FB7 : Edelbrock
+0x67911FB8 : Eibach Springs
+0x67911FB9 : Endless USA
+0x67911FD1 : Energy Suspension
+0x67911FD2 : Enkei
+0x67911FD3 : Eurolite and Ractive
+0x67911FD4 : Extreme Dimensions
+0x67911FD5 : Extreme Technologies
+0x67911FD6 : Fastbrakes
+0x67911FD7 : Flowtech
+0x67911FD8 : Fidanza
+0x67911FD9 : Foxx Wheels
+0x67911FDA : GFG
+0x67911FF2 : Gianelle
+0x67911FF3 : Giovanna
+0x67911FF4 : Goodhood
+0x67911FF5 : G-Racing
+0x67911FF6 : Greddy
+0x67911FF7 : H&R
+0x67911FF8 : Hedman Hedders
+0x67911FF9 : Henshin Auto Design
+0x67911FFA : HKS
+0x67911FFB : Holley
+0x67912013 : Hooker Hedders
+0x67912014 : Hotchkis
+0x67912015 : HP (Hurricane Power)
+0x67912016 : HRE Wheels
+0x67912017 : Iceman Intakes Inc.
+0x67912018 : I-Forged Wheels
+0x67912019 : Injen
+0x6791201A : Intrax Suspension
+0x6791201B : Isky Racing Cams
+0x6791201C : Jackson Racing Performance Products
+0x67912034 : Japan Tuning
+0x67912035 : JE Pistons
+0x67912036 : JIC Magic
+0x67912037 : JL Audio
+0x67912038 : JSP America
+0x67912039 : Lunati
+0x6791203A : Kaizer
+0x6791203B : Keystone Good Hoods
+0x6791203C : Kicker
+0x6791203D : K&N
+0x67912055 : Koni
+0x67912056 : König
+0x67912057 : Kumho Tires
+0x67912058 : KVR Performance
+0x67912059 : KYB
+0x6791205A : Lexani
+0x6791205B : Löwenhart Wheels
+0x6791205C : Manley
+0x6791205D : Magnaflow Performance Exhaust
+0x6791205E : Matrix Racing
+0x67912076 : Momo
+0x67912077 : Motegi Racing
+0x67912078 : Morosso
+0x67912079 : MTX Audio
+0x6791207A : Neuspeed
+0x6791207B : Nitrous Express
+0x6791207C : Nology Engineering
+0x6791207D : Nitrous Oxide
+0x6791207E : OZ Wheels
+0x6791207F : PIAA
+0x68604750 : % OF TIME AS A RACER
+0x68E7EC0E : SWEDEN
+0x68ECCEE5 : Career Completion
+0x690CB315 : TWO TONE
+0x69446DF7 : Just bring it
+0x698C2954 : ARROW
+0x69EDEBB6 : Pursuit Breaker
+0x6A3D43DB : COLIN
+0x6A518421 : EXTREME HIT!
+0x6A5B1818 : BLASTBACK CF DUAL
+0x6A702954 : EAGLE CREST
+0x6AA85FBD : Advanced
+0x6AFFB459 : UNITED KINGDOM
+0x6B01031C : NIKKI
+0x6B0F5BA3 : Exotic Area
+0x6B572157 : SAL
+0x6B572158 : SAL
+0x6B59A022 : CARDBOARD BOX
+0x6BEB01E2 : Hold the Wii Remote Flat to the ground, and tilt the ends up or down to steer. Use the Oversteer to increase steering input!
+0x6BEB01E3 : Tilt the Nunchuk left and right to Steer.^Tilt the Wii Remote forward or backwards from a 45 degree position to Accelerate or to brake.
+0x6BEB01E4 : Tilt the Nunchuk left and right to Steer. ^Tilt the Wii Remote forward from a 90 degree position to Accelerate.
+0x6BEB01E5 : Use the Control Stick to Steer. Tilt the Wii Remote forward or backwards from a 45 degree position to Accelerate or to Brake. Move the Nunchuk Towards yourself to use the E-brake.
+0x6BEB01E6 : Use the Control Stick to steer.^Tilt the Wii Remote forward from a 90 degree position to Accelerate.
+0x6C214A8E : %s+ Cop Cars Disabled. Cash Reward: %d
+0x6C24AEA0 : Junkman
+0x6C339060 : Reduce Heat
+0x6C37BBCA : Thank you for playing Need for Speed Carbon! You've just unlocked five new cars, including the Audi Le Mans quattro, give them a try in the Quick race! There is still lots of things to do in the game, now complete all the Reward Cards, take on the Challenge Series, and try the career in another car class.
+0x6C6464C7 : GAME STATS
+0x6C7DA0B5 : BLOCKER
+0x6D4EFF18 : Meet me at the Plaza
+0x6D911806 : Rotate
+0x6DBAAF8C : Sell Car
+0x6DEFBC8B : PURSUIT BREAKERS^
+0x6DF31892 : TORQUE
+0x6DF31893 : HORSEPOWER
+0x6E42CEDF : BLOWN OVER
+0x6E42CEE0 : SPLITSIDE
+0x6E42CEE1 : SNYPER
+0x6E42CEE2 : CHARGED
+0x6E42CEE3 : CONTENDER
+0x6E42CEE4 : SHAKER
+0x6E42CEE5 : FORMULA
+0x6E42CEE6 : DJM HYDE
+0x6E42CEE7 : STRIKE
+0x6E42CEE8 : GT
+0x6E42CF00 : MONGOOSE
+0x6E42CF01 : RALLY
+0x6E42CF02 : WEDGE
+0x6E42CF03 : CIRCUIT
+0x6E42CF04 : BLISTER
+0x6E42CF05 : COLIX
+0x6E42CF06 : FACTOR X
+0x6E42CF07 : TSUNAMI
+0x6E42CF08 : TWISTER
+0x6E42CF09 : FUSION
+0x6E42CF21 : AIROMAX
+0x6E42CF22 : ERASER
+0x6E42CF23 : TREMOR
+0x6E76732F : %s+ Infractions. Cash Reward: %d
+0x6EB0EACE : Activate GPS
+0x6EE9624E : Neutral
+0x6F5401D1 : Would you like to use a Manual or Automatic transmission?
+0x6F5FACC2 : Private
+0x6F6D0D5F : Win a Career Race
+0x6FAA7C48 : FRANCE
+0x6FED856F : V-Sync
+0x700A472B : BLASTBACK
+0x700A472C : AIRSTREAM
+0x700A472F : CYCLONE
+0x700A4730 : TEMPEST
+0x700A4732 : BACKDRAFT
+0x700A4733 : TYPHOON
+0x70369F5F : Static
+0x703A92CC : Press START button
+0x70493754 : Dodge Challenger
+0x70592060 : NORTHWEST DUAL
+0x70822DB1 : DRAGON
+0x70DFA9F0 : Add
+0x70DFDA39 : Low
+0x70DFDEF6 : NOS
+0x70DFE5C2 : Off
+0x70E01038 : Yes
+0x70E13F3C : Crew Member
+0x71599039 : Race Wars
+0x7201B024 : GREECE
+0x7235E4F0 : Car Volume
+0x72459706 : LEADERBOARD
+0x729246EC : ENGINE
+0x72AE4901 : JETSTREAM DUAL
+0x72FE1279 : ADR
+0x72FE1679 : BBS
+0x731E56EE : Shelby GT500
+0x731E56EF : Shelby GT500
+0x73696810 : The more rep you earn by winning races, the more events you can select on the world map.^
+0x738404D5 : Territory Control
+0x73B72C0B : TWO TONE
+0x73C615A3 : Minimum
+0x73FED589 : FALCON
+0x743FA778 : STOCK
+0x743FA779 : STOCK 
+0x74A3F1DD : Numlock
+0x74A5E7D9 : Numpad0
+0x74A5E7DA : Numpad1
+0x74A5E7DB : Numpad2
+0x74A5E7DC : Numpad3
+0x74A5E7DD : Numpad4
+0x74A5E7DE : Numpad5
+0x74A5E7DF : Numpad6
+0x74A5E7E0 : Numpad7
+0x74A5E7E1 : Numpad8
+0x74A5E7E2 : Numpad9
+0x74B98590 : Configuration
+0x750371A2 : HEADWIND DUAL
+0x7564215A : AUTOSCULPT
+0x75770BB3 : Change Active Crew Member
+0x7629BD31 : SAL
+0x7658D141 : GAMEPLAY
+0x76B5BEC2 : Difficulty
+0x76E9C952 : Player Cash:
+0x772BCC20 : Coming November 2006
+0x77319643 : The Memory Card in Slot A has been removed  or replaced. Would you like to continue  with Autosave on?
+0x7731A040 : The memory card (PS2) was removed from MEMORY CARD slot 1. Do you wish to continue with Autosave? The Autosave feature will automatically save your progress throughout the game, and any settings changes you make. Autosave will overwrite data without confirmation.
+0x7749A923 : Xbox Live Exclusive
+0x7754C5CD : Ranked
+0x7771A159 : SPLIT TIME:
+0x7792E2FF : Tracks
+0x77D9B24A : Road Reflection Detail
+0x77DC9684 : CONQUERED
+0x78C10DA7 : Current Wingman
+0x78E612D4 : Boss Race
+0x78F1B215 : HELMET
+0x794EE94D : TWO TONE
+0x795927D9 : Need for Speed Carbon Logo Vinyls Unlocked!
+0x796EB27B : HIDING SPOTS
+0x797DB6A6 : Role
+0x79ADC2E4 : RIPTIDE DUAL
+0x79F92026 : Crew Information
+0x7A0351A3 : Order Parts
+0x7A0BA1B6 : Hire Crew Member
+0x7A147BAC : Volkswagen Golf R32
+0x7A6F9F0A : LAP TIME:
+0x7AB76FE9 : Crew Racing^The Crew member can take out cars ahead of you, or block cars behind you.^^Charging^The Crew indicator will charge while you race.^^Activation^Once charged, their HUD indicator will flash. You activate them by pressing the activate Crew member button.^^Crew Victory^If your Crew member crosses the finish line first, you get the win.
+0x7B070984 : PLAYER 1
+0x7B070985 : PLAYER 2
+0x7B17867B : TIER
+0x7B1BF234 : CREATE ACCOUNT
+0x7BCA31FF : Car
+0x7C0CE5F5 : YOU FINISHED NINETEENTH
+0x7C6C113A : Checkpoint
+0x7CC43410 : RIDE HEIGHT
+0x7CE946E6 : Get out of Jail Cards:
+0x7CFD0763 : Sprint
+0x7D16AE9F : Roadblocks Dodged
+0x7D2F4E04 : FINLAND
+0x7D79439C : RANDOM ENCOUNTERS
+0x7DA90398 : Race Bonus:
+0x7E118769 : SAMSON
+0x7E26F8E4 : EUROLITE
+0x7E5C25D7 : BASIC BODY 1
+0x7E5C25D8 : BASIC BODY 2
+0x7E5C25D9 : BASIC BODY 3
+0x7E5C25DA : BASIC BODY 4
+0x7E5C25DB : BASIC BODY 5
+0x7E5C25DC : BASIC BODY 6
+0x7E5C25DD : BASIC BODY 7
+0x7E5C25DE : BASIC BODY 8
+0x7E5C25DF : BASIC BODY 9
+0x7E5C25F7 : BASIC BODY 10
+0x7E5C25F8 : BASIC BODY 11
+0x7E5C25F9 : BASIC BODY 12
+0x7E5C25FA : BASIC BODY 13
+0x7ECC9071 : Are you sure you would like to revert to the default settings?^Previous settings will be lost.
+0x7F1FE19E : MEXICO
+0x7F55C1A9 : Role
+0x7F7340AF : Game Stats
+0x7FCEE63E : CANYON DUEL IS A 2-STAGE RACE^^FIRST STAGE - Chase your opponent^The closer you follow, the more points you score.^^SECOND STAGE- Your opponent chases you^The closer they are, the more points you lose.^^Make it to the finish line to win.^^INSTANT WIN: The lead car is passed for 10 seconds.^INSTANT LOSS: Run out of points, go over the cliff, or the chase car falls too far behind.
+0x7FFC7E87 : PORTUGAL
+0x803EB1BE : LIGHT RED
+0x804AE1CB : Checkpoint
+0x804B8BF5 : Let's settle this
+0x8050CA3F : DARK RED
+0x8062E2C0 : PEARL RED
+0x8098A54C : Continue
+0x8104960E : GOODHOOD
+0x811A6F83 : [FOR REFERENCE, XLAST] Police Car
+0x8164E3F1 : NETHERLANDS
+0x81A5EC8F : Online Event
+0x81D35275 : PTS
+0x81D9E4F1 : LBS
+0x8250BB97 : BUTTERFLY
+0x82547D16 : *MESSAGE*
+0x8270C03B : Save
+0x828D853F : AUSTRALIA
+0x82CA467C : Clay
+0x83026568 : WINDTUNNEL DUAL
+0x830D01CB : 3 ALL NEW Canyon races:
+0x830D01CC : Canyon Duel, Canyon Race, and Canyon Drift
+0x830D01CD : Survive the Canyon
+0x830D01CE : Build your Crew
+0x830D01CF : Autosculpt customization
+0x830D01D0 : Own the city, block by block
+0x8320C67A : Controlled By
+0x83802176 : BLOWN ENGINE!
+0x83BA7F16 : Löwenhart
+0x83EA93E8 : Remove Layer
+0x84561D16 : We meeting or what?
+0x845DA5C0 : Connect the Nunchuk to the Wii Remote. Press any button once the Nunchuk is connected.
+0x849C2A98 : Random
+0x84FEF025 : Do you accept this Friend Invite?
+0x851F6F1D : Mike^
+0x852D874C : th
+0x85416C75 : The Controller has been removed.^Please re-insert a Controller to Controller Socket %d, and press START to continue.
+0x85417672 : The controller has been removed.^Please re-insert a controller to controller port %d, and press the START button to continue.
+0x85417673 : Controller has been disconnected, please reconnect a controller and press the START button to continue.
+0x85518289 : MONKEY
+0x85819C90 : WINDTUNNEL CF DUAL
+0x85B8CB52 : Split Screen
+0x85C36CD5 : Primary
+0x85F3FDC4 : EVADE
+0x862A0519 : HURRY!
+0x863CBE09 : Trilinear 
+0x86CD9B57 : POLAND
+0x86D22729 : Cops can drive through the arrow barriers to surprise the Racers!^ Spin out Racers or knock them into walls to get bonus points.^Get more points for collisions with higher placed Racers.^See the Top Cops and Racer rankings at NeedforSpeed.com!
+0x873DFD6B : *VIDEO ADVANCED*
+0x87508C97 : Dry Sump Oil System & Oil Upgrade
+0x87508C98 : High Performance Throttle Body
+0x87508C99 : Hardened Racing Valves
+0x87508C9A : Lightweight Rotors & Carbon Apex Seals
+0x877497BE : John D^
+0x877C1566 : POV Up
+0x880C43AB : LIGHT BLUE
+0x881F8EFA : DEFAULT STRING
+0x88370AFA : Press to Continue
+0x8860AE37 : Where are you?
+0x886B5634 : Apply Crew Style
+0x888BECC1 : ONLINE GAME MODES
+0x8892C3FD : Close
+0x88A80BA0 : Drift
+0x89399FAB : Reach Online XP Level 1
+0x89399FAC : Play an 8-player Ranked Online game
+0x89399FAD : Reach Online XP Level %d
+0x89399FAE : Reach Online XP Level 4
+0x89399FAF : Download a Shadow Car in Quick Race
+0x89399FB0 : Finish an Online Ranked race or Challenge Series race
+0x89399FB1 : Beat 5 Online Challenge Series events
+0x89399FB2 : Win %d Ranked Online Sprint Races
+0x89399FB3 : Reach Online XP Level 6
+0x89399FCB : Win an 8-player Ranked Online game
+0x89399FCC : Use Photo Mode
+0x89399FCD : Beat %d Online Challenge Series events
+0x89399FCE : Win %d Ranked Online Pursuit Tag games
+0x89399FCF : Win %d Ranked Online Canyon Duel Races
+0x89399FD0 : Reach Online XP Level 9
+0x89399FD1 : Get a %d-game winning streak in Ranked Online games
+0x89399FD2 : Reach Online XP Level 18
+0x89399FD3 : Win %d Ranked Online Circuit Races
+0x89399FD4 : Play 50 Ranked games Online
+0x89399FEC : Win %d Ranked Online Sprint Races
+0x89399FED : Get a 5-game winning streak in Ranked Online games
+0x89399FEE : Win %d Ranked Online Circuit Races
+0x89399FEF : Win %d Ranked Online Speedtrap Races
+0x89399FF0 : Reach Online XP Level 13
+0x89399FF1 : Play %d Ranked games Online
+0x89399FF2 : Get a 4-game winning streak in Ranked Online games
+0x89399FF3 : Win %d Ranked Online Canyon Duels
+0x89399FF4 : Win %d Ranked Online Pursuit Tag Games
+0x89399FF5 : Reach Online XP Level 29
+0x8939A00D : Win %d Ranked Online Speedtrap Races
+0x8939A00E : Cross the finish line in reverse to win a Ranked Sprint Race
+0x8939A00F : Reach Online XP Level 23
+0x8939A010 : Win %d Ranked Online Pursuit Knockout Races
+0x8939A011 : Beat an EA Moderator in a Ranked Online game
+0x8939A012 : Win %d Ranked Online Pursuit Knockout Races
+0x8939A013 : Reach Online XP Level 42
+0x8939A014 : Reach Online XP Level 50
+0x8939A015 : Get a 6-game winning streak in Ranked Online games
+0x8939A016 : Reach Online XP Level 35
+0x8939A02E : Played 75 Ranked games Online
+0x8939A02F : Get a 3-game winning streak in Ranked Online games
+0x8952ADCB : Control
+0x895A8B3E : HOOD
+0x8976E19E : Player Review
+0x898B0E9B : Are you sure you want to cancel this Friend Invite?
+0x89946400 : LIGHT BLACK
+0x89C9C05F : Rob^
+0x89E04B28 : FLAMING TIRE
+0x89F23A14 : LIGHT GREEN
+0x8A2C08CF : ORCHID
+0x8A616C4C : DARK BLUE
+0x8A83F9FC : CZECH REPUBLIC
+0x8AA2D7A9 : TWO TONE
+0x8AA2DBAA : TWO TONE
+0x8AA2E67A : TWO TONE
+0x8AA2EAD5 : TWO TONE
+0x8AA303FC : TWO TONE
+0x8AA31542 : TWO TONE
+0x8AA31A0C : TWO TONE
+0x8AA31A0D : TWO TONE
+0x8AA31CDC : TWO TONE
+0x8AB9D57F : Win 10 Career Races
+0x8ABE83FC : ENGAGE EVENT
+0x8AC6D9C3 : Visual Treatment
+0x8B258460 : Yumi is a speed freak who will add boost to your nitrous when you race with her-and you'll need it to keep up with her. In the garage she'll get you a discount on all performance parts while she's in your Crew.
+0x8B57189C : STOCK
+0x8B57189D : Street
+0x8B57189E : Super Street
+0x8B57189F : Race
+0x8B5718A0 : Pro
+0x8B5718A1 : Super Pro
+0x8B5718A2 : Ultimate
+0x8B583DD3 : 640x480
+0x8B776D3C : How would you like to proceed to the Safe House?
+0x8B9759F5 : Backspace
+0x8B98B0DC : Down Arrow
+0x8B9AE10D : Home
+0x8B9CD6F1 : Left Alt
+0x8B9CE72F : Left Arrow
+0x8B9E0243 : PgDn
+0x8BA02137 : Right Alt
+0x8BF49858 : Corvette Z06 Interceptor Unlocked For Quick Race!
+0x8C1EE900 : Christophe^
+0x8C6B3F58 : CHALLENGE SERIES
+0x8CB694ED : PEARL BLUE
+0x8CD532A0 : Automatic
+0x8CD567B8 : Back
+0x8CD611A7 : Chat
+0x8CD63138 : Split Screen Co-op
+0x8CD63CB8 : Crew
+0x8CD6BD6D : Done
+0x8CD8D487 : High
+0x8CDAE537 : Laps
+0x8CDC3937 : None
+0x8CDDF74A : Quit
+0x8CDE3E83 : Read
+0x8CDEF6E4 : Solo
+0x8CE28F83 : Item
+0x8CEA7316 : You already have 10 uploaded Photos. Would you like to overwrite your first uploaded Photo?
+0x8CFEC6D2 : Avg Speed
+0x8D361438 : Track
+0x8D436693 : ONLINE PURSUIT KNOCKOUT TACTICS
+0x8D5A55EE : Your gamer profile is not Signed in. You will not be able to Save games, access Challenge Series, or access Xbox Live without a gamer profile. Do you want to Sign in your gamer profile now?
+0x8D66247C : Press START button to return to the Main Menu
+0x8D9F62D8 : Steer
+0x8DA5B5A7 : Are you sure you want to quit the game?
+0x8DD01EE0 : PHARRELL
+0x8DDAE8E1 : Audi Le Mans quattro
+0x8DE9E91A : Brake/Reverse
+0x8DFD7FA0 : *ALIAS*
+0x8E088114 : LAPS
+0x8E3DAFF0 : Slider
+0x8E5A0E3F : SWEDEN
+0x8E7411A1 : Vincent^
+0x8E7ACCD5 : Press START
+0x8E7ACDFE : CLICK to continue
+0x8E9EE0F3 : Use Reward Card
+0x8F049C18 : Reset Car Position
+0x8F6CAFEB : Mazda Dealership Unlocked!
+0x8FD24C91 : TWO TONE
+0x8FDDDADB : End
+0x8FDDDB4B : F10
+0x8FDDDB4C : F11
+0x8FDDDB4D : F12
+0x8FDDDB4E : F13 (NEC PC98)
+0x8FDDDB4F : F14 (NEC PC98)
+0x8FDDDB50 : F15 (NEC PC98)
+0x8FDE18FB : Tab
+0x90390919 : WORLD MAP^
+0x904B8874 : X Rotation
+0x904B8875 : Y Rotation
+0x904B8876 : Z Rotation
+0x90542A63 : Steer Left
+0x9075D079 : GAME OVER
+0x90B41FD0 : Accelerate
+0x90B43F65 : NOS
+0x90C93A42 : Tuomas^
+0x90E6E300 : Do you wish to keep the modified settings?  Selecting "No" will cause you to lose all changes.
+0x914E62D1 : ABS
+0x914E62F3 : ACT
+0x914E6312 : ADR
+0x914E632E : AEM
+0x914E6712 : BBS
+0x914E7CCF : GFG
+0x914E7EAE : CASTROL GTX
+0x914E81C1 : HKS
+0x914E829A : HRE
+0x914E89F1 : JIC MAGIC
+0x914E8B48 : JSP
+0x914E8FEE : KVR
+0x914E9041 : KYB
+0x914E9072 : KZR
+0x914E9834 : MTX
+0x914E9BCB : NOS
+0x914EB0AA : SLP
+0x914EB3BB : TCI
+0x914EB5D9 : TSW
+0x914EB68B : TYC
+0x914EBD0D : VIS RACING SPORTS
+0x914ECD92 : ZEX
+0x91D69A0D : RENAULT
+0x920587D3 : SAMSON
+0x920D1924 : Easy
+0x920EBE11 : Hard
+0x9248AAFE : Change Size
+0x925160A8 : Car Camera
+0x9256D3D9 : SAUCER
+0x92865F80 : ALIAS_
+0x92CC1ECA : PAINT
+0x92D27E5E : Xbox Live Event
+0x92DDDBF1 : SICKLE
+0x92E37794 : BEST PURSUIT MOVE SCORE
+0x931E62E3 : Stephane^
+0x932E9322 : *GAMEPLAY*
+0x9332337C : GIANELLE
+0x935FB31D : SPIDER
+0x93697076 : Jump to Car Lot
+0x939367ED : Muscle Area
+0x9398DB7F : Cop Cars Rammed
+0x93D58A0C : Electro
+0x93F58F16 : SCALE
+0x944ECF86 : TWO TONE
+0x9480619A : PURSUIT TACTICS
+0x94A676DE : Car Damage
+0x94D43F0C : GERMANY
+0x9542F1AF : RACE FLAG
+0x95760C26 : *AUDIO*
+0x95763D11 : MY CARS
+0x957B093E : TWO TONE
+0x9598A7E6 : KICKER
+0x95AC890C : *TERRITORY ACQUISITIONS*
+0x95CF3244 : Car Lot
+0x95E10F41 : Backspace
+0x9606350B : CENTERFORCE
+0x96354E92 : TWO TONE
+0x963F2CEA : Pursuit Time Challenge
+0x9640C67A : TWO TONE
+0x968301C7 : You can unlock cool bonuses by completing tasks given by the Reward Cards. Check out the conditions for each reward in the Reward Cards section of the Main Menu.^
+0x96BC34CE : STOCK
+0x96BC34CF : BEAST
+0x96BC34D0 : DOUBLE-V
+0x96BC34D1 : TRI-SLOT
+0x96BC34D2 : SPEED
+0x96BC34D3 : G-FORCE
+0x96BC34D4 : OVERDIAL
+0x96BC34D5 : TRIDENT
+0x96BC34D6 : SPEEDLINE
+0x96BC34D7 : DUAL-STAGE
+0x96BDD871 : Infractions Challenge
+0x96E0EB2B : O.Z.
+0x96F68C7A : TWO TONE
+0x96F68C7B : TWO TONE
+0x97232C75 : STOCK
+0x97232C76 : Sonic
+0x97232C77 : Apex
+0x97232C78 : Warp
+0x97232C79 : Vision
+0x97232C7A : Boost
+0x97232C7B : Double-Clutch
+0x97232C7C : Brakestand
+0x97232C7D : Hairpin
+0x97232C7E : Glint
+0x97232C96 : Slipstream
+0x9724CC87 : The Photo cannot be saved because there is not enough space on the storage device. If you would like to save, please insert a new storage device. Do you want to continue without saving?
+0x97269677 : PLAYER
+0x975F2A51 : Shadow Info
+0x97C8B425 : John S^
+0x9803C5C1 : Quit to Career Main Menu
+0x984ADDC5 : Level of Detail
+0x9861182B : STAR
+0x988AF2BB : FREE ROAM
+0x989BA083 : [FOR REFERENCE, ACHIEVEMENT] Fast Wheels
+0x989BA084 : [FOR REFERENCE, ACHIEVEMENT] Need for Speed
+0x989BA085 : [FOR REFERENCE, ACHIEVEMENT] Public Enemy No. 1
+0x989BA086 : [FOR REFERENCE, ACHIEVEMENT] Wheels of Steel
+0x989BA087 : [FOR REFERENCE, ACHIEVEMENT] Big Game Hunter
+0x989BA088 : [FOR REFERENCE, ACHIEVEMENT] Urban Battle
+0x989BA089 : [FOR REFERENCE, ACHIEVEMENT] Car Collector
+0x989BA08A : [FOR REFERENCE, ACHIEVEMENT] Muscle Head
+0x989BA08B : [FOR REFERENCE, ACHIEVEMENT] Tuner Addict
+0x989BA0A3 : [FOR REFERENCE, ACHIEVEMENT] Exotic Aficionado
+0x989BA0A4 : [FOR REFERENCE, ACHIEVEMENT] Reward Card Hustler
+0x989BA0A5 : [FOR REFERENCE, ACHIEVEMENT] Head Start
+0x989BA0A6 : [FOR REFERENCE, ACHIEVEMENT] Race Week
+0x989BA0A7 : [FOR REFERENCE, ACHIEVEMENT] Online Leiutenant
+0x989BA0A8 : [FOR REFERENCE, ACHIEVEMENT] Online General
+0x989BA0A9 : [FOR REFERENCE, ACHIEVEMENT] Lucky Break
+0x989BA0AA : [FOR REFERENCE, ACHIEVEMENT] Rock Solid
+0x989BA0AB : [FOR REFERENCE, ACHIEVEMENT] Online Contender
+0x989BA0AC : [FOR REFERENCE, ACHIEVEMENT] Online Challenge Champ
+0x989BA0C4 : [FOR REFERENCE, ACHIEVEMENT] Showboat
+0x989BA0C5 : [FOR REFERENCE, ACHIEVEMENT] Hot Streak
+0x989BA0C6 : [FOR REFERENCE, ACHIEVEMENT] Iron Man
+0x989BA0C7 : [FOR REFERENCE, ACHIEVEMENT] First Steps
+0x989BA0C8 : [FOR REFERENCE, ACHIEVEMENT] Moderator Challenge
+0x989BA0C9 : [FOR REFERENCE, ACHIEVEMENT] Knockout Fever
+0x989BA0CA : [FOR REFERENCE, ACHIEVEMENT] Canyon Craze
+0x989BA0CB : [FOR REFERENCE, ACHIEVEMENT] Pursuit Pandemic
+0x989BA0CC : [FOR REFERENCE, ACHIEVEMENT] The Carbon Plague
+0x989BA0CD : [FOR REFERENCE, ACHIEVEMENT] Online XP Level 1
+0x989BA0E5 : [FOR REFERENCE, ACHIEVEMENT] Online XP Level 2
+0x989BA0E6 : [FOR REFERENCE, ACHIEVEMENT] Online XP Level 4
+0x989BA0E7 : [FOR REFERENCE, ACHIEVEMENT] Online XP Level 6
+0x989BA0E8 : [FOR REFERENCE, ACHIEVEMENT] Online XP Level 9
+0x989BA0E9 : [FOR REFERENCE, ACHIEVEMENT] Online XP Level 13
+0x989BA0EA : [FOR REFERENCE, ACHIEVEMENT] Online XP Level 18
+0x989BA0EB : [FOR REFERENCE, ACHIEVEMENT] Online XP Level 23
+0x989BA0EC : [FOR REFERENCE, ACHIEVEMENT] Online XP Level 29
+0x989BA0ED : [FOR REFERENCE, ACHIEVEMENT] Online XP Level 35
+0x989BA0EE : [FOR REFERENCE, ACHIEVEMENT] Online XP Level 42
+0x989BA106 : [FOR REFERENCE, ACHIEVEMENT] Online XP Level 50
+0x989D739C : View Stats
+0x989F5411 : WHEELS
+0x98F68ABA : Set Crew Style
+0x9937D252 : Bumper
+0x994EE996 : Game Moments Camera
+0x99859A5F : STOCK 
+0x99C22F1F : BACKDRAFT CF DUAL
+0x99DF4418 : Clear
+0x9A1F9479 : Secondary
+0x9AF0FD54 : Fabricator
+0x9B1180B3 : *CONTROLLER CONFIG*
+0x9B2ED97B : GHOST CF
+0x9B2F65DC : DRAGON CF
+0x9B2FF23D : SCARAB CF
+0x9B307E9E : TANDEM CF
+0x9B310AFF : LYNX CF
+0x9B319760 : BANSHEE CF
+0x9B3223C1 : MYSTIC CF
+0x9B32B022 : SPECTER CF
+0x9B333C83 : SLINGSHOT CF
+0x9B33C8E4 : TORNADO CF
+0x9B40F1FC : VENOM CF
+0x9B417E5D : SWITCHBLADE CF
+0x9B420ABE : SIDEWINDER CF
+0x9B42971F : IMPACT CF
+0x9B432380 : GROUNDMASTER CF
+0x9B43AFE1 : DYNAMO CF
+0x9B443C42 : JOKER CF
+0x9B44C8A3 : PHOENIX CF
+0x9B455504 : FISHTAIL CF
+0x9B45E165 : VIPER CF
+0x9B483E56 : Steer Right
+0x9B530A7D : EDGE CF
+0x9B77D8FC : Need for Speed Carbono Logo Vinyls Unlocked!
+0x9B923DB7 : TWO TONE
+0x9BAB6A1F : *CHOOSE YOUR CREW NAME*
+0x9BB98EC3 : NORTHWEST CF
+0x9BBA1B24 : JETSTREAM CF
+0x9BBAA785 : HEADWIND CF
+0x9BBBC047 : RIPTIDE CF
+0x9BBDF1CB : WINDTUNNEL CF
+0x9BC67128 : Pursuit Evasion
+0x9BD0EF15 : SAL
+0x9BDB9039 : Samson
+0x9C23E3CF : Rearview Mirror
+0x9C890DD3 : Zoom Out
+0x9CA88C48 : TWO TONE
+0x9CAB18D0 : SAL
+0x9D7AA371 : TWO TONE
+0x9D85D5D8 : XBOX LIVE
+0x9D91BB13 : OVERSTEER
+0x9D91BB14 : UNDERSTEER
+0x9DA561FC : SAL
+0x9E30B8DA : Samson
+0x9E599A95 : OUTRAGEOUS HIT!
+0x9E680886 : COLIN
+0x9E780A5F : *PHOTO MODE*
+0x9E7E6800 : Race Style:
+0x9E8988FC : Vibration
+0x9EDAA032 : One player starts as the Racer and the rest start as Cops!^Bust the Racer to become the new Racer.^The player who was the Racer for the most time wins!^See the Top Cops and Racer rankings at NeedforSpeed.com!
+0x9F25614B : Tuning brake components for rear bias versus front bias allows you to control how the car handles under hard braking.  Tune for rear bias to lock the rear tires up first or tune for front bias if you want the front tires to lock up first.
+0x9F4463DF : SHURIKEN
+0x9F46F589 : Cooper Tire Logo Unlocked!
+0x9F8805F7 : Track Name:
+0x9F969E5A : CHALLENGE COMPLETE!
+0x9FA9D8A2 : STOCK
+0x9FA9D8C7 : TWO TONE
+0x9FF9D40F : You been challenged to a race! Select the goal for the race from the map. Whoever makes it there first wins.
+0xA00CA316 : Logo 1
+0xA00CA317 : Logo 2
+0xA00CA318 : Logo 3
+0xA00CA319 : Logo 4
+0xA00CA31A : Logo 5
+0xA00CA31B : Logo 6
+0xA00CA31C : Logo 7
+0xA00CA31D : Logo 8
+0xA00CA31E : Logo 9
+0xA0409BDD : FORD
+0xA085E17B : Samson
+0xA0955DA0 : [FOR REFERENCE, ACHIEVEMENT] Complete Career Mode
+0xA0955DA1 : [FOR REFERENCE, ACHIEVEMENT] Complete Career Mode and own every race
+0xA0955DA2 : [FOR REFERENCE, ACHIEVEMENT] Ram 100 police vehicles in a single pursuit while in Career Freeroam.
+0xA0955DA3 : [FOR REFERENCE, ACHIEVEMENT] Escape after a 12 minute police pursuit in Career Freeroam.
+0xA0955DA4 : [FOR REFERENCE, ACHIEVEMENT] Win a Canyon Duel with no collisions
+0xA0955DA5 : [FOR REFERENCE, ACHIEVEMENT] Score 500,000 points in a Drift event.
+0xA0955DA6 : [FOR REFERENCE, ACHIEVEMENT] Earn 1,000,000 cash in Career Mode
+0xA0955DA7 : [FOR REFERENCE, ACHIEVEMENT] Beat all Bronze Challenge Series Events
+0xA0955DA8 : [FOR REFERENCE, ACHIEVEMENT] Beat all Silver Challenge Series Events
+0xA0955DC0 : [FOR REFERENCE, ACHIEVEMENT] Beat all Gold Challenge Series Events
+0xA0955DC1 : [FOR REFERENCE, ACHIEVEMENT] Cause 200,000 Cost to State in a single pursuit while in Career Freeroam
+0xA0955DC2 : [FOR REFERENCE, ACHIEVEMENT] Hit 230 Mph in a Speedtrap
+0xA0955DC3 : [FOR REFERENCE, ACHIEVEMENT] Disable 50 police vehicles while in Career Freeroam
+0xA0955DC4 : [FOR REFERENCE, ACHIEVEMENT] Avoid 5 spike strips in a police pursuit while in Career Freeroam
+0xA0955DC5 : [FOR REFERENCE, ACHIEVEMENT] Immobilize a police Rhino while in Career Freeroam
+0xA0955DC6 : [FOR REFERENCE, ACHIEVEMENT] Win 50 Free Roam Challenges in Career Mode
+0xA0955DC7 : [FOR REFERENCE, ACHIEVEMENT] Unlock 36 Cars
+0xA0955DC8 : [FOR REFERENCE, ACHIEVEMENT] Fill your Career Garage with only Muscle Cars
+0xA0955DC9 : [FOR REFERENCE, ACHIEVEMENT] Fill your Career Garage with only Tuner Cars
+0xA0955DE1 : [FOR REFERENCE, ACHIEVEMENT] Fill your Career Garage with only Exotic Cars
+0xA0955DE2 : [FOR REFERENCE, ACHIEVEMENT] Completed entire Offline and Online Reward Cards
+0xA0955DE3 : [FOR REFERENCE, ACHIEVEMENT] Win an Online race at York Road after giving your opponents a 10 second head start
+0xA0955DE4 : [FOR REFERENCE, ACHIEVEMENT] Finish an Online race during a Race Week
+0xA0955DE5 : [FOR REFERENCE, ACHIEVEMENT] Play 50 games Online
+0xA0955DE6 : [FOR REFERENCE, ACHIEVEMENT] Play 100 games Online
+0xA0955DE7 : [FOR REFERENCE, ACHIEVEMENT] Get a 3-game winning streak in Ranked Online games
+0xA0955DE8 : [FOR REFERENCE, ACHIEVEMENT] Get a 5-game winning streak in Ranked Online games
+0xA0955DE9 : [FOR REFERENCE, ACHIEVEMENT] Beat 5 Challenge Series Events Online
+0xA0955DEA : [FOR REFERENCE, ACHIEVEMENT] Beat 15 Challenge Series Events Online
+0xA0955E02 : [FOR REFERENCE, ACHIEVEMENT] Cross the finish line in reverse to win a Ranked Sprint race
+0xA0955E03 : [FOR REFERENCE, ACHIEVEMENT] Get a 4-game winning streak in Ranked Online games
+0xA0955E04 : [FOR REFERENCE, ACHIEVEMENT] Get a 6-game winning streak in Ranked Online games
+0xA0955E05 : [FOR REFERENCE, ACHIEVEMENT] Finish an Online Ranked race or Online Challenge Series race
+0xA0955E06 : [FOR REFERENCE, ACHIEVEMENT] Beat an EA Moderator in an Online game
+0xA0955E07 : [FOR REFERENCE, ACHIEVEMENT] Catch Knockout Fever by playing an Online Pursuit Knockout race with an infected player
+0xA0955E08 : [FOR REFERENCE, ACHIEVEMENT] Catch Canyon Craze by playing an Online Canyon Duel with an infected player
+0xA0955E09 : [FOR REFERENCE, ACHIEVEMENT] Catch the Pursuit Pandemic by playing an Online Pursuit Tag game with an infected player
+0xA0955E0A : [FOR REFERENCE, ACHIEVEMENT] Catch the Carbon Plague by catching all 3 other viruses
+0xA0955E0B : [FOR REFERENCE, ACHIEVEMENT] Reach Online XP Level 1
+0xA0955E23 : [FOR REFERENCE, ACHIEVEMENT] Reach Online XP Level 2
+0xA0955E24 : [FOR REFERENCE, ACHIEVEMENT] Reach Online XP Level 4
+0xA0955E25 : [FOR REFERENCE, ACHIEVEMENT] Reach Online XP Level 6
+0xA0955E26 : [FOR REFERENCE, ACHIEVEMENT] Reach Online XP Level 9
+0xA0955E27 : [FOR REFERENCE, ACHIEVEMENT] Reach Online XP Level 13
+0xA0955E28 : [FOR REFERENCE, ACHIEVEMENT] Reach Online XP Level 18
+0xA0955E29 : [FOR REFERENCE, ACHIEVEMENT] Reach Online XP Level 23
+0xA0955E2A : [FOR REFERENCE, ACHIEVEMENT] Reach Online XP Level 29
+0xA0955E2B : [FOR REFERENCE, ACHIEVEMENT] Reach Online XP Level 35
+0xA0955E2C : [FOR REFERENCE, ACHIEVEMENT] Reach Online XP Level 42
+0xA0955E44 : [FOR REFERENCE, ACHIEVEMENT] Reach Online XP Level 50
+0xA0A416DC : TWO TONE
+0xA0AEE6E5 : Police SUV
+0xA0E99459 : Please press Start on\second controller.
+0xA1853492 : STOCK
+0xA1A10606 : Logo 10
+0xA1A10607 : Logo 11
+0xA1A10608 : Logo 12
+0xA1A10609 : Logo 13
+0xA1A1060A : Logo 14
+0xA1A1060B : Logo 15
+0xA1A1060C : Logo 16
+0xA1A1060D : Logo 17
+0xA1A1060E : Logo 18
+0xA1A1060F : Logo 19
+0xA1A10627 : Logo 20
+0xA1A10628 : Logo 21
+0xA1A10629 : Logo 22
+0xA1A1062A : Logo 23
+0xA1A1062B : Logo 24
+0xA1A1062C : Logo 25
+0xA1A1062D : Logo 26
+0xA1A1062E : Logo 27
+0xA1A1062F : Logo 28
+0xA1A10630 : Logo 29
+0xA1A10648 : Logo 30
+0xA1A10649 : Logo 31
+0xA1A1064A : Logo 32
+0xA1A1064B : Logo 33
+0xA1A1064C : Logo 34
+0xA1A1064D : Logo 35
+0xA1A1064E : Logo 36
+0xA1A1064F : Logo 37
+0xA1A10650 : Logo 38
+0xA1A10651 : Logo 39
+0xA1A10669 : Logo 40
+0xA1A1066A : Logo 41
+0xA1A1066B : Logo 42
+0xA1A1066C : Logo 43
+0xA1A1066D : Logo 44
+0xA1A1066E : Logo 45
+0xA1A1066F : Logo 46
+0xA1A10670 : Logo 47
+0xA1A10671 : Logo 48
+0xA1A10672 : Logo 49
+0xA1A1068A : Logo 50
+0xA1A1068B : Logo 51
+0xA1A1068C : Logo 52
+0xA1A1068D : Logo 53
+0xA1A1068E : Logo 54
+0xA1A1068F : Logo 55
+0xA1A10690 : Logo 56
+0xA1A10691 : Logo 57
+0xA1A10692 : Logo 58
+0xA1A10693 : Logo 59
+0xA1A106AB : Logo 60
+0xA1A106AC : Logo 61
+0xA1A106AD : Logo 62
+0xA1A106AE : Logo 63
+0xA1A106AF : Logo 64
+0xA1A106B0 : Logo 65
+0xA1A106B1 : Logo 66
+0xA1A106B2 : Logo 67
+0xA1A106B3 : Logo 68
+0xA1A106B4 : Logo 69
+0xA1A106CC : Logo 70
+0xA1A106CD : Logo 71
+0xA1A106CE : Logo 72
+0xA1A106CF : Logo 73
+0xA1A106D0 : Logo 74
+0xA1A106D1 : Logo 75
+0xA1A106D2 : Logo 76
+0xA1A106D3 : Logo 77
+0xA1A106D4 : Logo 78
+0xA1A106D5 : Logo 79
+0xA1A106ED : Logo 80
+0xA1A106EE : Logo 81
+0xA1A106EF : Logo 82
+0xA1A106F0 : Logo 83
+0xA1A106F1 : Logo 84
+0xA1A106F2 : Logo 85
+0xA1A106F3 : Logo 86
+0xA1A106F4 : Logo 87
+0xA1A106F5 : Logo 88
+0xA1A106F6 : Logo 89
+0xA1A1070E : Logo 90
+0xA1A65E2E : *TERRITORY*
+0xA1DD555D : Tuning transmission components for top speed versus acceleration allows you to control the final drive gear ratio.  Tune for low gear ratios to get quicker acceleration, or tune for high gear ratios to reach a higher top speed.
+0xA22CB52E : [FOR REFERENCE, RICH PRESENCE] Unranked
+0xA24247E6 : EDELBROCK
+0xA26BC0DC : All Areas
+0xA2DB0A1C : Yumi
+0xA2DC366F : Reverse
+0xA30C9D8F : NO OWNER
+0xA30C9D90 : 21ST STREET
+0xA30C9D91 : STACKED DECK
+0xA30C9D92 : BUSHIDO
+0xA30C9D93 : T.F.K.
+0xA30C9D94 : BLACK HEARTS
+0xA30C9D95 : KINGS
+0xA30C9D96 : INFERNO
+0xA30C9D97 : LOS COLIBRIES
+0xA30C9D98 : ROTOR 4
+0xA30C9DB0 : SCORPIOS
+0xA334EECD : THAILAND
+0xA33BBF05 : M
+0xA3F20AC4 : Pause
+0xA42158F1 : USA
+0xA4406307 : Enter on numeric keypad
+0xA51E999F : PEARL INDIGO
+0xA53032BD : Yumi
+0xA5DFBC09 : Tuning engine components for torque versus horsepower allows you to control the cars power curve. Tune for torque and get quicker acceleration or tune for horsepower to reach a higher top speed.
+0xA620CB68 : HENSHIN
+0xA6DD3128 : SUPERCHARGER
+0xA7855B5E : Yumi
+0xA7B69651 : Rumble
+0xA7E36005 : Medium
+0xA7EBC389 : © 2006 Electronic Arts Inc. All rights reserved.
+0xA82FAB95 : DODGE
+0xA8416EEE : NFS CARBON 1
+0xA841AA18 : SOCCER BALL
+0xA845ADD7 : CROSS BONES
+0xA8496958 : PET 2
+0xA8496959 : PET 3
+0xA849695A : PET 4
+0xA849695B : PET 5
+0xA84AAA43 : NFS CARBON 3
+0xA84B0C2A : DRIVER
+0xA871CA27 : REVHARD
+0xA8783694 : Activate Crew Member
+0xA8C0B589 : LOTUS
+0xA8CB37FF : MAZDA
+0xA8DDB229 : STOCK 
+0xA8DDB521 : STOCK 2
+0xA8EC10F6 : CHALLENGE SERIES^
+0xA8F6AD14 : Casino Area
+0xA93655CD : *CROSS SELL*
+0xA9488CB8 : YOU FINISHED EIGHTH!
+0xA950B0C6 : Stereo
+0xA9615E9C : Centrifugal Supercharger
+0xA9615E9D : Air to Air Intercooler
+0xA9615E9E : Custom Pulley Kit
+0xA9615E9F : Roots Supercharger
+0xA9615EA0 : Air to Water Intercooler
+0xA9615EA1 : Blow Off Valve
+0xA9615EA2 : Twin Screw Supercharger
+0xA9615EA3 : Custom Blow Off Valve
+0xA9615EA4 : Custom Nose Drive Assembly
+0xA9740083 : Add Layer
+0xA97DF71E : YOU FINISHED ELEVENTH
+0xA9AB6095 : Transmission Porompt
+0xA9DA83FF : Colin
+0xAA030AD0 : Cost to State
+0xAA450AAA : Infractions this Pursuit
+0xAA52ACE7 : *SHOPPING CART*
+0xAADAD441 : *CONTROLS*
+0xAB0F78FE : Crew Info
+0xAB2F7EE6 : Reward
+0xAB8E1787 : Canyon Checkpoint
+0xAB92E6D6 : Surround
+0xAB94D8A8 : Race Wars
+0xABC34956 : CHEATS
+0xAC122037 : YOU FINISHED FOURTH!
+0xAC2FACA0 : Colin
+0xAC5C4C95 : Are you sure you want to remove this Friend?
+0xACEB8F91 : Knockout
+0xACF47E4B : Remove
+0xACF5DB79 : Fire Truck Unlocked For Quick Race!
+0xAD408BA3 : None
+0xAD818982 : BLOCKER
+0xAD9D273B : DENMARK
+0xADCC82F7 : TWO TONE
+0xADDF19E2 : YOU FINISHED THIRTEENTH
+0xAE07B73F : ALIAS
+0xAE0FD39A : STOCK
+0xAE0FD39B : NORTHWEST
+0xAE0FD39C : JETSTREAM
+0xAE0FD39D : HEADWIND
+0xAE0FD39F : RIPTIDE
+0xAE0FD3A3 : WINDTUNNEL
+0xAE376182 : Safe House
+0xAE551AC6 : Race Map Mode
+0xAE84D541 : Colin
+0xAF236425 : MOVE
+0xAF269B48 : SKEW
+0xAF3244F7 : FLOWTECH
+0xAFAD65E7 : RESTARTING
+0xAFB2A2FC : Giving up?
+0xAFD67505 : DRAGON
+0xB04DA4AD : The Autosave feature has been disabled.
+0xB04DE296 : Bounty
+0xB0784ECF : 1280x1024
+0xB07BBC84 : ROOSTER
+0xB0C94D1D : TEMPEST CF DUAL
+0xB0D50278 : SAL
+0xB0D9FDE2 : Nikki
+0xB0E77EA0 : Shift Down
+0xB0EB3560 : HONEYCOMB
+0xB0F209DC : SHADOW
+0xB1302FB5 : NFS CARBON 2
+0xB13B4622 : World Detail
+0xB14E81B5 : Random Race
+0xB163722F : INTERFACE
+0xB1AE364E : NFS CARBON 4
+0xB1BC7BE5 : NFS CARBON 5
+0xB24AAE58 : *MAIN MENU*
+0xB24D4104 : LIGHT BLACK
+0xB24D4105 : LIGHT BLUE
+0xB24D4106 : LIGHT GREEN
+0xB24D4107 : LIGHT RED
+0xB24D4108 : LIGHT YELLOW
+0xB24D4109 : LIGHT AQUA
+0xB24D410A : LIGHT CORAL
+0xB24D410B : LIGHT ORANGE
+0xB24D410C : LIGHT LIME
+0xB26CFAD1 : ENGAGE EVENT
+0xB29AD429 : Oversteer
+0xB2BB15E8 : Lamborghini Murciélago
+0xB2C5EC08 : XP Level 1
+0xB2C5EC09 : Showtime
+0xB2C5EC0A : XP Level 2
+0xB2C5EC0B : XP Level 4
+0xB2C5EC0C : Shadow Challenge
+0xB2C5EC0D : First Steps
+0xB2C5EC0E : Online Contender
+0xB2C5EC0F : Sultan of Sprint
+0xB2C5EC10 : XP Level 6
+0xB2C5EC28 : Big Game Champ
+0xB2C5EC29 : Photographer
+0xB2C5EC2A : Online Challenge Champ
+0xB2C5EC2B : Tag Master
+0xB2C5EC2C : Super Canyon King
+0xB2C5EC2D : XP Level 9
+0xB2C5EC2E : Lucky Break
+0xB2C5EC2F : XP Level 18
+0xB2C5EC30 : Circuit Star
+0xB2C5EC31 : Online Leiutenant
+0xB2C5EC49 : Super Sultan of Sprint
+0xB2C5EC4A : Rock Solid
+0xB2C5EC4B : Super Circuit Star
+0xB2C5EC4C : Speedtrap Specialist
+0xB2C5EC4D : XP Level 13
+0xB2C5EC4E : Online General
+0xB2C5EC4F : Hot Streak
+0xB2C5EC50 : Canyon King
+0xB2C5EC51 : Super Tag Master
+0xB2C5EC52 : XP Level 29
+0xB2C5EC6A : Super Speedtrap Specialist
+0xB2C5EC6B : Showboat
+0xB2C5EC6C : XP Level 23
+0xB2C5EC6D : Super Lord of KO
+0xB2C5EC6E : Moderator Challenge
+0xB2C5EC6F : Lord of KO
+0xB2C5EC70 : XP Level 42
+0xB2C5EC71 : XP Level 50
+0xB2C5EC72 : Iron Man
+0xB2C5EC73 : XP Level 35
+0xB2C5EC8B : Online Colonel
+0xB2C5EC8C : Lucky Break
+0xB2F11949 : Slotted Rotors
+0xB2F1194A : Braided Brake Lines
+0xB2F1194B : High Performance Brake Pads
+0xB2F1194C : Brake Cooling Kit
+0xB2F1194D : High Performance 4 Piston Calipers
+0xB2F1194E : Racing Hub Kit
+0xB2F1194F : Cross Drilled and Slotted Rotors
+0xB2F11950 : 6 Piston Racing Calipers
+0xB2F11951 : Race Compound Brake Pads
+0xB33794E9 : Are you sure you want to enable Autosave? The Autosave feature will automatically save your progress throughout the game, and any settings changes you make. Autosave will overwrite information without confirmation.
+0xB33CC978 : N/A
+0xB3415075 : EA Messenger / Guide
+0xB3762B67 : ATOM
+0xB377D358 : DUDE
+0xB378BB0C : FIST
+0xB3800E3A : SUMO
+0xB38081BA : TORO
+0xB38FD88C : RIPTIDE CF DUAL
+0xB398C053 : An Autosave feature is available that will automatically save your progress throughout the game, and any settings changes you make. Autosave will overwrite information without confirmation. When the following icon flashes, do not turn off the power.
+0xB39C462B : Shift Down
+0xB3BD341D : What's taking so long?
+0xB43F19D3 : 5Zigen
+0xB4512DB6 : SPEED BONUS
+0xB45A755E : PHOTO MODE
+0xB469078E : GIOVANNA
+0xB46D6420 : EXOTIC
+0xB4BC670A : Handbrake
+0xB4D985B2 : Change Camera View
+0xB4DFD5FB : Decline
+0xB4EE462B : TIME / BEST SCORE
+0xB58BA9E8 : RIDE HEIGHT DROP
+0xB59F661E : Click on a field to edit it.
+0xB5DD59BB : LOADING...
+0xB5E15B58 : Shift Up
+0xB5EC2C87 : You must Sign In to send a Photo to NeedforSpeed.com. 
+0xB5F96828 : LOW RPM
+0xB5F96829 : HIGH RPM
+0xB63F1310 : RKSPORT
+0xB6641B4E : YOU'RE THE RACER!^^EVADE
+0xB66B8FC1 : DESCRIPTION:
+0xB67BCF6B : *ENGAGE EVENT*
+0xB6F7A53A : VINYLS
+0xB6FA50A9 : Visual
+0xB72BE54E : TWO TONE
+0xB7712E95 : Handbrake
+0xB8317D10 : Controlled By:
+0xB83D5628 : MERCEDES-BENZ
+0xB84C4B14 : % OF TIME AS POLICE
+0xB87BA57B : SAN JUAN
+0xB88DBDFC : KEMPTON
+0xB891C850 : Switchblade Spoiler
+0xB891C851 : NFS Carbon Logo Vinyls
+0xB891C852 : Venom Spoiler
+0xB891C853 : Pearlescent Paint
+0xB891C854 : Sidewinder Spoiler
+0xB891C855 : Overdial & Shaker Hoods
+0xB891C856 : Pearl Window Tint
+0xB891C857 : Impact Spoiler
+0xB891C858 : Honey Vinyl
+0xB891C870 : Tornado Spoiler
+0xB891C871 : Groundmaster Spoiler
+0xB891C872 : Race Flag Vinyls
+0xB891C873 : 1992 Nissan 240 SX
+0xB891C874 : Camo & Pinstripe Vinyls
+0xB891C875 : 2007 Jaguar XK
+0xB89FD67D : DOWNTOWN
+0xB8A87945 : Win a bunch of Career Races
+0xB8B1EEFE : FORTUNA
+0xB8C4077F : SILVERTON
+0xB8D62000 : CANYON
+0xB8D6FD30 : NUMBER 0
+0xB8D6FD31 : NUMBER 1
+0xB8D6FD32 : NUMBER 2
+0xB8D6FD33 : NUMBER 3
+0xB8D6FD34 : NUMBER 4
+0xB8D6FD35 : NUMBER 5
+0xB8D6FD36 : NUMBER 6
+0xB8D6FD37 : NUMBER 7
+0xB8D6FD38 : NUMBER 8
+0xB8D6FD39 : NUMBER 9
+0xB8D6FD51 : NUMBER 0
+0xB8D6FD52 : NUMBER 1
+0xB8D6FD53 : NUMBER 2
+0xB8D6FD54 : NUMBER 3
+0xB8D6FD55 : NUMBER 4
+0xB8D6FD56 : NUMBER 5
+0xB8D6FD57 : NUMBER 6
+0xB8D6FD58 : NUMBER 7
+0xB8D6FD59 : NUMBER 8
+0xB8D6FD5A : NUMBER 9
+0xB8DCC4BE : DARK INDIGO
+0xB8F8AD64 : Pursuit Length
+0xB93A04C3 : YOU WON!
+0xB94F81CB : If your car gets chased by cops too much, it's time to lower the heat of your car. You can do this by modifying the visual appearance of the car or using a Lower Heat card that you can win from Boss Races.^
+0xB9776F1C : YOU'RE BUSTED!^^CATCH THE RACER
+0xB98ECBE3 : Camera Controls
+0xB9BAD7E1 : MECHANIC
+0xBA697B82 : DELETE
+0xBAF19376 : Lexus IS300
+0xBAF19377 : Enkei WRC Tarmac Wheels
+0xBAF19378 : Dynamo Spoiler
+0xBAF19379 : Force Exhaust
+0xBAF1937A : Joker Spoiler
+0xBAF1937B : Center Line Retro Wheels
+0xBAF1937C : Joker CF Spoiler
+0xBAF1937D : Plymouth® Road Runner
+0xBAF1937E : Phoenix Spoiler
+0xBB194258 : Time (Minutes)
+0xBB1AF709 : APEX
+0xBB1B129A : AVUS
+0xBB1B4395 : BAER
+0xBB1C9916 : DONZ
+0xBB206FAC : KONI
+0xBB218853 : MOMO
+0xBB231256 : PIAA
+0xBB240C3A : RAYS ENGINEERING
+0xBB241CD7 : REVO
+0xBB2445C7 : RO_JA
+0xBB244711 : ROTA
+0xBB255DC3 : TODA RACING
+0xBB256086 : TOYO
+0xBB26D967 : WELD
+0xBB2704BE : WORK
+0xBB289B6C : JAGUAR
+0xBB3F3671 : NIKKI
+0xBB6D7896 : [FOR REFERENCE, RICH PRESENCE] Circuit
+0xBB6D7897 : [FOR REFERENCE, RICH PRESENCE] Sprint
+0xBB6D7898 : [FOR REFERENCE, RICH PRESENCE] Speedtrap
+0xBB6D7899 : [FOR REFERENCE, RICH PRESENCE] Drift
+0xBB6D789A : [FOR REFERENCE, RICH PRESENCE] Canyon
+0xBB6D789B : [FOR REFERENCE, RICH PRESENCE] Pursuit KO
+0xBB6D789C : [FOR REFERENCE, RICH PRESENCE] Purs. Tag
+0xBB6D789D : [FOR REFERENCE, RICH PRESENCE] Sp. Event
+0xBB6D789E : [FOR REFERENCE, RICH PRESENCE] Checkpoint
+0xBB6D78B6 : [FOR REFERENCE, RICH PRESENCE] Pursuit
+0xBB6D78B7 : [FOR REFERENCE, RICH PRESENCE] Tutorial
+0xBB6D78B8 : [FOR REFERENCE, XLAST] Crew Ch.
+0xBB806D4B : DYNATECH
+0xBBD2565F : CREW CHALLENGES
+0xBBE2483E : How would you like to proceed to the Car Lot?
+0xBC10D7CD : Car
+0xBC1C4F7A : PEARL SILVER
+0xBCA54C44 : LEOPARD
+0xBCDA8802 : *CANYON*
+0xBCED8DB0 : VELOCITY
+0xBCED8DB1 : DURATION
+0xBD7AEC8C : TWO TONE
+0xBDF65118 : Purchase
+0xBE57E9D2 : TOTAL TIME
+0xBE67BEF5 : Koenigsegg CCX
+0xBEAD4117 : TWO TONE
+0xBEE0517D : TWO TONE
+0xBF0D4485 : Medium
+0xBF2C27FA : TWO TONE
+0xBFDFF3FB : CATEGORY:
+0xBFE2B596 : TWO TONE
+0xBFE408DD : Lamborghini Murciélago LP640
+0xC00700D4 : Particle System^
+0xC01268F1 : TWO TONE
+0xC027BAF9 : Enter Shop / Engage Event
+0xC042333A : Tuning the tire selection for drift versus grip allows you to control how much the car slides.  Tune for drift if you want the car to slide out while cornering or tune for grip if you want the car to hold the line while cornering.
+0xC048C75F : Tuning turbo components allows you to control the spool time on your turbo.  Tuning for low RPM will allow the turbo to spool up quicker but will result in less boost, or tune for high RPM to allow the turbo to take longer to spool up but will result in higher boost.
+0xC07A38C8 : All Available Races
+0xC07F16F8 : JACKSON RACING
+0xC0A0A366 : SAL
+0xC0FCD63A : NEVILLE
+0xC11DD6BB : GERMANY
+0xC1365006 : Bronze
+0xC13AE910 : *DRIFT TIPS*
+0xC1C92F0F : Brake/Reverse
+0xC221ED9B : Free Roam Map Mode
+0xC247FFBA : ONLINE PURSUIT KNOCKOUT
+0xC261DEEE : LAURELS
+0xC2E3E20D : Reset Car
+0xC31D43F8 : PEARL VIOLET
+0xC367E3DF : %s IS THE RACER
+0xC389FBFF : Look Back
+0xC3E778A1 : CREW USE- BLOCKER
+0xC5148DFE : NISSAN
+0xC558E0FD : RACE ON THE EDGE...
+0xC558E0FE : DOMINATE THE CITY
+0xC5F55F6F : SKELETON
+0xC6B9C0FA : Come on coward!
+0xC6E2493D : MUSCLE
+0xC7124B07 : Save Photo
+0xC71F8977 : [FOR REFERENCE, RICH PRESENCE] In the Main Menu
+0xC71F8978 : [FOR REFERENCE, RICH PRESENCE] Managing Cars
+0xC71F8979 : [FOR REFERENCE, RICH PRESENCE] Career Menu
+0xC71F897A : [FOR REFERENCE, RICH PRESENCE] 1-Player Career
+0xC71F897B : [FOR REFERENCE, RICH PRESENCE] Online Co-op Career
+0xC71F897C : [FOR REFERENCE, RICH PRESENCE] Career Free Roam
+0xC71F897D : [FOR REFERENCE, RICH PRESENCE] Challenge Series Menu
+0xC71F897E : [FOR REFERENCE, RICH PRESENCE] 1-Player Ch. Series
+0xC71F897F : [FOR REFERENCE, RICH PRESENCE] Split-scr. Ch. Series
+0xC71F8997 : [FOR REFERENCE, RICH PRESENCE] Online Ch. Series
+0xC71F8998 : [FOR REFERENCE, RICH PRESENCE] Quick Race Menu
+0xC71F8999 : [FOR REFERENCE, RICH PRESENCE] 1-Player Quick Race
+0xC71F899A : [FOR REFERENCE, RICH PRESENCE] Split-scr. Quick Race
+0xC71F899B : [FOR REFERENCE, RICH PRESENCE] Online Matchmaking
+0xC71F899C : [FOR REFERENCE, RICH PRESENCE] Online
+0xC71F899D : [FOR REFERENCE, RICH PRESENCE] Watching Game
+0xC7214728 : Chevrolet Chevelle SS
+0xC744F93A : PURSUIT PANDEMIC
+0xC788CCB2 : Sensitivity
+0xC7C04A90 : Each lap the last Racer to cross the line becomes a Cop!^Cops score points by ramming into Racers.^The player with the most Cop Points in a single lap is the winning Cop.^Be the last surviving Racer and finish the race to rank first place overall.^See the Top Cops and Racer rankings at NeedforSpeed.com!
+0xC7D49ADB : Spike Strips Dodged
+0xC81E0920 : Speedbreaker
+0xC843C6C4 : Press a button to re-map this function or press ESC to cancel.
+0xC863E00D : PURSUIT
+0xC8AFDDF3 : Cross Corvette Z06 Unlocked For Quick Race!
+0xC903AAE2 : EIGHTBALL
+0xC91213FD : You can customize, shape, and modify wheels, hoods, spoilers, and more within the Autosculpt area.^
+0xC92CA8AB : Speedtrap
+0xC94C6C81 : Canyon duel is a two-stage race
+0xC94C70C2 : First run: chase your opponent
+0xC94C70C3 : The closer you follow, the more points you score
+0xC94C7503 : Second run: your opponent chases you
+0xC94C7504 : The closer they follow, the more points you lose
+0xC94C7944 : If the leader loses the lead for more than 10 seconds they lose
+0xC94C7945 : If a driver falls off the cliff, they lose.
+0xC94C7946 : Reach the finish line with points to win.
+0xC94CC325 : Song:  %s Artist: %s CD:  %s
+0xC94E45DC : ONLINE PURSUIT TAG
+0xC9513B47 : NEVILLE
+0xC967D4FB : Take Screenshot
+0xC969ACE8 : American Racing Torq-Thrust ST
+0xC969ACE9 : TSW Laguna
+0xC969ACEA : Work Euroline FE
+0xC969ACEB : HRE 549R
+0xC969ACEC : Chevrolet Chevelle SS
+0xC969ACED : Giovanna Ararat
+0xC969ACEE : Slingshot Autosculpt
+0xC969ACEF : Murciélago LP640
+0xC969ACF0 : Slingshot Autosculpt CF
+0xC969AD08 : Specter Autosculpt
+0xC969AD09 : Specter Autosculpt CF
+0xC969AD0A : Mystic Autosculpt
+0xC969AD0B : Dragon Vinyl
+0xC969AD0C : Skeleton Vinyl
+0xC969AD0D : Jaguar Vinyl
+0xC969AD0E : Police Civic Cruiser
+0xC969AD0F : Police Interceptor
+0xC969AD10 : Police Rhino
+0xC969AD11 : Cross Corvette Z06
+0xC969AD29 : Dumptruck
+0xC969AD2A : Mystic Autosculpt CF
+0xC969AD2B : Carbon ST-5 Autosculpt Rims
+0xC969AD2C : Mitsubishi Eclipse 1999
+0xC969AD2D : Firetruck
+0xC969AD2E : BMW M3 GTR
+0xC9A64EFB : YOU FINISHED SECOND!
+0xC9D2B801 : PEARL YELLOW
+0xCA199BB3 : *ACTIVE CREW MEMBER*
+0xCA2CABEB : As a Fixer, Neville can keep the heat from increasing in the zone he races in. He will also earn you more cash from a race on his side bets.
+0xCA38E671 : STOCK 2
+0xCA8BDFEB : Reached Online XP Level %d! 
+0xCA96F68A : HEADWIND CF DUAL
+0xCAC4521B : Let's talk
+0xCAF640C2 : USA
+0xCB1584A4 : *GAMEPLAY*
+0xCB15F11D : Once you've equipped your car with Nitrous Oxide, you can use it during races to gain a momentary boost of speed.^
+0xCB250325 : Win 25 Career Race
+0xCB3FC103 : Trade Paint
+0xCB3FEBE9 : STOCK
+0xCB78F13C : YUMI
+0xCBB53794 : BOSS
+0xCBC6585D : ONLINE
+0xCBD7BEF1 : Left Ctrl
+0xCC087E6F : Porsche 911 Turbo
+0xCC2476F3 : No races of this type in this area.
+0xCC327FCE : COMPTECH
+0xCC732448 : SAVING...
+0xCC993D76 : CAMO 11
+0xCC993D77 : CAMO 12
+0xCC9AEFDD : LIGHT INDIGO
+0xCCEECDA2 : Loose
+0xCCEECDA3 : Medium
+0xCCEECDA4 : Tight
+0xCD423DB6 : YOU FINISHED TWELFTH
+0xCD42460A : YOU FINISHED TWENTIETH
+0xCD916983 : Fire Truck
+0xCDC7E70C : FLAME 1
+0xCDC7E70D : FLAME 2
+0xCDC7E70E : FLAME 3
+0xCDC7E70F : FLAME 4
+0xCDC7E710 : FLAME 5
+0xCDC7E711 : FLAME 6
+0xCDC7E712 : FLAME 7
+0xCDC7E713 : FLAME 8
+0xCDC7E714 : FLAME 9
+0xCDC7E72C : FLAME 10
+0xCDC7E72D : FLAME 11
+0xCDC7E72E : FLAME 12
+0xCDC7E72F : FLAME 13
+0xCDC7E730 : FLAME 14
+0xCDC7E731 : FLAME 15
+0xCDC7E732 : FLAME 16
+0xCDC7E733 : FLAME 17
+0xCDC7E734 : FLAME 18
+0xCDC7E735 : FLAME 19
+0xCDC7E74D : FLAME 20
+0xCDC7E74E : FLAME 21
+0xCDC7E74F : FLAME 22
+0xCDC7E750 : FLAME 23
+0xCDC7E751 : FLAME 24
+0xCDC7E752 : FLAME 25
+0xCDE52032 : Map Screen
+0xCDE9C11C : Sal will take the heat down on your car after every win when you race with him. In the garage, he'll give you access to some of the locked Autosculpt parts.
+0xCE039D8B : SAL
+0xCE45361D : Optimize Performance
+0xCE7712FA : BURNOUT
+0xCE96FC4A : BODY
+0xCE9BE3F1 : Move Layer Up/Down
+0xCEC264AE : Checking Online high scores
+0xCEE4FBCB : *SHOWCASE*
+0xCF0B8A07 : 1280x960
+0xCF52681A : Space
+0xCF5BA61E : CHEVROLET
+0xCF66B246 : Congratulations! You've just unlocked a special edition Mazda RX-8 for Quick Race events. It can be selected under the Bonus cars. 
+0xCF93709B : How would you like to proceed to the event?
+0xCFC4833D : Marcel^
+0xCFDA7A99 : DARK SILVER
+0xCFF8DCD2 : --:--.--
+0xD0344C10 : *LAPS*
+0xD052F1D4 : ROTOR4
+0xD07D8D9E : No files were found.
+0xD0A475B9 : SHELBY
+0xD1047A6F : AMERICAN RACING
+0xD128F223 : OPTIONS
+0xD1600E0E : Palmont City is dominated by 3 major Crews: Kenji's Bushido, Wolf's TFK and Angie's 21st Street.
+0xD160124F : Win races to take over zones.
+0xD1601250 : Take over zones to challenge a Boss.
+0xD1601690 : Defeat a Boss in a series of races to conquer their area.
+0xD17C05B1 : CANYON DUEL RANK POINTS
+0xD18DE264 : SUBARU
+0xD1C120A6 : BMW M3 GTR
+0xD1C64BE3 : Brightness
+0xD1D1BCB0 : AUTOZONE
+0xD219ABDE : Nikki
+0xD22BC704 : STOCK 2
+0xD22BC705 : STOCK 3
+0xD24C3B69 : Canyon Duel
+0xD253935A : Canyon Race
+0xD26DDD2D : 5ZIGEN
+0xD2B6AC4B : The bust meter shows how close the Racer is to being busted, and how much you have contributed to the bust.^When you become the Racer, you have 5 seconds of immunity before you can be busted!^See the Top Cops and Racer rankings at NeedforSpeed.com!
+0xD2C9E20E : RO_JA
+0xD2CC13DE : Volk
+0xD2D9745D : SPEEDBREAKER
+0xD2DD3657 : TWO TONE
+0xD33CCEDD : Are you sure you want to cancel this game Invite?
+0xD3690BC7 : None
+0xD377ABA9 : ENDLESS
+0xD37A3CAD : Mono
+0xD3835072 : TOYOTA
+0xD3B2FDE9 : Autosave is saving your ALIAS. Are you sure you want to overwrite your existing ALIAS on the Memory Card in Slot A? Previously saved information will be lost.
+0xD3CD3F77 : Delete
+0xD41B2C39 : /
+0xD46ED47F : Calvin
+0xD49C4EAB : LIONANT
+0xD4B8AFEA : YUMI
+0xD53550E6 : NEVILLE
+0xD53550E7 : NEVILLE
+0xD56D2A0B : Texture Filtering
+0xD5B3140F : Race Wars
+0xD60BE912 : Speech Volume
+0xD63BA997 : SAMSON
+0xD68DA666 : MOOO!
+0xD68DDC66 : PET 1 
+0xD68EA0C1 : DARK BLACK
+0xD6C3FD20 : Lia
+0xD6DB6F17 : DARK VIOLET
+0xD6E4057E : PURSUIT BREAKERS
+0xD6EC76D5 : DARK GREEN
+0xD7B53EBD : Imperial
+0xD80E78D7 : *PURSUIT RESULTS*
+0xD816DEFE : CROSS SELL 1
+0xD816DEFF : CROSS SELL 2
+0xD816DF00 : CROSS SELL 3
+0xD83CCAE7 : Uppercase
+0xD86FE6D2 : Cash:
+0xD8945DC7 : BACKLASH
+0xD8945DC8 : LIVIA
+0xD8945DC9 : ACE
+0xD8945DCA : VORTEX
+0xD8945DCB : FRENZY
+0xD8945DCC : BLAST
+0xD8945DCD : RUMBLE
+0xD8945DCE : THUNDERBOLT
+0xD8945DCF : ROCKET
+0xD8A058F7 : BONUS
+0xD8AF6485 : Accelerate
+0xD8AF841A : Nitrous
+0xD8BEDB17 : Debug
+0xD91925C1 : Cheryl
+0xD9D6B954 : STOCK
+0xD9E6BEEA : DENMARK
+0xD9EDB675 : COLIN
+0xDA36E613 : Add new car to garage
+0xDA495354 : Model
+0xDA7F123A : FLAME BODY 1
+0xDA7F123B : FLAME BODY 2
+0xDA7F123C : FLAME BODY 3
+0xDA7F123D : FLAME BODY 4
+0xDA7F123E : FLAME BODY 5
+0xDA7F123F : FLAME BODY 6
+0xDA7F1240 : FLAME BODY 7
+0xDA7F1241 : FLAME BODY 8
+0xDA7F1242 : FLAME BODY 9
+0xDA7F125A : FLAME BODY 10
+0xDA85EE08 : Use Marker
+0xDA91C4A0 : The controller is not detected.^Please insert a controller to controller port 1,^and press the START button to continue.
+0xDA9FD8EF : Career Bonus:
+0xDACCA914 : Communications with the Wii Remote have been interrupted. Press any Button to continue once the connection has been re-established.
+0xDAE0F525 : PERFORMANCE^
+0xDAE7BFB2 : CONTROLS
+0xDAE908B2 : Look Behind
+0xDAEE969F : MARKERS
+0xDB002EA0 : MAJOR HIT!
+0xDB016084 : Racing Hart
+0xDB04A2AC : MINOR HIT
+0xDB09655D : NATIONAL FLAG
+0xDB2F738D : Race with Samson when you need cash and some muscle. He'll get you a 10% increase on race winnings. He'll also keep the cops off your back on your home turf while he's in your Crew.
+0xDB63506C : Rewards
+0xDB6E4E62 : Tanya
+0xDB9279A8 : Boss Event
+0xDBC38FCA : *CREW MEMBER TIPS*
+0xDBE167BC : UNIQUE 1
+0xDBE167BD : UNIQUE 2
+0xDBE167BE : UNIQUE 3
+0xDBE167BF : UNIQUE 4
+0xDBE167C0 : UNIQUE 5
+0xDBE167C1 : UNIQUE 6
+0xDBE167C2 : UNIQUE 7
+0xDBE167C3 : UNIQUE 8
+0xDBE167C4 : UNIQUE 9
+0xDC9CA6F3 : PRESENT DAY: CARBON CANYON
+0xDCEACF44 : GREAT BRITAIN
+0xDD471953 : New reward card reward won %s
+0xDD87C3B3 : Do you accept this club Invite?
+0xDD8A99B4 : NFS Carbono Logo Vinyls
+0xDD90E320 : DARK YELLOW
+0xDDC0DEF8 : Hurry up!
+0xDDC37703 : Stephane
+0xDDFE7286 : Gauges
+0xDE2F0F6F : NAME
+0xDE31CE7D : SAVE
+0xDE752D77 : ^Scouts can work all the time.
+0xDE8CE3B2 : Free Roam
+0xDED78919 : AIRSTREAM CF DUAL
+0xDEF4B101 : TWO TONE
+0xDEF4C65D : TWO TONE
+0xDEFDF172 : TWO TONE
+0xDEFE1708 : TWO TONE
+0xDF06B4F5 : TWO TONE
+0xDF6B5873 : ACCOUNT TAKEN
+0xDF7BF5CE : AROSPEED
+0xDF8A58CD : TURBONETICS
+0xDFC27A6F : View SMS Messages
+0xDFF69109 : View Blacklist
+0xDFFAC75C : View World Map
+0xE00F145A : Play Next Song
+0xE0189FA4 : Mataio
+0xE01DBD99 : Insert
+0xE038154B : YUMI
+0xE074AF77 : YOU LOST!
+0xE08E79D2 : SPOILER
+0xE0D1471F : Customize Car
+0xE0D2665F : Crew Bio:
+0xE161DC68 : Max Players
+0xE18AFE0E : Are you sure you would add an extra Impound box?
+0xE19E1488 : NORTHWEST CF DUAL
+0xE1CB7019 : Drive faster!
+0xE2009F21 : During races and cop chases the Pursuit Breaker objects are marked with icons. Drive through these icons and hit the objects to activate the Pursuit Breakers, which will obstruct and immobilize any police cars and rival racers unfortunate enough to be following you. 
+0xE23E42FD : Lotus Elise
+0xE26DC845 : Francis
+0xE27AD899 : Need for Speed Carbon Special Logo Vinyls Unlocked!
+0xE2F2DB53 : IMPOUND STRIKES^
+0xE3349F1C : START button
+0xE36D3E90 : TWO TONE
+0xE38ECCAF : Drifting is a points based event.^Defeat your opponents by beating their scores.^ ^Earn points by going sideways through the marked corners.^The faster you drift, the more points you score.^Drifting in the painted areas scores extra points.^Hold a drift through a series of corners to get a multiplier on your score.
+0xE398A5B8 : LIGHT SILVER
+0xE3DE723A : Boss
+0xE3DF9561 : Drag
+0xE3E7A6C6 : Do you want to save your changes to your alias? Any unsaved changes may be lost.
+0xE46B56FD : You have Signed out of the gamer profile used to begin the current session.  As a result your game can not be saved. The game must reset, any connection to EA Nation will be lost, and you will be returned to the Press START screen. Press START to continue.
+0xE4C2F0E6 : Victoria
+0xE4EFFECD : %s^CONTROL: %s
+0xE4EFFECE : Heat level: %d
+0xE50C0D13 : 
+0xE50C0D14 : ENGINE - TIER 1 STREET PACKAGE
+0xE50C0D15 : ENGINE - TIER 1 PRO PACKAGE
+0xE50C0D16 : ENGINE - TIER 2 STREET PACKAGE
+0xE50C0D17 : ENGINE - TIER 2 PRO PACKAGE
+0xE50C0D18 : ENGINE - TIER 3 STREET PACKAGE
+0xE50C0D19 : ENGINE - TIER 3 PRO PACKAGE
+0xE50C0D1A : ENGINE - TIER 3 RACING PACKAGE
+0xE50C0D1B : TRANSMISSION - TIER 1 STREET PACKAGE
+0xE50C0D1C : TRANSMISSION - TIER 1 PRO PACKAGE
+0xE50C0D34 : TRANSMISSION - TIER 2 STREET PACKAGE
+0xE50C0D35 : TRANSMISSION - TIER 2 PRO PACKAGE
+0xE50C0D36 : TRANSMISSION - TIER 3 STREET PACKAGE
+0xE50C0D37 : TRANSMISSION - TIER 3 PRO PACKAGE
+0xE50C0D38 : TRANSMISSION - TIER 3 RACING PACKAGE
+0xE50C0D39 : SUSPENSION - TIER 1 STREET PACKAGE
+0xE50C0D3A : SUSPENSION - TIER 1 PRO PACKAGE
+0xE50C0D3B : SUSPENSION - TIER 2 STREET PACKAGE
+0xE50C0D3C : SUSPENSION - TIER 2 PRO PACKAGE
+0xE50C0D3D : SUSPENSION - TIER 3 STREET PACKAGE
+0xE50C0D55 : SUSPENSION - TIER 3 PRO PACKAGE
+0xE50C0D56 : SUSPENSION - TIER 3 RACING PACKAGE
+0xE50C0D57 : NITROUS & TIRES - TIER 1 STREET PACKAGE
+0xE50C0D58 : NITROUS & TIRES - TIER 1 PRO PACKAGE
+0xE50C0D59 : NITROUS - TIER 1 RACING PACKAGE
+0xE50C0D5A : NITROUS & TIRES - TIER 2 STREET PACKAGE
+0xE50C0D5B : NITROUS & TIRES - TIER 2 PRO PACKAGE
+0xE50C0D5C : NITROUS - TIER 2 RACING PACKAGE
+0xE50C0D5D : NITROUS & TIRES - TIER 3 STREET PACKAGE
+0xE50C0D5E : NITROUS & TIRES - TIER 3 PRO PACKAGE
+0xE50C0D76 : NITROUS & TIRES - TIER 3 RACING PACKAGE
+0xE50C0D77 : BRAKES - TIER 1 STREET PACKAGE
+0xE50C0D78 : BRAKES - TIER 1 PRO PACKAGE
+0xE50C0D79 : BRAKES - TIER 2 STREET PACKAGE
+0xE50C0D7A : BRAKES - TIER 2 PRO PACKAGE
+0xE50C0D7B : BRAKES & SUSPENSION - TIER 3 STREET PACKAGE
+0xE50C0D7C : BRAKES & SUSPENSION - TIER 3 PRO PACKAGE
+0xE50C0D7D : BRAKES & SUSPENSION - TIER 3 RACING PACKAGE
+0xE50C0D7E : TURBO - TIER 1 STREET PACKAGE
+0xE50C0D7F : TURBO - TIER 1 PRO PACKAGE
+0xE50C0D97 : TURBO - TIER 2 STREET PACKAGE
+0xE50C0D98 : TURBO - TIER 2 PRO PACKAGE
+0xE50C0D99 : TURBO - TIER 3 STREET PACKAGE
+0xE50C0D9A : TURBO - TIER 3 PRO PACKAGE
+0xE50C0D9B : TURBO - TIER 3 RACING PACKAGE
+0xE50C0D9C : SUPERCHARGER - TIER 1 STREET PACKAGE
+0xE50C0D9D : SUPERCHARGER - TIER 1 PRO PACKAGE
+0xE50C0D9E : SUPERCHARGER - TIER 2 STREET PACKAGE
+0xE50C0D9F : SUPERCHARGER - TIER 2 PRO PACKAGE
+0xE50C0DA0 : SUPERCHARGER - TIER 3 STREET PACKAGE
+0xE50C0DB8 : SUPERCHARGER - TIER 3 PRO PACKAGE
+0xE50C0DB9 : SUPERCHARGER - TIER 3 RACING PACKAGE
+0xE50C0DBA : METALLIC PAINT
+0xE50C0DBB : MATTE PAINT
+0xE50C0DBC : HOODS - PACKAGE 1
+0xE50C0DBD : HOODS - PACKAGE 2
+0xE50C0DBE : HOODS - PACKAGE 3
+0xE50C0DBF : BODY KITS - PACKAGE 1
+0xE50C0DC0 : BODY KITS - PACKAGE 2
+0xE50C0DC1 : BODY KITS - PACKAGE 3
+0xE50C0DD9 : BODY KITS - PACKAGE 4
+0xE50C0DDA : WHEELS - PACKAGE 1
+0xE50C0DDB : WHEELS - PACKAGE 2
+0xE50C0DDC : WHEELS - PACKAGE 3
+0xE50C0DDD : WHEELS - PACKAGE 4
+0xE50C0DDE : ROOF SCOOPS
+0xE50C0DDF : ROOF SCOOPS - PACKAGE 2
+0xE50C0DE0 : SPOILERS - PACKAGE 1
+0xE50C0DE1 : SPOILERS - PACKAGE 2
+0xE50C0DE2 : SPOILERS - PACKAGE 3
+0xE50C0DFA : BODY VINYLS - PACKAGE 1
+0xE50C0DFB : WINDOW TINT
+0xE50C0DFC : EXHAUST TIPS
+0xE50C0DFD : FLAME VINYLS
+0xE50C0DFE : TRIBAL VINYLS
+0xE50C0DFF : STRIPE VINYLS
+0xE50C0E00 : SPOILERS - PACKAGE 4
+0xE50C0E01 : CHROME PAINT
+0xE50C0E02 : BODY VINYLS - PACKAGE 2
+0xE50C0E03 : IRIDESCENT PAINT
+0xE50C0E1B : CANDY PAINT
+0xE50C0E1C : LOTUS ELISE
+0xE50C0E1D : RENAULT CLIO V6
+0xE50C0E1E : PORSCHE CAYMAN S
+0xE50C0E1F : SL65 AMG
+0xE50C0E20 : LAMBORGHINI GALLARDO
+0xE50C0E21 : LAMBORGHINI MURCIÉLAGO
+0xE50C0E22 : FORD GT
+0xE50C0E23 : SLR MCLAREN
+0xE50C0E24 : CHEVROLET CORVETTE Z06
+0xE50C0E3C : PORSCHE CARRERA GT
+0xE50C0E3D : NISSAN SKYLINE GT-R R34
+0xE50C0E3E : DODGE CHALLENGER CONCEPT
+0xE50C0E3F : SUBARU IMPREZA WRX STI
+0xE50C0E40 : VAUXHALL MONARO VXR
+0xE50C0E41 : MITSUBISHI ECLIPSE GT
+0xE50C0E42 : DODGE CHARGER SRT8
+0xE50C0E43 : FORD MUSTANG GT
+0xE50C0E44 : SHELBY GT500
+0xE50C0E45 : PLYMOUTH® HEMI® CUDA
+0xE50C1154 : DODGE VIPER SRT-10
+0xE50C1155 : TOYOTA SUPRA
+0xE50C1156 : VW GOLF R32
+0xE50C1157 : NISSAN 350Z
+0xE50C1158 : MITSUBISHI LANCER
+0xE50C1159 : MAZDA RX-7
+0xE50C115A : ASTON MARTIN DB9
+0xE50C115B : DODGE CHARGER R/T
+0xE50C115C : AUDI LE MANS QUATTRO
+0xE575F0F5 : Cablazn
+0xE575F0F6 : RedBlade
+0xE575F0F7 : GrafClown
+0xE575F0F8 : Michael Lam
+0xE575F0F9 : Tosi Rodolphe
+0xE5D6013A : Let's make this interesting
+0xE5E273BA : MESSAGE TEXT:
+0xE60FA150 : AUDIO
+0xE6110193 : TWO TONE
+0xE69FEA65 : Tuner Area
+0xE6C2ECFE : CHRYSLER®
+0xE6CA1F7B : CAMO 10
+0xE771B94E : Left Shift
+0xE7828252 : Autosave
+0xE7850ED5 : VIDEO
+0xE79BC4AE : AUSTRALIA
+0xE7A9EF25 : TWO TONE
+0xE815AF26 : YOU FINISHED TENTH
+0xE8339079 : SantaFe Area
+0xE836E93B : You can improve your car's performance by unlocking new parts and installing them in your Safe House. Your initial car will be no match for tougher opponents no matter how much you upgrade it, so at some point you should acquire a new ride.^
+0xE839A06B : Silver
+0xE853CBE7 : Win 5 races in Career Mode
+0xE853CBE8 : Win 15 races in Career Mode
+0xE853CBE9 : Win 25 races in Career Mode
+0xE853CBEA : Have a balance of 30,000 cash in Career Mode
+0xE853CBEB : Have a balance of 50,000 cash in Career Mode
+0xE853CBEC : Hit %d %s in a speedtrap
+0xE853CBED : Hit %d %s in a speedtrap
+0xE853CBEE : Sell 3 cars in Career Mode
+0xE853CBEF : Hit %d %s in a speedtrap
+0xE853CC07 : Raise the Heat on your car to level 1 while in Career Freeroam.^
+0xE853CC08 : Escape a police pursuit while in Career Freeroam.^
+0xE853CC09 : Escape 5 police pursuits while in Career Freeroam.^
+0xE853CC0A : Use one Pursuit Breaker
+0xE853CC0B : Escape a police pursuit in less than 2 minutes while in Career Freeroam.^
+0xE853CC0C : Escape after an 8 minute police pursuit in Career Freeroam.^
+0xE853CC0D : Escape after a 12 minute police pursuit in Career Freeroam.^
+0xE853CC0E : Beat any Challenge Series event
+0xE853CC0F : Beat 3 Challenge Series events
+0xE853CC10 : Beat 5 Challenge Series events
+0xE853CC28 : Beat 15 Challenge Series events
+0xE853CC29 : Play 5 Sprint Races
+0xE853CC2A : Win 20 Defensive Races in Career Mode
+0xE853CC2B : Win 50 Free Roam Challenges in Career Mode
+0xE853CC2C : Unlock 8 cars
+0xE853CC2D : Play 3 Quick Races
+0xE853CC2E : Play 10 Quick Races
+0xE853CC2F : Play 25 Quick Races
+0xE853CC30 : Play 50 Quick Races
+0xE853CC31 : Play a multi-player split screen race
+0xE853CC49 : Raise the Heat on your car to level 2 while in Career Freeroam.^
+0xE853CC4A : Modify your car with Autosculpt
+0xE853CC4B : Avoid a spike strip in a police pursuit while in Career Freeroam.^
+0xE853CC4C : Use Speedbreaker once
+0xE853CC4D : Accumulate a 20,000 fine while in Career Freeroam.^
+0xE853CC4E : Win a Drift event
+0xE853CC4F : Cause 50,000 Cost to State in a single pursuit while in Career Freeroam.
+0xE853CC50 : Have a balance of 500,000 cash in Career Mode
+0xE853CC51 : Unlock all the Safe Houses in the game
+0xE853CC52 : Win 10 Canyon Duels
+0xE853CC6A : Lose a race in Career Mode
+0xE853CC6B : Win a defensive race in Career Mode
+0xE853CC6C : Have a balance of 1,000,000 cash in Career Mode
+0xE853CC6D : Disable a police vehicle while in Career Freeroam.^
+0xE853CC6E : Disable 5 police vehicles while in Career Freeroam.^
+0xE853CC6F : Disable 20 police vehicles while in Career Freeroam.^
+0xE853CC70 : Disable 50 police vehicles while in Career Freeroam.^
+0xE853CC71 : Unlock 50 Quick Race tracks
+0xE853CC72 : Unlock 85 Quick Race tracks
+0xE853CC73 : Hit %d %s in a speedtrap
+0xE853CC8B : Avoid 20 police roadblocks while in Career Freeroam.^
+0xE853CC8C : Win 50 races in Career Mode
+0xE853CC8D : Escape 15 police pursuits while in Career Freeroam.^
+0xE853CC8E : Escape 25 police pursuits while in Career Freeroam.^
+0xE853CC8F : Avoid 10 police roadblocks while in Career Freeroam.^
+0xE853CC90 : Avoid 10 police spike strips while in Career Freeroam.^
+0xE853CC91 : Ram 25 police vehicles while in Career Freeroam.^
+0xE853CC92 : Score 100,000 points in a Drift event
+0xE853CC93 : Acquire 3 cars in Career Mode
+0xE853CC94 : Get a Bounty of 20,000 in a pursuit while in Career Freeroam.^
+0xE853CCAC : Get a Bounty of 50,000 in a pursuit while in Career Freeroam.^
+0xE853CCAD : Immobilize a police Rhino while in Career Freeroam.^
+0xE853CCAE : Complete all Bronze Challenge Series events
+0xE853CCAF : Complete all Silver Challenge Series events
+0xE853CCB0 : Complete all Gold Challenge Series events
+0xE853CCB1 : Win a Free Roam Challenge in Career Mode
+0xE853CCB2 : Avoid 12 spike strips in a single police pursuit
+0xE853CCB3 : Win 5 Drift events
+0xE853CCB4 : Acquire 5 cars in Career Mode
+0xE853CCB5 : Fill your Garage in Career Mode
+0xE853CCCD : Fill your Career Garage with only Muscle Cars
+0xE853CCCE : Fill your Career Garage with only Tuner Cars
+0xE853CCCF : Fill your Career Garage with only Exotic Cars
+0xE853CCD0 : Raise the Heat on your car to level 4 while in Career Freeroam.^
+0xE853CCD1 : Sell 6 cars in Career Mode
+0xE853CCD2 : Avoid 5 spike strips in a police pursuit while in Career Freeroam.^
+0xE853CCD3 : Score 250,000 points in a Drift event
+0xE853CCD4 : Unlock 12 cars in Career Mode
+0xE853CCD5 : Acquire 8 cars in Career Mode
+0xE853CCD6 : Complete 25 Challenge Series events
+0xE853CCEE : Commit 6 Infractions in a single pursuit while in Career Freeroam.^
+0xE853CCEF : Raise the Heat on your car to level 5 while in Career Freeroam.^
+0xE853CCF0 : Cause 100,000 Cost to State in a single pursuit while in Career Freeroam.
+0xE853CCF1 : Cause 200,000 Cost to State in a single pursuit while in Career Freeroam.
+0xE853CCF2 : Conquer all Downtown Palmont Tracks in Career Mode
+0xE853CCF3 : Finish Career Mode
+0xE853CCF4 : Conquer all the tracks in Career Mode
+0xE853CCF5 : Win 65 races in Career Mode
+0xE853CCF6 : Avoid 12 police spike strips while in Career Freeroam.^
+0xE853CCF7 : Win 5 Free Roam Challenges in Career Mode
+0xE853CD0F : Win 10 Free Roam Challenges in Career Mode
+0xE853CD10 : Ram 50 police vehicles in a single pursuit while in Career Freeroam.^
+0xE853CD11 : Ram 100 police vehicles in a single pursuit while in Career Freeroam.^
+0xE853CD12 : Win a Canyon Duel
+0xE853CD13 : Accumulate a fine of 50,000 while in Career Freeroam.^
+0xE853CD14 : Hire 6 different crew members during the Career Mode
+0xE853CD15 : Unlock 33 cars
+0xE853CD16 : Win a single Career Race
+0xE853CD17 : Have a balance of 100,000 cash in Career Mode
+0xE853CD18 : Get busted in a police pursuit while in Career Freeroam.^
+0xE853D027 : Score 500,000 points in a Drift event
+0xE853D028 : Win 25 Free Roam Challenges in Career Mode
+0xE853D029 : Win 5 Sprint Races
+0xE853D02A : Win 5 Canyon Duels
+0xE8D5CCFA : Neville
+0xE8D92380 : SPEEDBREAKER^
+0xE93A32D1 : Legend
+0xE954E067 : TARTAN
+0xE9C0BC27 : UNORTHODOX RACING
+0xE9E0925B : WORLD MAP
+0xEA0593F3 : TWO TONE
+0xEA1A3919 : CAR(DEBUG)
+0xEA1A9B7F : %s KNOCKED OUT
+0xEA497258 : Transmission Mode
+0xEA999A36 : LIGHT VIOLET
+0xEAC85AE9 : YOU FINISHED NINTH
+0xEAF527F8 : BUSTED
+0xEB008364 : Chrome Cars Unlocked!
+0xEB2016D7 : SONIC
+0xEB2016D8 : SUPERNOVA
+0xEB2016D9 : BLITZ
+0xEB2016DA : FORCE
+0xEB2016DB : PULSE
+0xEB2016DC : VELOCITY
+0xEB2016DD : SPEED
+0xEB2016DE : SPORT
+0xEB2AF59B : Neville
+0xEB8E8BF3 : Add to Cart
+0xEBB4F22C : Restart
+0xEBC07EEA : Hip Hop/Grime
+0xEC047F98 : Palmont City PD will be after you. The more trouble you cause, the more your car's heat will increase, and more advanced tactics and vehicles will be used against you.
+0xECC76B98 : AC AUTOTECHNIC
+0xECC90733 : Dump Truck
+0xECF01428 : An error occurred while saving the Photo. Do you want to continue without saving?
+0xED4F5DEC : Car Tier
+0xED6ECAEB : JORGEN CF
+0xED6F574C : ROCKER 5 CF
+0xED6FE3AD : AIRFORCE CF
+0xED70700E : ARROW CF
+0xED70FC6F : BARRACUDA CF
+0xED7188D0 : WILDFIRE CF
+0xED721531 : RIPPER CF
+0xED724DF4 : ALPINE
+0xED72A192 : REAPER CF
+0xED732DF3 : BORRA CF
+0xED776176 : RUPTURE
+0xED776177 : ANNEX
+0xED776178 : ZYPHER
+0xED776179 : Z-SPORT
+0xED77617A : BLITZ
+0xED77617B : TOMAHAWK
+0xED801E3C : Neville
+0xED976696 : no way, punk
+0xED9AEE2D : TWO TONE
+0xED9AEEF6 : TWO TONE
+0xEDB0687F : STACKED DECK
+0xEDB8613E : THAILAND
+0xEDC129FC : ONLINE XP
+0xEDD6E683 : ARAXIS
+0xEDEB237C : IMPOUND STRIKES
+0xEE053562 : CAREER
+0xEE14AAA9 : STRATOSPEED
+0xEE40DA4F : Shopping Cart
+0xEE44A711 : A Drafting specialist who gives you a much larger drafting zone than others. He also specializes in tricking out your ride, giving you access to locked Autosculpt parts.
+0xEE72A644 : Lowercase
+0xEEBA8AEB : MIXED
+0xEF086652 : Nikki will boost your nitrous and speedbreaker bar when she races with you. In the garage, you save cash on new cars with her in your Crew.
+0xEF3FA082 : TUNER
+0xEF4AA2FC : RACE FLAG 1
+0xEF4AA2FD : RACE FLAG 2
+0xEF4AA2FE : RACE FLAG 3
+0xEF4AA2FF : RACE FLAG 4
+0xEF4AA300 : RACE FLAG 5
+0xEF4AA301 : RACE FLAG 6
+0xEF4AA302 : RACE FLAG 7
+0xEF4AA303 : RACE FLAG 8
+0xEF4AA304 : RACE FLAG 9
+0xEF4AA31C : RACE FLAG 10
+0xEF4AA31D : RACE FLAG 11
+0xEF4AA31E : RACE FLAG 12
+0xEF4AA31F : RACE FLAG 13
+0xEF4AA320 : RACE FLAG 14
+0xEF4AA321 : RACE FLAG 15
+0xEF4AA322 : RACE FLAG 16
+0xEF4AA323 : RACE FLAG 17
+0xEF6E7C43 : This car already has the maximum allowed Impound boxes.
+0xEF7DE6B3 : Widescreen
+0xEFB1F5EA : SHADOW INDEX
+0xEFC4793A : World View
+0xEFD546DD : Nikki
+0xEFF40F7D : I let you win
+0xF02E10F2 : BREMBO
+0xF0301C73 : BRIDE
+0xF06B6750 : Attacking Crew
+0xF0F355A1 : YUMI
+0xF0F73B12 : University Way
+0xF0F7C773 : Gold Valley Run
+0xF0F853D4 : University Avenue
+0xF0F8E035 : Skyline Avenue
+0xF0F96C96 : Verona Tunnel
+0xF0F9F8F7 : Million Dollar Drive
+0xF0FA8558 : North Bellezza
+0xF0FB11B9 : Lofty Heights Downhill
+0xF0FB9E1A : Mount Kempton Drift
+0xF1037EF4 : If you can get the police to lose visual contact, you will enter Cooldown mode. The best way to remain unnoticed when in Cooldown mode is to find a Hiding Spot. These Hiding Spots will be shown on your mini-map while in Cooldown mode. Once the Cooldown meter fills up, you have successfully evaded the police.^
+0xF108C732 : Ocean View
+0xF1095393 : York Road
+0xF109DFF4 : Rabinowitz Drive
+0xF10A6C55 : Condo Row
+0xF10AF8B6 : Agostini Avenue
+0xF10B8517 : Hills Borough Parkway
+0xF10C1178 : Beachfront
+0xF10C9DD9 : Dover and Lepus
+0xF10D2A3A : Morgan Beach Offramp
+0xF10DB69B : Waterfront Road
+0xF11ADFB3 : Foundry Road
+0xF11B6C14 : Dover Street
+0xF11BF875 : Kempton Docks
+0xF11C84D6 : Petersburg Dam
+0xF11D1137 : Stonewall Tunnel
+0xF11D9D98 : Copper Ridge
+0xF11E29F9 : Eskuri Way
+0xF11EB65A : Eskuri Plaza
+0xF11F42BB : Newport Trainyard
+0xF11FCF1C : Mission Street
+0xF12CF834 : Devil's Creek Pass
+0xF12D8495 : North Road
+0xF12E10F6 : Knight Street
+0xF12E9D57 : Lookout Point
+0xF12F29B8 : Silk Road
+0xF12FB619 : Kimei Temple
+0xF130427A : Chinatown Tram
+0xF130CEDB : Main Street
+0xF1315B3C : Lincoln Boulevard
+0xF131E79D : Park Drive
+0xF13F10B5 : Mason Street
+0xF13F9D16 : Mason Fountain
+0xF1402977 : City Courthouse
+0xF140B5D8 : Garden Boulevard
+0xF1414239 : Knife's Edge
+0xF141CE9A : Kings Park
+0xF1425AFB : Savannah Street
+0xF142E75C : Deadfall Junction
+0xF14373BD : Diamond Hills Chase
+0xF144001E : North Broadway
+0xF14F0E3F : LIGHT YELLOW
+0xF1512936 : Troy
+0xF151B597 : Silverton Way
+0xF15241F8 : Lucky Towers
+0xF152CE59 : Olympic Boulevard
+0xF1535ABA : The Neon Mile
+0xF153E71B : Blackwell Road
+0xF154737C : Starlight Street
+0xF154FFDD : Canmor Road
+0xF1558C3E : Bowen Avenue
+0xF156189F : Spade Street
+0xF1576100 : th
+0xF15793F7 : st
+0xF16341B7 : Paradise Hotel
+0xF163CE18 : Eagle Drive
+0xF1645A79 : Gray Street
+0xF164E6DA : Desperation Ridge
+0xF165733B : Silverton Peak Drift
+0xF165FF9C : Journeyman's Bane
+0xF1668BFD : Brooks Street
+0xF167185E : Kenji Battle
+0xF167A4BF : Angie's Last Resort
+0xF1683120 : Engage the Wolf
+0xF172E386 : NEVILLE
+0xF1755A38 : Eternity Pass
+0xF175E699 : Steyne Aqueduct
+0xF17672FA : Sutherden Bell Tower
+0xF176FF5B : Library Square
+0xF1778BBC : Platinum Condos
+0xF178181D : Montezuma Avenue
+0xF178A47E : Salazar Street
+0xF17930DF : Mesa Bridge
+0xF179BD40 : Royal Avenue
+0xF17A49A1 : Journeyman's Bane
+0xF17C0E9B : NEVILLE
+0xF18772B9 : Gold Valley Duel
+0xF187FF1A : Eternity Pass
+0xF1888B7B : Gold Valley
+0xF18917DC : Copper Ridge
+0xF189A43D : Deadfall Junction
+0xF18A309E : Eskuri Plaza
+0xF18ABCFF : Rabinowitz Drive
+0xF18B4960 : Blackwell Road
+0xF18BD5C1 : Lofty Heights
+0xF18C6222 : Knife's Edge
+0xF1998B3A : Desperation Ridge
+0xF19A179B : Gold Valley Drift
+0xF19AA3FC : Knife's Edge Drift
+0xF19B305D : Lookout Point Drift
+0xF19BBCBE : Starlight Strip Escape
+0xF19C491F : Beachfront Dodge
+0xF19CD580 : Route 55 Getaway
+0xF19D61E1 : Hills Borough Hijinks
+0xF19DEE42 : Wyle Center Crackdown
+0xF19E7AA3 : Brimstone A.P.B.
+0xF1A17D87 : NITROUS OXIDE^
+0xF1C45381 : SCOUT
+0xF1E84710 : th
+0xF1F5B49D : CARS AND PARTS
+0xF1F65E67 : SAL
+0xF22A6F7E : Nikki
+0xF242EC1F : th
+0xF2527903 : COOPER
+0xF254382A : rd
+0xF288E04D : CROWER
+0xF294F3F2 : NOS
+0xF34BD752 : Dover Street
+0xF34C63B3 : Oceanview
+0xF34CF014 : Starlight Street
+0xF34D7C75 : Condo Row
+0xF34E08D6 : Kings Park
+0xF34E9537 : Canmor Road
+0xF34F2198 : Chinatown Drift
+0xF34FADF9 : Park Drive Drift
+0xF3503A5A : Main Street Drift
+0xF350C6BB : Million Dollar Run
+0xF35DEFD3 : Infinity Park
+0xF35E7C34 : Eskuri Way
+0xF35F0895 : Downtown
+0xF35F94F6 : Fortuna
+0xF3602157 : Silverton
+0xF360ADB8 : Old Quarter
+0xF3613A19 : Fortuna Heights
+0xF361C67A : Palmont University
+0xF36252DB : Starlight Strip
+0xF362DF3C : Shady Pine
+0xF3700854 : Billings District
+0xF37094B5 : Mason St Bridge
+0xF3712116 : Francis Tunnel
+0xF371AD77 : Blackwell Bridge
+0xF37239D8 : Robinson Bay
+0xF372C639 : Campbell Tunnel
+0xF373529A : South Fortuna
+0xF373DEFB : Around The World
+0xF3746B5C : Downtown Tunnel
+0xF374F7BD : Highway 142
+0xF38220D5 : Highway 142
+0xF382AD36 : Garcia Street
+0xF3833997 : Route 21
+0xF383C5F8 : Pursuit Pinball
+0xF3845259 : Massive Escape
+0xF384DEBA : Big Game Hunt
+0xF3856B1B : Infinity Park
+0xF385F77C : Morgan Beach
+0xF38683DD : Newport Ironworks
+0xF387103E : San Juan
+0xF3943956 : Kempton
+0xF394C5B7 : Downtown
+0xF3955218 : Fortuna
+0xF395DE79 : Silverton
+0xF3966ADA : San Juan
+0xF396F0E8 : View Crew Video
+0xF396F73B : Kempton
+0xF397839C : Downtown
+0xF3980FFD : Fortuna
+0xF3989C5E : Silverton
+0xF3BC9B22 : Game Mode
+0xF418C2BE : Chevrolet Camaro Concept
+0xF47A1F24 : Enter on main keyboard
+0xF47F981F : Angie, Kenji & Wolf
+0xF49BA4F2 : EA TRAX
+0xF4A4F34D : Thank you for playing Need for Speed Carbono!
+0xF4A6117D : DO-LUCK
+0xF4AFDD3C : Change Color 
+0xF4BFDAB1 : You beat the high score for this track!
+0xF4C7FCF6 : Let's get it on!
+0xF570AD14 : Right Shift
+0xF5936199 : Paint
+0xF59746B9 : Are you sure you want to block this user?
+0xF59CB290 : PRICE:
+0xF5EC7C02 : The Game Setup Screen is where you can send private Game Invites to Friends, select cars, and chat with other players. The Game Leader can set the game options then press the START button to proceed into the Game Room. The Game Room allows other Online players to join before the race begins.
+0xF650C780 : *OPTIONS*
+0xF688D637 : EIBACH
+0xF6A9E3B3 : Scroll Lock
+0xF724DE58 : ONLINE CANYON DUEL
+0xF74CBD3E : LAMBORGHINI
+0xF770E262 : Caps Lock
+0xF77C66C7 : Collect Canyon Duel Rank Points and climb the Leaderboards.^Winning on score will get you 1 Rank Point. If your opponent drives off the cliff you'll get 2 points while your opponent loses 1 point.
+0xF8B346AE : Unused
+0xF8D28E17 : Can't find the Footy's diner?
+0xF8F04A00 : Sound Effects Volume
+0xF91B0667 : YOU FINISHED FOURTEENTH
+0xF9615828 : SCORPION
+0xF96C6BD8 : Rumble: %s
+0xF990B636 : Impound Car
+0xF9ADC487 : 1600x1200
+0xFA2B9E20 : Leader
+0xFA4C00A9 : Special Characters
+0xFA4C8678 : XBOX LIVE PLAYER STATS
+0xFA7495B7 : Are you sure you want to quit the demo? All race progress will be lost.
+0xFA78312C : Change Material
+0xFA7E11EC : YOU FINISHED SEVENTEENTH
+0xFAB1E830 : NFS Carbon
+0xFAC25CA2 : For Hire
+0xFACA6A0C : Mitsubishi Eclipse
+0xFAD43D0B : MORGAN BEACH
+0xFAD43D0C : THE PROJECTS
+0xFAD43D0D : KEMPTON HOLDINGS
+0xFAD43D0E : ESKURI PLAZA
+0xFAD43D0F : NEWPORT INDUSTRIAL PARK
+0xFAD43D10 : OLD QUARTER
+0xFAD43D11 : HISTORIC CHINATOWN
+0xFAD43D12 : MASON DISTRICT
+0xFAD43D13 : BILLINGS DISTRICT
+0xFAD43D2B : KINGS PARK
+0xFAD43D2C : PALMONT UNIVERSITY
+0xFAD43D2D : OCEAN VIEW
+0xFAD43D2E : HILLS BOROUGH
+0xFAD43D2F : SOUTH FORTUNA
+0xFAD43D30 : FORTUNA HEIGHTS
+0xFAD43D31 : DIAMOND HILLS
+0xFAD43D32 : STARLIGHT STRIP
+0xFAD43D33 : NEON MILE
+0xFAD43D34 : CANMOR DOWNS
+0xFAD43D4C : SHADY PINE
+0xFAD43D4D : INFINITY PARK
+0xFAD43D4E : SILVERTON REFINERY
+0xFB25A4C6 : Crew Name:
+0xFB4E7DFD : Unused
+0xFB52B450 : World Map
+0xFB572171 : COLDFUSION
+0xFBD7B61A : GREDDY
+0xFBE16D5D : Pay With Cash
+0xFBF561B4 : LIGHT PURPLE
+0xFBF561B5 : LIGHT GOLD
+0xFBF561B6 : LIGHT MAGENTA
+0xFBF561B7 : MEDIUM BLACK
+0xFBF561B8 : MEDIUM BLUE
+0xFBF561B9 : MEDIUM GREEN
+0xFBF561BA : MEDIUM RED
+0xFBF561BB : MEDIUM YELLOW
+0xFBF561BC : MEDIUM AQUA
+0xFBF561BD : MEDIUM CORAL
+0xFBF561D5 : MEDIUM ORANGE
+0xFBF561D6 : MEDIUM MAGENTA
+0xFBF561D7 : MEDIUM LIME
+0xFBF561D8 : MEDIUM PURPLE
+0xFBF561D9 : MEDIUM GOLD
+0xFBF561DA : DARK BLACK
+0xFBF561DB : DARK BLUE
+0xFBF561DC : DARK GREEN
+0xFBF561DD : DARK RED
+0xFBF561DE : DARK YELLOW
+0xFBF561F6 : DARK AQUA
+0xFBF561F7 : DARK CORAL
+0xFBF561F8 : DARK ORANGE
+0xFBF561F9 : DARK MAGENTA
+0xFBF561FA : DARK LIME
+0xFBF561FB : DARK PURPLE
+0xFBF561FC : DARK GOLD
+0xFBF561FD : DARK PEARL BLACK
+0xFBF561FE : DARK PEARL BLUE
+0xFBF561FF : DARK PEARL GREEN
+0xFBF56217 : DARK PEARL RED
+0xFBF56218 : DARK PEARL YELLOW
+0xFBF56219 : DARK PEARL AQUA
+0xFBF5621A : DARK PEARL CORAL
+0xFBF5621B : DARK PEARL ORANGE
+0xFBF5621C : DARK PEARL MAGENTA
+0xFBF5621D : DARK PEARL LIME
+0xFBF5621E : DARK PEARL PURPLE
+0xFBF5621F : DARK PEARL GOLD
+0xFC1F88A6 : ONLINE XP GAINED
+0xFC4A9506 : Challenge
+0xFCA06B07 : Car Reflection Update Rate
+0xFCAE7D3A : REP^
+0xFCDD1F38 : Are you lost?
+0xFD31B1DF : *CANYON DUEL TIPS*
+0xFD4139A8 : HEDMAN HEDDERS
+0xFD4E6867 : Castrol Syntec Vinyl Unlocked!
+0xFD5DC341 : *KEYBOARD*
+0xFDFA8E08 : HOLLEY
+0xFDFC2EE3 : HOOKER HEADERS
+0xFE356407 : Rock
+0xFED1C932 : ARGENTINA
+0xFF3E2B65 : Left Alt
+0xFF54F04C : RACE
+0xFF72BDA8 : ICEMAN
+0xFF803D82 : Pause
+0xFF895C70 : PgUp
+0xFFA894A2 : Right Arrow
+0xFFAABE6B : Right Alt
+0xFFBE6990 : Space
+0xFFC2867C : YOU FINISHED SEVENTH!

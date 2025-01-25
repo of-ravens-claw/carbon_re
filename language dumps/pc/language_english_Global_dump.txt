@@ -1,0 +1,299 @@
+0x004BD7EA : CATCH THE RACER
+0x005ACA06 : Account Password
+0x047862A2 : Could not send password to the e-mail address associated with the provided user name!
+0x04CA47C6 : Automatically Sign in?
+0x057A4D79 : Need for SpeedÅ Carbon supports only the active controller during online game play. Game invites sent to another player on the same Xbox 360 console are not supported.  The game must reset; any connection to EA Nation will be lost, and you will be returned to the Press START screen. Press START to continue.
+0x069E1B94 : EA Account Name
+0x07039A8B : Ranked Match
+0x083ACA98 : LOST USER NAME
+0x09D56975 : Suggestion %d
+0x0B30D4FB : You have sent %s a Player Crew Invite.
+0x0D980E05 : Call-A-Friend Won as a Helper
+0x0DA31A9E : Sending user name to registered e-mail address...
+0x1015741A : Friend request sent to %s.
+0x101897AA : The user name you have provided cannot be found!
+0x10210EB6 : With Crews
+0x1059D852 : Read Player Crew invitation
+0x1089FC47 : Cancel Friend Request
+0x10E0B712 : User has declined your friend request.
+0x11A0E21C : The CD key you provided is not valid.
+0x12DA0B63 : Send Private Message
+0x132E2DEA : You have been disconnected from the current game because your loading time was too long. Decrease your detail settings on the Video Options menu to improve your loading times.
+0x13E800F8 : Sign in failed!
+0x13E956F4 : An unknown error has occurred.
+0x169914FD : YOU'RE KNOCKED OUT!^^STOP THE RACERS
+0x171C5CF0 : Answer Voice Chat Request
+0x1B513681 : Connecting to EA server...
+0x1B926902 : Please enter your CD registration code to add this title to your^EA Online Account. Your registration code is located on the back^of your Need for SpeedÅ Carbono manual.
+0x1C040F63 : Sign In / Sign Out
+0x1C425B11 : Page up
+0x1D37C3B1 : Number of Players:
+0x1D4392DA : The user name you provided is currently in use!
+0x1E2D53B8 : Cancelling player search...
+0x1EE9250D : Disconnected
+0x21791B34 : You must be 13 or older to create an EA account!
+0x21CBEBF6 : The CD key has been registered and locked to your EA account.
+0x249179C9 : %s, %s Modes
+0x24C35B5C : Friends
+0x24FCE220 : All Time
+0x250D1FF3 : *GAME ROOM*
+0x25C9AFE9 : EA TERMS & CONDITIONS
+0x27812991 : Sending password to registered e-mail address...
+0x2898B49D : The Xbox Live billing service is currently unavailable! Without this connection we can not create your EA account. You may try again later or create an account on NeedforSpeed.com and link it to your Gamertag.
+0x29C70D6F : Invite to Voice Chat
+0x29F6A69D : The password you have entered does not match the password for this account.
+0x2A6855C8 : %s has sent you a Player Crew Invite.
+0x2AB38DA0 : This account has been disabled. Contact Customer Support.
+0x2BC2E6FF : Downloading Stats...
+0x2BE0B89B : Racing
+0x3077E9D3 : This game has not been registered!
+0x31599117 : Player Stats
+0x32335CB6 : Email Address
+0x34F3C8DD : Time
+0x35A3E640 : Win %
+0x363C1824 : Page down
+0x371B340F : You've indicated on your registration form that you are between^the ages of 13 and 17 years old. EA informs a parent^or guardian that you are creating an EA membership. Please^provide the valid email address of a parent or guardian below (the Parental email address must be different than the Account Address).
+0x38261B70 : %s has cancelled the Player Crew Invite.
+0x38967CA1 : HURRY UP
+0x3A58C3DB : Mute Voice Chat
+0x3B3CCCD7 : *GAME TYPE*
+0x3B7985EC : Block
+0x3D9033BA : Because you are under the age of 18, it is our policy to notify your parent or guardian that you have registered for the EA online Service. To continue your registration, please provide a current Email address for your parent or guardian who is over 18. We will send an Email message to the address you provide, letting your parent or guardian know that you have registered for the EA online Service (the parent or guardian email address must be different than the Account Address).^
+0x3E1573CB : Online playing %s
+0x3EBAF57C : Cancelling game session...
+0x3F4D3AF9 : %s has declined the Player Crew Invite.
+0x416884DB : Create New Account
+0x43D1D33F : CANCEL
+0x46035788 : Gamertag
+0x460660FD : The password is invalid. It must be 4 to 16 characters long. Acceptable characters are letters and numbers.
+0x46716429 : Your EA account name has been sent to the registered e-mail address.
+0x46E2BE0F : You have Signed out of the gamer profile used to begin the current session. As a result your game cannot be saved. The game must reset; any connection to EA Nation will be lost, and you will be returned to the Press START screen. Press START to continue.
+0x475A5BE7 : Edit Settings
+0x48138078 : Start Game
+0x484CAB23 : Joining game session...
+0x48B1F614 : Crew Win %
+0x49B4E6E5 : A connection to the network could not be established.  Check your network settings, ensure you are signed-in, then return to Need for SpeedÅ Carbon and attempt to sign in to EA Nation again.
+0x4A25CBF0 : If you decline the EA Terms and Conditions, you cannot create an EA Online Account and take advange of the Online features of this title. Are you sure you wish to decline the EA Terms and Conditions?
+0x4BB8B75A : Challenge Series Assist
+0x4BDFDC37 : Monthly
+0x4BF4BF35 : Online XP Level
+0x4C2AE7CE : Without Crews
+0x4D9DE432 : To connect to many Online features of Need for SpeedÅ Carbon you must first have an EA Online account. You may use an existing account created using another EA product by linking your EA Online Account to your Gamertag at http://www.ea.com/ or accept the Terms and Conditions below and a create a new account now.
+0x4E2A7471 : You cannot Add or Block yourself.
+0x4ECC049C : Multiple log-ins detected. You have been logged off.
+0x4ED8C79F : Please enter your CD registration code to add this title to your^EA Online Account. Your registration code is located on the back^of your Need for SpeedÅ Carbon manual.
+0x5155B24C : *FORGOT USER NAME*
+0x51BF2AF1 : QUIT RACE
+0x52A8F555 : Great Session
+0x54FC78D4 : We only accept reports regarding the EA Terms & Conditions. Please use this tool only for legitimate reports. Misuse may result in action being taken against your account.
+0x568B2F58 : Accept the Invite to join your Friend's game. You will be unable to accept a Game Invite if the game is full, or if you are already in a game.
+0x577F154D : debug start race
+0x58F0151B : %dX SCORE BONUS: %$d PTS
+0x5934A42C : Unknown Sign in error.
+0x5B7BC9BC : Your Photo was sent successfully to NeedforSpeed.com. You must link your Gamertag to an EA Online Account to be able to view the Photo there. Visit NeedforSpeed.com for details.
+0x5C301031 : The country of residence you provided is invalid!
+0x5D130BE8 : You cannot send a message that often.
+0x5F88FEDC : Race Settings
+0x61AEBBC5 : The provided account is not entitled to play this game Online!
+0x62796849 : Weekly
+0x63E15C87 : *GAME SETUP*
+0x63E4BE45 : The e-mail address you have provided is invalid!
+0x64C27AB1 : This game invite is no longer valid!^
+0x661697F3 : The birth date you provided is invalid!
+0x6655F80C : Birth Month
+0x66F3088F : %s wants to be your Friend.
+0x66F64536 : Creating game session...
+0x66F64538 : Searching for players...
+0x66F6453A : Player search failed. Please try again.
+0x66F6453C : Could not create game session. Please try again.
+0x66F64555 : You have been disconnected from the game. Please try to join a different game.^
+0x66F64557 : Crew Recruit sent to %s.
+0x66F64559 : Game session has ended. Please try to join a different game.
+0x66F6455B : Player search has timed out. Please try again.
+0x66F6455D : Could not connect to game. EA servers may be too busy or unavailable. Please try again later.
+0x66F64576 : Could not find players. Please try again.
+0x66F64578 : Could not join game. Please try to join a different game.
+0x66F6457A : Could not join. Game is full. Please try to join a different game.
+0x66F6457C : Could not join. Game is closed. Please try to join a different game.
+0x66F6457E : Attempt to join game failed. Please try to join a different game.
+0x66F64597 : Stats unavailable for this race.
+0x66F64599 : Stats unavailable for player %s.
+0x66F6459B : Leader is changing game settings...
+0x66F6459D : Game Room is locked.
+0x66F6459F : Game Room is full.
+0x6721A5CE : Yearly
+0x67F1D911 : This EA account name is already in use.†Choose another name and try again.
+0x6829DFE7 : Your current Xbox Live privileges prevent you from accessing this feature.
+0x692333F9 : Search
+0x6998C962 : Are you sure you want to quit this race?^This will increase your disconnect percentage.
+0x6B24BEE4 : Receive All
+0x6B62132C : Online Challenge Series Won
+0x6BDC3006 : Bad Name
+0x7002FDEF : There are currently more players in the game than your Max Players setting allows. Increase the Max Players setting before saving your Race Settings.
+0x708F09F5 : [FOR REFERENCE, ACHIEVEMENT] Check NeedforSpeed.com to learn how to get this Achievement
+0x70A15EB9 : Player List
+0x70A7BBC4 : Call-A-Friend Won in my Career
+0x71F522D4 : The Game Setup Screen is where you can send private Game Invites to Friends, select cars, and chat with other players. The Game Leader can set the game options then press START to proceed into the Game Room. The Game Room allows other Xbox Live players to join before the race begins.
+0x72635891 : %s wants to play.
+0x72C4556F : Reply
+0x732F6422 : Cheating
+0x744DD438 : Screaming
+0x74A611F2 : Creating EA account...
+0x7DE385D7 : End Voice Chat
+0x7E1FFDFA : Threats/Harassment
+0x7E94C88F : Feedback
+0x7FDCD3DA : Cursing/Lewdness
+0x8000AA80 : Disconnect Threshold
+0x810A0C1E : EA Terms and Conditions
+0x820BC02E : Cannot connect to EA Nation.
+0x8257A332 : Career Assist
+0x84B49F35 : Max Tier 1
+0x84B49F36 : Max Tier 2
+0x84B49F37 : Max Tier 3
+0x860068F3 : You failed to Sign in to the provided account too many times!
+0x8726E194 : Waiting for other players...
+0x87483DC2 : %s has declined your Game Invite.
+0x8839371C : Racer Profile
+0x89AAB2E5 : Game Invites
+0x8A6C106A : Show Player Names
+0x8A866126 : Select Car
+0x8ACCC062 : The Battle for the City is Won in the Canyon.^What starts in the city is settled in the canyons as Need for SpeedÅ Carbono immerses you in the world's most dangerous and adrenaline-filled form of street racing. You and your Crew must race in an all-out war for the city, risking everything to take over your rivals' neighborhoods one block at a time. As the police turn up the heat, the battle ultimately shifts to Carbon Canyon, where territories and reputations can be lost on every perilous curve. With Online racing and the most advanced graphics and car customization tools ever, Need for SpeedÅ Carbono is the ultimate next generation racing game.^
+0x8B96D10D : The provided account is currently pending. Contact Customer Support.
+0x8C73C18E : Unranked Match
+0x8D24B5A8 : SAVE
+0x8D824D60 : Cannot connect to EA Nation!
+0x8FD67777 : Cannot connect to Xbox Live!
+0x91CC47DC : Name
+0x92BB4EE5 : To connect to many Online features of Need for SpeedÅ Carbono you must first have an EA Online Account. You may use an existing account created using another EA product or create a new account now.
+0x92F224FB : Need for SpeedÅ Carbon supports only the active controller during online game play. Game invites sent to another player on the same Xbox 360 console are not supported.  Press A to continue.
+0x932337DF : The Battle for the City is Won in the Canyon.^What starts in the city is settled in the canyons as Need for SpeedÅ Carbon immerses you in the world's most dangerous and adrenaline-filled form of street racing. You and your Crew must race in an all-out war for the city, risking everything to take over your rivals' neighborhoods one block at a time. As the police turn up the heat, the battle ultimately shifts to Carbon Canyon, where territories and reputations can be lost on every perilous curve. With Online racing and the most advanced graphics and car customization tools ever, Need for SpeedÅ Carbon is the ultimate next generation racing game.^
+0x93CFDF02 : Search For Game
+0x9439030F : Could not send associated user name to the provided e-mail address!
+0x947498D5 : You have been banned for this session!
+0x97294313 : Player Crew Name
+0x974BE33B : Friends Only
+0x989BA062 : [FOR REFERENCE, ACHIEVEMENT] Complete Career
+0x989BA063 : [FOR REFERENCE, ACHIEVEMENT] Conqueror
+0x989BA064 : [FOR REFERENCE, ACHIEVEMENT] Crusher
+0x989BA065 : [FOR REFERENCE, ACHIEVEMENT] 12 Minute Exit
+0x989BA066 : [FOR REFERENCE, ACHIEVEMENT] Perfect Canyon Duel
+0x989BA067 : [FOR REFERENCE, ACHIEVEMENT] Drift King
+0x989BA068 : [FOR REFERENCE, ACHIEVEMENT] Career Mogul
+0x989BA069 : [FOR REFERENCE, ACHIEVEMENT] Bronze Challenge Series Champ
+0x989BA06A : [FOR REFERENCE, ACHIEVEMENT] Silver Challenge Series Champ
+0x989BA082 : [FOR REFERENCE, ACHIEVEMENT] Gold Challenge Series Champ
+0x99456E32 : Your blocked list is full.
+0x99EF4D26 : Read Game Invite
+0x99EFDB34 : Send Game Invite
+0x9A5DBA00 : Search For Players
+0x9A8DEB7F : *FORGOT PASSWORD*
+0x9B2D7481 : Quarterly
+0x9C362A04 : *INVITE*
+0x9C61A8CB : Final Settings
+0x9F326334 : Your connection has timed out!
+0x9F84368D : The Game Setup Screen is where you can send private Game Invites to Friends, select cars, and chat with other players. The Game Leader can set the game options then press Start to proceed into the Game Room. The Game Room allows other Online players to join before the race begins.
+0xA09BBCED : Your must type your password correctly twice!
+0xA0AE24E6 : Recruit to Player Crew
+0xA0DDCC6B : Any
+0xA0DDD91B : DNF
+0xA1BEA365 : Appear Offline
+0xA2CE3A43 : Read Text Message
+0xA2CEC851 : Send Text Message
+0xA3F3F6E3 : Are you sure you want to Sign out of your EA Online Account?
+0xA4A0121E : Need for SpeedÅ Carbon supports only the active controller during online game play. Game invites sent to another player on the same Xbox 360 console are not supported.  Press A to continue.
+0xA4AF79CA : Push To Talk
+0xA5FDCB7D : Handle
+0xA73FC705 : Downloading the EA Terms and Conditions...
+0xAAC4BD62 : Mute Player
+0xAC474C1B : PURSUIT MODE
+0xAD4056B2 : The e-mail you provided has been blocked from creating new accounts!
+0xAD8971E5 : Your Shadow
+0xAE2942DD : [For Reference, Rich Presence] Fire Truck
+0xAF2181E6 : My Crew
+0xAF297461 : My Rank
+0xAFB89110 : Cancel Game Invite
+0xB12EAA6E : Could not create game session. Please try again. Check NeedForSpeed.com for the latest updates.
+0xB170AFBC : Player Crew Invites
+0xB2C5EC8D : XP Level 11
+0xB4DF85E0 : Type your message... (Maximum of 40 characters)
+0xB50B1222 : To connect to many Online features of Need for SpeedÅ Carbon you must first have an EA Online Account. You may use an existing account created using another EA product or create a new account now.
+0xB6A9A7B5 : From Friends Only
+0xB724AEA7 : Game Mode:
+0xB728B164 : Game Type:
+0xB920C156 : Connecting to EA Nation...
+0xBA494F4F : UnBlock
+0xBB09530F : Ranking server is not available. Statistics will not be reported for this game.
+0xBC1F7755 : To connect to many Online features of Need for SpeedÅ Carbono you must first have an EA Online account. You may use an existing account created using another EA product by linking your EA Online Account to your Gamertag at http://www.ea.com/ or accept the Terms and Conditions below and a create a new account now.
+0xBCD439AB : You are about to join an Online Game Session. Your progress in the current game will be lost. Press START to continue.
+0xBE9CB61C : Your EA account password has been sent to the registered e-mail address.
+0xBF05727A : You can not join this Game Room because the match has already started.
+0xBF8A58EB : Forgot User Name
+0xC1C69961 : HIT WALL!^^%dX BONUS
+0xC272F4EB : Good Attitude
+0xC27FB072 : You are on your way to creating a new EA Online account !  Your EA member name and password is your login to any EA game. Use your account to manage all your game registration and subscription information.  It's free to create an account!^Please enter the requested information below.
+0xC29CA9A4 : You have lost your connection to EA Nation.
+0xC5066F9B : [For Reference, Xenon Demo Rich Presence] In a <GAME MODE> Race^Driving a <CAR NAME>
+0xC5066F9C : [For Reference, Xenon Demo Rich Presence] Setting Up a Race
+0xC8264666 : Best Winning Streak
+0xC831BBC3 : ONLINE
+0xC8E784F7 : Press ENTER to return to the Main Menu
+0xC915C8E4 : Birthday
+0xC9E7D727 : Press START to return to the Main Menu
+0xCA0327D2 : CHALLENGE
+0xCA571225 : Need for SpeedÅ Carbon supports only the active controller during online game play. Game invites sent to another player on the same Xbox 360 console are not supported.  The game must reset; any connection to EA Nation will be lost, and you will be returned to the Press START screen. Press START to continue.
+0xCB38A6F4 : Sign in
+0xCC195A12 : CD key registration has failed!
+0xCC855B4C : Game Settings Finalized in:
+0xCD10B972 : You are the now the Leader of the Game Setup and only you can make changes to settings.  When you and your friends are ready press START to proceed.
+0xCD60E08D : [For Reference, Rich Presence] Dump Truck
+0xCDCFB7E1 : *FEEDBACK*
+0xCF2B4D8E : Confirm Account Password
+0xCF817202 : *EA MESSENGER*
+0xD157C200 : Entering a game room may cause you to lose any unread messages and game session invites.
+0xD2B8A241 : Number of Laps:
+0xD2C4BBF0 : Starting matchmaking...
+0xD4104AF0 : The CD key you provided is already registered.
+0xD96867DE : Forgot Password
+0xD99C1D83 : CD Key
+0xDAFC4A0A : User's mailbox is full.
+0xDB93C6E4 : *CHAT*
+0xDE4F184B : Registering CD key...
+0xDFF71F5E : You are about to join another Online game session. You have been disconnected from the current game and any progress you have made will be lost. This will increase your disconnect percentage. Press START to continue.
+0xE018877A : %s has accepted the Player Crew Invite. 
+0xE0B13672 : %s sent you a message.
+0xE1A622E8 : Remove Friend
+0xE2835B54 : Bi-weekly
+0xE29A380B : Daily
+0xE346E225 : Blocked
+0xE36F9CDA : Not Signed In
+0xE3840D56 : You must enter at least 3 characters to search.
+0xE3DC2B39 : PLAYER DISCONNECT
+0xE3E7FDCA : Searching for players...
+0xE5DEFCB2 : Recent Players
+0xE64C5A36 : You must provide both the user name and password to Sign In!
+0xE7B860F6 : Unranked Match
+0xE8354FBB : Sign In
+0xE8C141C9 : Your Friends list is full.
+0xEA636E35 : Match begins in:
+0xEA98F7B3 : Sign in successful!
+0xEB0C5F30 : This account has been banned. Contact Customer Support.
+0xEB89551B : The parental e-mail you have provided is invalid!
+0xEBDA7797 : Birth Year
+0xEBE5850D : Account Name Taken
+0xECFBDA24 : Two gamer profiles on one Xbox 360 console cannot join the same game. You have been disconnected from the current game session.
+0xEDBD2606 : 180∞ SPINOUT!^^%dX BONUS
+0xEE2E7E9D : Read Friend Request
+0xEE2F0CAB : Send Friend Request
+0xEEDF61DC : Sign Out
+0xEEE10B9D : Are you sure you want to leave this game? Your connection to this group of players will be terminated.
+0xEEED8F7B : Silent Sign In
+0xEFE3756A : Cannot connect to EA Nation.
+0xF4992866 : Collision Detection:
+0xF5D604B7 : Player Crew Members
+0xF828FAE7 : You have lost your connection to your current game and possibly to EA Nation as well.
+0xF8A00EE2 : Country of Residence
+0xFA0E7C50 : %d SECOND EVASION BONUS!
+0xFBE92098 : Xbox Live
+0xFE293407 : Starting race...
+0xFE325E46 : 360∞ SPINOUT!^^%dX BONUS
+0xFFD3C2AC : Parental E-mail

@@ -1,0 +1,845 @@
+0x0011BEDE : *VINYL TRANSFORM*
+0x0052ABFF : Knockouts
+0x006F0514 : CREW LOGO
+0x00A97902 : Mazda RX-7
+0x015BCE87 : These markers include cash bonuses, getting out of jail passes, extra Impound strike markers, and the pink slip for the Boss car you just beat.
+0x015D3C4B : AutosculptÅ allows you to customize your ride by fabricating your own parts.^You can modify body kits, wheels, hoods, spoilers, and roof scoops to create exactly the parts you want.^Customization doesn't stop there. Spray on custom paint, add customizable vinyls, decals, and install performance parts to create your own unique Tuner, Muscle, or Exotic Crew identity.
+0x02C87BD3 : Completed
+0x03910E7F : Create a new alias? If you do not create a new alias, changes may be lost.
+0x03C030CA : Select Co-op Challenge Mode
+0x03C66ACF : *WHEELS*
+0x047F128A : Unique Transmission Upgrades
+0x05DD10D6 : *VINYL PAINT*
+0x0686350F : Dodge Charger R/T
+0x06C58A80 : You do not have enough cash to buy all of these parts. Please remove some items from the shopping cart.
+0x06D0FF8B : Mercedes-Benz CLK 500
+0x07F8F4AF : Finnish
+0x081C5AC4 : A unique custom gauge upgrade on any of your cars.
+0x081C7393 : A unique nitrous upgrade on any of your cars.
+0x082CECD2 : %% As Police
+0x087F7FC2 : Race
+0x08CE6A26 : Need to win 5 Career Races
+0x09320BB5 : Solo Challenge
+0x0A617DAA : *CAREER*
+0x0AD19311 : Number of Times Busted
+0x0B47AB2E : WHEELS
+0x0B9E4074 : Crew Members Hired
+0x0BA4A282 : You just scored an extra %$d in cash.
+0x0BA79B6D : A unique hood upgrade on any of your cars.
+0x0BACFD7E : A unique wheel upgrade on any of your cars.
+0x0BAE16D7 : A unique tire upgrade on any of your cars.
+0x0CABE990 : STAG
+0x0D8032A7 : MAGYAR
+0x0DB71FE2 : Create
+0x0DE4672D : Ride Height Drop
+0x0E527C4C : Career Controls
+0x0EB4FD10 : SLIPSTREAM
+0x0ED15D74 : CREW STYLE
+0x0F023548 : Pursuit Statistics
+0x0F24F1A1 : Delete
+0x0F8FE43D : Shadow Score
+0x0F9AC01A : GRADIENT 0
+0x0F9AC45B : GRADIENT 1
+0x0FFBA808 : 10 Cops
+0x10ADEAF7 : Swedish
+0x10C5B457 : SLIPSTREAM
+0x11132EDC : Unique Paint Upgrades
+0x11C28B4C : All of your Crew members have been busted and you do not have enough money to bail any of them out.
+0x13E21C71 : INNER GLOW
+0x140000B8 : Unique Brake Upgrades
+0x14170F4E : CAMOUFLAGE
+0x14426CD1 : Jaguar XK
+0x1495F691 : Ownership:
+0x14B2C044 : TIRES
+0x14B95469 : TURBO
+0x151F9327 : TRANSMISSION
+0x1587C022 : Porsche Carrera GT
+0x15A0581B : Unique Suspension Upgrades
+0x15B93B7D : Infractions (Total)
+0x163B17CD : You just scored the pink slip for the Boss racer's car. The next time you go to your Safe House you'll see the car waiting for you.
+0x16C892D8 : Purchase Car
+0x1736CEC1 : Your garage is full. You will have to sell one of your cars, in order to add a new one.
+0x1789AA89 : Co-op Challenge
+0x17C0028C : Unique Decal Upgrades
+0x17F1F5F2 : SAVE
+0x18095355 : BMW M3 GTR
+0x18326759 : POLSKI
+0x189072BC : Total Cash Earned
+0x18967129 : Defeat an easy opponent in a Canyon Duel on Journeyman's Bane.
+0x18967141 : Defeat an intermediate opponent in a Canyon Duel on Gold Valley.
+0x18967142 : Defeat a hard opponent in a Canyon Duel on Eternity Pass.
+0x18967143 : Win a Canyon Race on Gold Valley against easy opposition.
+0x18967144 : Win a Canyon Race on Copper Ridge against intermediate opposition.
+0x18967145 : Win a Canyon Race on Deadfall Junction against hard opposition.
+0x18967146 : Complete the Eskuri Plaza Checkpoint Challenge in under 3:44 to win.
+0x18967147 : Complete the Rabinowitz Drive Checkpoint Challenge in under 3:02 to win.
+0x18967148 : Complete the Blackwell Road Checkpoint Challenge in under 3:21 to win.
+0x18967149 : Complete the Lofty Heights Checkpoint Challenge in under 2:39 to win.
+0x1896714A : Complete the Knife's Edge Checkpoint Challenge in under 1:25 to win.
+0x18967162 : Complete the Desperation Ridge Checkpoint Challenge in under 1:55 to win.
+0x18967163 : Score over 25,000 PTS on this Canyon Drift to win.
+0x18967164 : Score over 100,000 PTS on this Canyon Drift to win.
+0x18967165 : Score over 150,000 PTS on this Canyon Drift to win.
+0x18967166 : Evade the police pursuit after at least %s minutes to win.
+0x18967167 : Evade the police pursuit after at least %s minutes to win.
+0x18967168 : Evade the police pursuit after at least %s minutes to win.
+0x18967169 : Disable at least %s police vehicles and evade the pursuit to win.
+0x1896716A : Disable at least %s police vehicles and evade the pursuit to win.
+0x1896716B : Disable at least %s police vehicles and evade the pursuit to win.
+0x1896747A : Win a Circuit Race on Dover St. against easy opposition.
+0x1896747B : Win a Circuit Race on Ocean View against intermediate opposition.
+0x1896747C : Win a Circuit Race on Starlight Street against hard opposition.
+0x1896747D : Win a Sprint Race on Condo Row against easy opposition.
+0x1896747E : Win a Sprint Race on Kings Park against intermediate opposition.
+0x1896747F : Win a Sprint Race on Canmor Road against hard opposition.
+0x18967480 : Score over 50,000 PTS on this Drift to win.
+0x18967481 : Score over 140,000 PTS on this Drift to win.
+0x18967482 : Score over 250,000 PTS on this Drift to win.
+0x18967483 : Win the Million Dollar Run Speedtrap Race against easy opposition.
+0x1896749B : Win a Speedtrap Race on Infinity Park against intermediate opposition.
+0x1896749C : Win a Speedtrap Race on Eskuri Way against hard opposition.
+0x1896749D : Win the Downtown Race Wars against easy opposition.
+0x1896749E : Win the Fortuna Race Wars against intermediate opposition.
+0x1896749F : Win the Silverton Race Wars against hard opposition.
+0x1899B644 : DEUTSCH
+0x1929A185 : Time Period
+0x1995BCC5 : Tuners rule the corners with tight, responsive handling. What ^tuners give up in the straights, they more than make up for ^in the turns. With all this grip, it's best to keep the gas ^planted through corners and leave your opponents in the wall.
+0x19E24300 : You must have a non-stock wheel to apply wheel paint
+0x1A038EC7 : Cops Disabled (Single Pursuit)
+0x1A72EC32 : RIDE HEIGHT
+0x1ABA5B76 : Unique Engine Upgrades
+0x1AF40FEE : Do you want to enable Autosave, and save your alias now?
+0x1BE250C0 : ESPA—OL
+0x1C0FF7DA : *CHOP TOP*
+0x1CC69F99 : Ford Mustang GT
+0x1DA85968 : Knockout Wins
+0x1E2BE292 : DELETE
+0x1E69B3F6 : Warning. If you remove this vinyl you will not be able to re-install it. Do you wish to continue?
+0x1EF5F0D5 : CREW
+0x1EFAD2E4 : LOAD
+0x1F655D3B : REAR BUMPER
+0x1FA4E047 : Change Swatch
+0x1FC57A30 : You are about to empty your shopping cart. Are you sure you wish to continue?
+0x1FE0D58A : Array Scroller
+0x1FE67056 : Peak Score
+0x206CAB71 : CLASSIC
+0x20954717 : Best Percent As Racer
+0x20D147A6 : Lamborghini Gallardo
+0x21B54A9C : Bounty (Single Pursuit)
+0x21C96EE4 : Please don't turn off your Xbox 360 console while the Autosave icon is displayed.
+0x21F8BC91 : You cannot add any more layers. You are at the maximum number allowed.
+0x22105094 : Exhaust requires non-stock bumper
+0x2283A213 : ROOF SCOOP
+0x22A897D4 : BORRILLO
+0x22DE7059 : Gamertag
+0x2386FE51 : Do not remove memory†card†(PS2), controller, or reset/switch off the console while the Autosave icon is displayed. Doing so may cause the information to become corrupt.
+0x2386FE52 : Do not remove the HDD, controller, or reset/switch off the console while the Autosave icon is displayed. Doing so may cause the information to become corrupt.
+0x23D2F913 : CANDY
+0x2421696C : GLOSS
+0x24282338 : *SPOILERS*
+0x242D9E9A : Pursuit Tag
+0x2488099F : MATTE
+0x24894850 : Race Type
+0x24B88047 : MADDEN NFL 07
+0x24C03398 : PEARL
+0x252D4200 : You must be Signed in to your EA Online Account to download a Shadow from the EA Nation Leaderboard. You can Sign in manually in Online Options.
+0x25A8F6CB : *STATISTICS*
+0x25F8FE47 : Highest Fine
+0x262890FE : Gameplay specific
+0x268B8E83 : An error has occurred. Turn the power off and refer to the Nintendo Wii console Instruction Booklet for further instructions.
+0x26B13A6B : Need for SpeedÅ Carbon uses an Autosave feature. Game information is automatically saved throughout the game on the Xbox hard disk when the Autosave icon flashes as follows.
+0x26C5A698 : +10%% cash bonus per win^
+0x27208678 : PINSTRIPES
+0x27C646CD : BORRILLO
+0x2818EFEF : Online
+0x283CAA8C : GIOVANNA BRAKE
+0x283CAA8D : GIOVANNA GELLO
+0x283CAA8E : GIOVANNA ARARAT
+0x285B9DC0 : Adding Colin to your Crew will allow you to customize these Autosculpt items.
+0x285C5650 : ADR ADRENALINE
+0x285C5651 : ADR EMPIRE
+0x285C5652 : ADR GT-SPORT
+0x285C5653 : ADR M SPORT
+0x285C5654 : ADR SOKUDO8
+0x286D5A50 : BBS GT
+0x286D5A51 : BBS RS GT
+0x286D5A52 : BBS LM
+0x286D5A53 : BBS CH
+0x286D5A54 : BBS RK
+0x286D5A55 : BBS RX
+0x28C766BD : Error downloading Shadow
+0x28E277D8 : HRE 943R
+0x28E277D9 : HRE 541R
+0x28E277DA : HRE 549R
+0x293BFC46 : Player Filter
+0x296F3D0A : Crew member
+0x29BC76D7 : TSW MONDELLO
+0x29BC76D8 : TSW ROCKET 5
+0x29BC76D9 : TSW LAGUNA
+0x2C28520A : The user name is invalid. It must be 4 non-space characters up to 14 characters long including spaces. Letters, numbers, and spaces are acceptable characters.
+0x2C4605F6 : Cost to State (Single Pursuit)
+0x2C718410 : %s would you like to use a Manual or Automatic transmission?
+0x2C755ACD : +200 cash bonus per win^
+0x2D078425 : These markers can include anything from Body Kits, Roof Scoops, Wheels, Hoods, and Spoiler upgrades.
+0x2D07FD70 : Create a new alias to store auto-login information?
+0x2D62008D : View Bio Video
+0x2E06D04A : Longest Drift Distance
+0x2E6676B6 : Renault Clio V6
+0x2E7BC63F : The Game Setup Screen is where you can send private Game Invites to Friends, select cars, and chat with other players. The Game Leader can set the game options then press SPACE to proceed into the Game Room. The Game Room allows other Online players to join before the race begins.
+0x2EE76BE3 : %% As Racer
+0x2F05C91F : Toyota Supra
+0x2F5AA9F7 : Select a Standard part or Autosculpt part
+0x2FA2E96C : Loading a new alias will result in the loss of any unsaved changes to the current alias. Are you sure you want to load a new alias?
+0x2FC098A8 : Need to win 25 Career Races
+0x301B0BF9 : CHOP TOP
+0x302B9408 : EXHAUST TIPS
+0x309A01C2 : Need to win 10 Career Races
+0x31C51335 : *AUTOSCULPT PART*
+0x32D645EE : Bronze
+0x33371446 : DECALS
+0x337B58C1 : WHEELS
+0x339AF35E : Tuning supercharger components allows you to control the size of the supercharger.  Tune with smaller components to allow the supercharger to make power quicker but result in less power up top, or tune with larger components to allow the supercharger to take longer to make power but result in a higher power boost.
+0x33E68E62 : Need for SpeedÅ Carbono uses an Autosave feature. Game information is automatically saved throughout the game on the memory†card†(PS2) in MEMORY†CARD†slot†1 when the Autosave icon flashes as follows.
+0x33E68E63 : Need for SpeedÅ Carbono uses an Autosave feature. Game information is automatically saved throughout the game to the HDD when the Autosave icon flashes as follows.
+0x348B7B51 : STAG
+0x34D7D83B : Test Race
+0x34ED09B5 : CHICANE
+0x34EDA240 : Use All Trax
+0x34F32B4F : ESPA—OL
+0x3691263B : SPECIAL
+0x3694BEE5 : You are over the maximum number of saved aliases. Do you wish to continue?
+0x36DB75A9 : CAREER
+0x373EB53D : PLEASE ADD A LAYER
+0x377BC69A : CHALLENGE SERIES
+0x37872F52 : Complete %s %s to unlock this challenge.
+0x37A63A02 : Car Name
+0x37A9EAC3 : Car Type
+0x37BC5DC1 : BONUS
+0x37CE1D36 : Split Screen
+0x37CEA1D4 : Number of Cars Sold
+0x38B6FE76 : Please ensure that the Wii Remote strap is attached, and that nothing in the surrounding vicinity might be knocked over by moving the controller. ^
+0x38BF9B23 : Best Race Score
+0x3905B6E6 : You can not edit the vinyls that come pre-set on the crew members car.
+0x3ACE7602 : Aston Martin DB9
+0x3C94B77D : Set as Active
+0x3CF98232 : Best Lap Time
+0x3D3F3D44 : AUTOSCULPT WHEELS
+0x3DF7486B : 5ZIGEN FN01R
+0x3DF7486C : 5ZIGEN SUPERSIX
+0x3DF7486D : 5ZIGEN 5ZR
+0x3DF7486E : 5ZIGEN GN+
+0x3DF7486F : 5ZIGEN GRAVIS 1
+0x3E29D7A7 : You have unlocked a new Crew member. You can hire that new Crew member on the My†Crew†page. 
+0x3E74BEBF : Nissan Skyline GT-R R34
+0x3E7F2446 : Carbono Logo
+0x3EB1C0F1 : NITROUS
+0x3EE530DA : Are you sure you want to save your alias?
+0x3F460E02 : STATISTICS
+0x3FEE7160 : Max Opponents
+0x40BA4EFE : Unlocks Autosculpt body kits, hoods, and roof scoops^
+0x40C528B4 : *RIDE HEIGHT*
+0x40D7908A : STAG
+0x420BAE25 : Unique Vinyl Upgrades
+0x422197FE : *SPEED TRAP*
+0x43B5486A : No Crew members available for hire.
+0x44E91B23 : Spike Strips Dodged (Total)
+0x44E9D2F9 : A unique body kit upgrade on any of your cars.
+0x44ED78AB : 25%% boost to nitrous^
+0x456375C6 : Mercedes-Benz SL65 AMG
+0x4577628D : Zone 10
+0x459039E9 : Races Lost
+0x45D1525E : *VISUALS MENU*
+0x46148621 : Release car from Impound
+0x46C1DBF9 : Reduce Heat
+0x470BCA88 : CENTER LINE DAGGER
+0x470BCA89 : CENTER LINE INDY
+0x470BCA8A : CENTER LINE RETRO
+0x470BCA8B : CENTER LINE VIKING
+0x47129AA2 : O.Z. SUPERLEGGERA
+0x47129AA3 : O.Z. SUPERTURISMO
+0x47129AA4 : O.Z. OPERA
+0x47129AA5 : O.Z. SUPERLEGGERA III
+0x47129AA6 : O.Z. LEONARDO
+0x475B3A7A : Number of Busts
+0x478E6C29 : Fire
+0x47EC2331 : SWEEPER
+0x481C9C2C : Height:
+0x48A3CA7F : *HIRE CREW MEMBER*
+0x48D5DFE7 : *WHEEL PAINT*
+0x4937ACA7 : Roadblocks Dodged (Total)
+0x49B40E54 : Player 2 press the + Button.
+0x4AED52C8 : Crew Style
+0x4B1A9C75 : FOOSE SPEEDSTER
+0x4B1A9C76 : FOOSE SPLITZ
+0x4B1A9C77 : FOOSE NITROUS SILVER
+0x4BB1B1C3 : NUMBERS
+0x4C106FEC : Tracking Mode
+0x4C439DA2 : Need to win a single Career Race
+0x4CF66E85 : MY CARS
+0x4D11F026 : TRIBAL BODY
+0x4D3BF011 : Unique Visual Upgrades
+0x4DC4DF5A : Do you want to save your auto-login information to your alias?
+0x4DEBCFBA : Menu Screen
+0x4EA080AE : *MY CARS*
+0x4EEC40D6 : Mirror Off
+0x4F7990C7 : Unique Part Upgrades
+0x4F7AA97D : Dodge Viper SRT-10
+0x512F34D3 : You can now select %$d bonus cards from %s.
+0x517BF89B : *CHOOSE YOUR CLASS*
+0x51901FB1 : You do not have enough cash to purchase this car. Go out and win some more races!
+0x51B2DB2D : Ranked Losses
+0x51DCB557 : Shelby GT500
+0x51E09D63 : Downloading player's Online stats...
+0x51EEA1A6 : This is just a test, there is no pressure to win. Have Fun.
+0x51FFE61E : INNER SHADOW
+0x526C53B9 : WHEEL PAINT
+0x54C74A2D : A unique transmission upgrade on any of your cars.
+0x5515B059 : Mini Objective
+0x55A76D69 : Finish Time
+0x55D3BF99 : CAR SELECT
+0x56158781 : Reward Cards Main
+0x56366B33 : Chevrolet Camaro SS
+0x56EA312F : Best S.trap
+0x574BD2E0 : AUTOSCULPT ROOF SCOOP
+0x57703573 : Unlocks Autosculpt wheels, spoilers, exhausts, and chop top^
+0x5807CE82 : 10%% discount on Performance parts^
+0x5833F4B4 : 10%% discount on all car purchases^
+0x58E173F7 : NBA LIVE 07
+0x59D99653 : Silver
+0x5A43A3A4 : Roadblocks Dodged (Single Pursuit)
+0x5A704E59 : Subaru Impreza WRX STi
+0x5B073DAD : *WINDOW TINT*
+0x5B100F29 : *EXHAUST TIPS*
+0x5BAF39D1 : SPEEDWAY
+0x5BEB005F : You have the option of increasing the allowed Impound strikes on any of your cars by 1. Maximum allowed is 5 on any single car.
+0x5C4CB872 : PAINT
+0x5C4CDF80 : AFTERMARKET
+0x5C510405 : RO_JA FORMULA 1
+0x5C510406 : RO_JA FORMULA 7
+0x5C510407 : RO_JA FORMULA 2
+0x5C99ABF8 : *CUSTOMIZATION*
+0x5CB31BE5 : Current Leader's Shadow
+0x5DBD0BD2 : Mazda Mazdaspeed3
+0x5E7EEF33 : Would you like to return to Free Roam?
+0x5EC340B9 : Leave Shop
+0x5F9F39AF : Are you sure you want to save this logo? 
+0x5FE0BF37 : CUSTOMIZE LOGO
+0x6024BDD8 : SPEEDWAY
+0x603C5200 : *%s TUNING*
+0x60C58316 : *RACE*
+0x60DA3E9D : Highest Top Speed
+0x61104EE3 : You cannot add this vinyl. You will need to remove some previously installed vinyls to make room.
+0x62B27694 : AUTOSCULPT SIDE SKIRTS
+0x62CC530C : You have earned Castrol Cash!
+0x6420181D : Best Chain Drift Score
+0x6465556E : Type
+0x6480C1DC : *CREWS*
+0x649B4FA1 : A unique spoiler upgrade on any of your cars.
+0x650D98EB : *CAR SELECT*
+0x65A6E9D5 : VOLK TE37
+0x65A6E9D6 : VOLK CE28
+0x65A6E9D7 : VOLK GT-P
+0x65E97142 : Cooper and the Cooper Tires logo are trademarks of Cooper Tire & Rubber Company. Dodge and HEMI are trademarks of DaimlerChrysler Corporation. Dodge Challenger Concept, Dodge HEMI and their trade dress are used under license by Electronic Arts.  © DaimlerChrysler Corporation 2006  The trademarks Lamborghini, Gallardo and all associated logos are used under license of Lamborghini ArtiMarca S.p.A., Italy. Mazda, RX-8, RX-7, Mazda3 MPS and all other associated marks, emblems and designs are used under approval of Mazda Motor Corporation.  Mitsubishi and Lancer Evolution names, emblems and body designs are trademarks and/or intellectual property rights of MITSUBISHI MOTORS CORPORATION and used under license to Electronic Arts Inc. The names and logos of all after market car part companies are trademarks of their respective owners and are used by permission.^
+0x663D2A11 : Autosculpt
+0x667F0EEE : IRIDESCENT
+0x66F509BB : Races Won
+0x673D73ED : FLAME BODY
+0x67FF5CBC : WORK VS SS
+0x67FF5CBD : WORK VS-KF
+0x67FF5CBE : WORK EUROLINE S2H
+0x67FF5CBF : WORK EUROLINE FE
+0x68697924 : Best Single Speedtrap
+0x68E3651E : Race Style:
+0x692B39AA : Pink slip to Boss car
+0x69684169 : TENZO PSYCHO
+0x6968416A : TENZO RS-5
+0x6968416B : TENZO SHU 10
+0x69CCCE2F : Zones you control draw less attention from the police
+0x6A27264C : Error downloading player's Xbox Live Stats.
+0x6A27EC7F : 2005 Aston Martin DB9 Unlocked!
+0x6A27EC80 : 2006 Dodge Charger SRT8 Unlocked!
+0x6A27EC81 : All Tracks Unlocked!
+0x6A3426F6 : Track
+0x6A65CF99 : NEW LAYOUT
+0x6AC6EF44 : Best Lap
+0x6ACFD225 : A controller has not been inserted.^Please insert a controller to continue.
+0x6B27DD63 : Exotics are for the racing purists that live for top speed. The ^weakest link in an exotic is the driver so if you think you ^have what it takes to balance the gas and brakes through ^a perfect apex, then the car can do the rest.
+0x6B2A9EC6 : View Gamer Card
+0x6B8CAC3C : Delete Car
+0x6BA9EBF7 : Number of Cars Unlocked
+0x6BEB01E7 : place holder
+0x6C195B13 : *PAINT*
+0x6CBF5C4D : Games Played
+0x6D3BBFBA : Broken Autosculpt Art
+0x6E4647F2 : *AUTOSCULPT*
+0x6EB60ABD : Zone 1
+0x6EB60ABE : Zone 2
+0x6EB60ABF : Zone 3
+0x6EB60AC0 : Zone 4
+0x6EB60AC1 : Zone 5
+0x6EB60AC2 : Zone 6
+0x6EB60AC3 : Zone 7
+0x6EB60AC4 : Zone 8
+0x6EB60AC5 : Zone 9
+0x6F0C9F02 : Select Car Class
+0x6F1C7FA4 : Missing Part String
+0x6F64DE4F : METALLIC
+0x6FC507F9 : SUOMI
+0x702D4356 : SLIPSTREAM
+0x708F934C : Pursuit Knockout
+0x70F41CB5 : Your car was totalled while escaping from Cross. Select the car class you want to start with in your Career.  This choice will determine which cars and parts you unlock when you conquer territory.
+0x712861B5 : *GAME OVER*
+0x71BEE5B7 : Tuner
+0x7207A155 : ARASHI
+0x7239D082 : Laps:
+0x723E9994 : Type:
+0x72E21D2A : Selections remaining: %$d
+0x7323B3C5 : Please press START button on second controller.
+0x734A54CD : Performance Upgrade markers can include any of the following upgrades to your Suspension, Tires, Brakes, Engine, Transmission, Nitrous, Turbo, or Supercharger.
+0x73598F49 : Are you sure you want to start a new game? Your current Career status will be lost.
+0x74291563 : Highest Clocked Speedtrap
+0x74B31DB0 : CLASSIC
+0x74C0838E : ARASHI
+0x752FF6AF : *LEADERBOARD*
+0x7669F243 : *CD KEY*
+0x76BF0A11 : Finished
+0x7756D952 : SKILL:
+0x77BEA340 : Unranked
+0x77DA5A49 : *BOSS BONUS CARDS*
+0x7854A5AD : Mitsubishi Lancer
+0x78664F11 : Total Disconnect %
+0x790CF185 : *SELECT TRANSMISSION*
+0x796D6858 : Dutch
+0x7993832C : ITALIANO
+0x7B0067DD : Get out of jail for free next time you get busted.
+0x7C90E034 : You must create a new alias to start a new Career. Do you want to create a new alias?
+0x7C9C5DDF : Extra Cash Reward
+0x7C9F56CA : Unique Hood Upgrades
+0x7CA4B8DB : Unique Wheel Upgrades
+0x7CA5D234 : Unique Tire Upgrades
+0x7CADE3D6 : Top Speed
+0x7CEE5A4C : Error downloading player's Online stats.
+0x7D21145C : This is where you pick the logo for your Crew. It will be displayed on the map and in other places. You can also place it on your car in the Vinyls area of Customization.
+0x7D367A82 : SELECT LANGUAGE
+0x7DCF6851 : BOSS
+0x7DCFFFAB : CREW LOGO
+0x7DD4E28B : LOGO
+0x7DDC0C32 : PURCHASED
+0x7E6BB08A : AUTOSCULPT
+0x7EF40CB4 : ICON SCROLLER(DEBUG)
+0x7F16B7D1 : AUTOSCULPT HOOD
+0x7F1C339D : AUTOSCULPT CHOP TOP
+0x7FB9E854 : Name:
+0x7FBC5545 : ROLE:
+0x7FBD9915 : TYPE:
+0x803D20A7 : CUSTOMIZATION
+0x80EAF11E : HEADLIGHT COLOR
+0x810894B9 : Dodge Charger SRT8
+0x81089582 : Dodge Charger R/T
+0x812407DF : A unique paint upgrade on any of your cars.
+0x81A78F95 : BRAKES
+0x81AE5C6F : *ONLINE REWARD CARD*
+0x81E71FDC : CAMERA CONTROLS EXIT
+0x821B6901 : *HEADLIGHT COLOR*
+0x82482CA3 : You do not have any Increase Max Impound Cards. Complete races to earn them.
+0x82AA9637 : Drop Shadow 0
+0x82BD5D9C : Are you sure you want to purchase all of these parts?
+0x8326EC81 : DANSK
+0x832C5CD2 : SHADOW
+0x836C3A90 : Text Scroller
+0x8381BEB5 : Ranked Wins
+0x839BD37D : VISUALS
+0x83EA84D2 : SWEEPER
+0x84450385 : %s has cancelled the Game Invite.^
+0x84B62CBF : Thank you for playing previous Need for SpeedÅ titles. We have rewarded you 10 000 in Career Mode.
+0x84C041C9 : Cops Disabled (Total)
+0x854F11D9 : AMERICAN RACING SHELBY RAZOR
+0x854F11DA : AMERICAN RACING TORQ-THRUST II
+0x854F11DB : AMERICAN RACING TORQ-THRUST ST
+0x85E09C91 : Number of Quick Race Wins
+0x862BFA1B : A unique brake upgrade on any of your cars.
+0x86D54FF5 : Exotic
+0x87402B3C : You can remove all the heat from one of your cars.^
+0x876B36AA : Best Score
+0x87722B5F : Best Speed
+0x87CC517E : A unique suspension upgrade on any of your cars.
+0x87F93B15 : RESUME CAREER
+0x88149A5C : Catch Up
+0x882E0B2A : ACCELERATION
+0x8861EA53 : ENGINE
+0x8877780D : CARBON MO5
+0x8877780E : CARBON HEX
+0x8877780F : CARBON REDLINE
+0x88777810 : CARBON GLITZ
+0x88777811 : CARBON ST-8
+0x88777812 : CARBON MULTI
+0x88777813 : CARBON SF15
+0x88777814 : CARBON RAZOR
+0x88777815 : CARBON ST-5
+0x88894056 : Zone Heat does not increase after races.^
+0x88D56E22 : Times Busted
+0x89198899 : IFORGED AERO
+0x8919889A : IFORGED EVOLUTION
+0x8919889B : IFORGED MARQUIS
+0x89573FA2 : BODY KIT
+0x89BAC9B5 : Move Layer Up
+0x89EBFBEF : A unique decal upgrade on any of your cars.
+0x8ADC0865 : Ford GT
+0x8AF7E664 : IN CART
+0x8B705270 : Creating a new alias will result in any unsaved changes to the current alias being lost. Are you sure you want to create a new alias?
+0x8BD68211 : Please press START on second controller.
+0x8C123234 : Lexus IS300
+0x8C555525 : You cannot add any more customization. You will need to delete one of your existing cars in order to continue customizing other cars.
+0x8CD44461 : DLC
+0x8CE654D9 : A unique engine upgrade on any of your cars.
+0x8CF82BED : You must have at least one crew member.
+0x8D358820 : Need for SpeedÅ Carbono uses an Autosave feature. Game information is automatically saved throughout the game when the Autosave icon flashes as follows.
+0x8D3EAD36 : Unique Body Kit Upgrades
+0x8DD1CD4B : SWEEPER
+0x8DDE08E0 : Challenge Series Completion
+0x8DE25985 : Win %
+0x8E0D4F67 : SHELBY
+0x8E9F2DAD : Unique Roof Scoop Upgrades
+0x8EA3ED77 : ÇEÉTINA
+0x8F8AD845 : Your Crew is already full. You can hire the new Crew member only after firing one of your current Crew members.
+0x90698B0D : kicks your car when broken
+0x90A513B4 : Drift Length
+0x91681B6C : *ENTER NAME*
+0x918ECA1A : CHALLENGES
+0x92B07308 : Player 2 press START.
+0x92DB8868 : PERFORMANCE
+0x92E354ED : Heat Reduction Cost:
+0x9304589F : XBOX LIVE MARKETPLACE
+0x930D21E5 : HANDLING
+0x930ECFE3 : Would you like to Test Race this car class or would you like to select it?
+0x935D13BE : Steer Left
+0x93C674EC : START NEW CAREER
+0x946AE73D : Do not disconnect the controller or turn off the Xbox console while the Autosave icon is displayed. Doing so may cause the saved game to become damaged.
+0x946FD2EF : Unique Performance Upgrades
+0x949DE20A : TWO TONE
+0x950812B5 : Unlocks %s
+0x95211567 : Mercedes-Benz SLR McLaren
+0x95E18C14 : SHOWCASE ROOM
+0x963CB08B : Unique Supercharger Upgrades
+0x972B9E81 : Unique Custom Gauge Upgrades
+0x972BB750 : Unique Nitrous Upgrades
+0x97C1EC91 : Longest Pursuit
+0x98040024 : AI Opponents
+0x98C9A886 : Win the Downtown Circuit Race against easy opposition.
+0x98CA34E7 : Win the Fortuna Circuit Race against intermediate opposition.
+0x98CAC148 : Win the Silverton Circuit Race against hard opposition.
+0x98CC73B0 : Rank
+0x98EBAA69 : No aliases were found.
+0x98ECC0C6 : Win a Circuit Race on Highway 142 against easy opposition.
+0x98ED4D27 : Win a Circuit Race on Garcia Street against intermediate opposition.
+0x98EDD988 : Win a Circuit Race on Route 21 against hard opposition.
+0x994A3512 : Muscle
+0x99CB5E4F : *MY CREW*
+0x9A126363 : View Car
+0x9A969D81 : Options
+0x9B51E541 : SVENSKA
+0x9B9290B4 : ENGLISH
+0x9C4ABB9B : Wins
+0x9D2BB583 : Length
+0x9D70117F : Cannot locate the CD-ROM
+0x9D701180 : Cannot find file
+0x9D701181 : Incorrect version of Windows
+0x9D701182 : A debugger has been detected
+0x9D701183 : Please insert the correct CD-ROM and select OK to retry
+0x9D701184 : Please insert the correct CD-ROM, select OK and restart application
+0x9D701185 : Unload the debugger and try again
+0x9D701186 : Sorry, this product is not supported on Win32s
+0x9D701187 : Please login with administrator privileges and try again
+0x9D70119F : Access Denied
+0x9D7011A0 : Please eject and re-insert the CD-ROM, select OK and restart application
+0x9D7011A1 : Cannot locate the DVD-ROM
+0x9D7011A2 : Please insert the correct DVD-ROM and select OK to retry
+0x9D7011A3 : Please insert the correct DVD-ROM, select OK and restart application
+0x9D7011A4 : CD/DVD emulation software has been detected. Please disable all CD/DVD emulation software and re-start the game
+0x9D7011A5 : Click here for more information about this error
+0x9D8DCEE9 : Bonus Markers
+0x9EB32602 : CHROME
+0x9ECBC095 : STROKE
+0x9ECBC096 : STROKE 1
+0x9ECBC097 : STROKE 2
+0x9ECBC098 : STROKE 3
+0x9ECBC099 : STROKE 4
+0x9ECBC09A : STROKE 5
+0x9EE93E6D : Test Car
+0x9F056BA0 : Age:
+0x9F057369 : Car
+0x9FA6E0E8 : Press A Button
+0xA0E78DCB : to advance
+0xA234CD03 : HOOD
+0xA2AF3470 : Are you sure you want to let %s go?
+0xA2F99153 : SKIRT
+0xA30ABF08 : *PARTS MENU*
+0xA3574E9A : Safe Houses Found
+0xA37598DE : All of your vehicles have been Impounded.
+0xA3B8FF96 : *SPRINT*
+0xA412E520 : Spike Strips Dodged (Single Pursuit)
+0xA43FDA9C : Extra Impound strike
+0xA5A1EFC3 : Downloading player's Xbox Live stats...
+0xA5AD5A37 : Danish
+0xA5F38A6C : Class Info
+0xA64140DB : AUTOSCULPT REAR BUMPER
+0xA67CD864 : *HOODS*
+0xA68FFC6D : SHOPPING CART
+0xA717E8FD : Pursuits Evaded
+0xA730E077 : Complete the icon to unlock:
+0xA74C89AD : *KEEP AWAY*
+0xA7CB78DA : Total Career Time
+0xA7CD1E2C : Career Races Won
+0xA8091DD5 : Load Current Alias
+0xA81FC6A4 : Not Required
+0xA86EBEE6 : Customize
+0xA8A97692 : G-FORCE
+0xA8E95BE0 : Test Drive
+0xA9C365E1 : *TIME TRIAL*
+0xAB6D7CF7 : SPEEDWAY
+0xAB866FD6 : French
+0xAC258B54 : Install
+0xACF029DE : Unique Spoiler Upgrades
+0xACF7765A : German
+0xAD057075 : Best Time as Racer
+0xAD73A35B : VINYLS
+0xAD7B3974 : *ROOF SCOOPS*
+0xAD810259 : You are over the maximum number of saved aliases.
+0xAE1BAEAD : *PURSUIT TAG*
+0xAE557784 : You have been busted and do not have any Get out of Jail Free cards, nor enough money to pay your fines.
+0xAE5EF241 : You have too many aliases to display. Only the last 10 created aliases will be displayed.
+0xAF83C759 : G-FORCE
+0xAFF76EA3 : EA TRAX
+0xB01BE5DD : Need for SpeedÅ Carbon uses an Autosave feature. Game information is automatically saved throughout the game when the Autosave icon flashes as follows.
+0xB034EB2C : Exiting this screen will return you to the Main Menu. Your Career progress won't be lost.
+0xB0395F6D : L÷WENHART XIR
+0xB0395F6E : L÷WENHART BR5
+0xB0395F6F : L÷WENHART LDR
+0xB0395F70 : L÷WENHART LC1
+0xB0BC796E : Need for SpeedÅ Carbono uses an Autosave feature. Game information is automatically saved throughout the game on the Xbox hard disk when the Autosave icon flashes as follows.
+0xB178A6F6 : You are not old enough to create an account!
+0xB1F1DC66 : Shadow Option
+0xB231A087 : MANUFACTURER
+0xB26C5484 : Total Ranked Games
+0xB2C0C972 : Tuning
+0xB380362F : Do not reset/switch off the computer while the Autosave icon is displayed. Doing so may cause the information to become corrupt.
+0xB39899C2 : An Autosave feature is available that will automatically save your progress throughout the game, and any settings changes you make. Autosave will overwrite information without confirmation. When the following icon flashes, do not touch the Memory Card or POWER Button.
+0xB398A3BF : Need for SpeedÅ Carbon uses an Autosave feature. Game information is automatically saved throughout the game on the memory†card†(PS2) in MEMORY†CARD†slot†1 when the Autosave icon flashes as follows.
+0xB398A3C0 : Need for SpeedÅ Carbon uses an Autosave feature. Game information is automatically saved throughout the game to the HDD when the Autosave icon flashes as follows.
+0xB4048EF3 : Busts
+0xB437A788 : A unique vinyl upgrade on any of your cars.
+0xB46F75DB : BODY KIT
+0xB51A605A : AUTOSCULPT FRONT BUMPER
+0xB718041F : You have unlocked a new Crew member, but your crew is already full. You can hire the new Crew member after firing one of your current Crew members on the My Crew page.
+0xB823C7C1 : Dodge Challenger
+0xB88E46BE : Widget Menu
+0xB8B9AA19 : Collisions
+0xB8D2DE1F : P. KO (Racer)
+0xB93BE83A : Are you sure you want to discard this logo and keep your previous logo?
+0xB9544C5C : All
+0xB970D8EF : Are you sure you would like to buy this car?
+0xBA425139 : Re-order
+0xBAA6FBA4 : Shadow:
+0xBAB9CF7B : Add / Customize
+0xBB7FFE74 : Downloading Shadow from NeedforSpeed.com
+0xBB816F7B : Hire Crew Member
+0xBB82F1E6 : Downloading Shadow information from NeedforSpeed.com
+0xBB955B1D : You do not have enough cash or cards to pay off the heat. Go out there and win some races!
+0xBBE94AEF : WHEEL PAINT
+0xBC9F0206 : Aftermarket
+0xBD32DCEA : ONLINE PLAYER'S STATISTICS
+0xBD84501E : CUSTOM MATCH
+0xBD975AEA : REWARDS:
+0xBDA71C1F : STRIPE BODY
+0xBDDC841F : START to advance
+0xBDF0E6D0 : AFTERMARKET
+0xBE6C9673 : BORRILLO
+0xBF1F2090 : A unique roof scoop upgrade on any of your cars.
+0xBF4430F2 : Career Rep
+0xBFCEBD2E : LICENSE PLATE
+0xC02DB4A8 : REWARD CARDS
+0xC1443F21 : Mazda3 MPS
+0xC166AAD6 : CHICANE
+0xC1B2CD89 : AUTOSCULPT EXHAUST TIP
+0xC1BAC04F : CHICANE
+0xC216FAC3 : Online Exclusive Rewards
+0xC27AC7A1 : Number of Cars Purchased
+0xC2A7800F : Polish
+0xC3A5A0BE : Best Move
+0xC3A95CB6 : Best Race Time
+0xC440C2C0 : Time Trial
+0xC4849E20 : Best Career Completion Time
+0xC4951B04 : Gold
+0xC5DABA47 : The moves that you and your Crew do in the game are meant to stay in the game. In the real world, drive safe, obey the laws of the road, and always wear your seatbelt.
+0xC5EE7CC6 : *SELECT CREW MEMBER*
+0xC61049E0 : Chevrolet Corvette Z06
+0xC628BECA : English
+0xC84D4735 : Need for SpeedÅ Carbono uses an Autosave feature. Game information is automatically saved throughout the game when the Autosave icon flashes as follows.
+0xC862F872 : Are you sure you want to hire %s?
+0xC872CFB3 : Online Co-op
+0xC89B0768 : Licensed Music ^^"Bounce" ^Performed by Dynamite MC^Written by D. Smith/D. Taylor^Produced by Dave Taylor for Solid Groove Productions^Published by Copyright Control/Haripa Music^Recording courtesy of Strong Records^^"Don't Speak (I Came To Make A Bang!)"^Performed by Eagles Of Death Metal^Written by Jesse "Boots Electric" Hughes and Joshua "Baby Duck" Homme^© 2005 Fabulous Weapons Music (BMI) and Board Stiff Music (BMI)^Recording courtesy of Downtown Recordings^^"Sugar (Jagz Kooner Mix)"^Performed by Ladytron ^Written by Daniel Hunt^Published by Universal-Polygram Int. Publishing, Inc. (ASCAP) obo Universal Music Publishing Ltd. ^(p) & © 2005 Ladytron ^Recording courtesy of Rykodisc
+0xC8CCB50D : FIFA 07
+0xC96CBEC4 : Best Drift
+0xCA1BBEFB : Infractions (Single Pursuit)
+0xCA4588D7 : SPOILER
+0xCA4CF300 : QUICK MATCH
+0xCA5CB44D : Game Completion
+0xCA9F7092 : No Crew style target car set, go to your garage to pick a target car.
+0xCAEDF3B1 : *REWARD CARDS*
+0xCB459750 : Ride Pitch
+0xCBCA1704 : Highest Fine Paid
+0xCBE64071 : K÷NIG BLATANT
+0xCBE64072 : K÷NIG IMAGINE
+0xCBE64073 : K÷NIG THEORY
+0xCCE05600 : Muscle is all about straight line acceleration.  When you ^leave your competition at the line, make sure you don't focus on the ^rear view mirror for too long, because it's easy to get the tail ^out, so pay attention to the curves!
+0xCD52E358 : You have items in your shopping cart, are you sure you want to exit? (All items in the cart will be lost.)
+0xCD9936D9 : Total Clocked Speedtrap
+0xCDF089BA : Get out of jail for free
+0xCE08C1EC : Play Track
+0xCE6DC40D : ROOF SCOOP
+0xCE6FAF40 : MY CREW
+0xCEF798B4 : *SKIRT*
+0xCF06C37E : Best Time
+0xCF2CF131 : Add to Cart
+0xCF856790 : The Nunchuk is needed to play this title. Front End and Menu navigation is done with the Wii Remote pointed towards the screen. There are several other controller configs available to try out in the Options screen.
+0xCFDDBE56 : Number of Tracks Unlocked
+0xD0050D01 : WORLD MAP
+0xD0117F25 : Description
+0xD023C1F1 : Crew Style Source Car Hasn't Been Selected
+0xD0C3978A : Hire
+0xD1109245 : Value:
+0xD1561D92 : Lap Score
+0xD16009CD : This is your map.
+0xD16009CE : Use it to keep track of territory changing hands.
+0xD16BAFEF : STOCK
+0xD1E84927 : Are you sure you would like to delete this car?
+0xD28F56FE : Bounty (Total)
+0xD2F4212A : Part
+0xD3498E53 : SHADOW
+0xD4F0642F : You do not have a Shadow saved for this track.
+0xD54AFEDC : RACINGHART MULTI C4
+0xD54AFEDD : RACINGHART CX
+0xD54AFEDE : RACINGHART CP
+0xD54AFEDF : RACINGHART CR
+0xD5686FD9 : Alias Manager
+0xD5E55036 : Chrysler 300C Hemi SRT8
+0xD77D2945 : You need to have an alias loaded to enter Challenge Series. You can either load an alias from the career menu or create a new alias. Do you want to create a new alias?
+0xD84CF8C8 : Locked
+0xD87C0D70 : Would you like to use a Manual or Automatic transmission?
+0xD94193A9 : Your personal information is about to be submitted to EA. If you are of or under the age of 18, you must have your parents' consent to provide your personal information to EA. Do you want to submit your information?
+0xD9AEAABA : Section 1 Best Time
+0xD9B97555 : Alfa Romeo Brera
+0xD9D31C82 : NEDERLANDS
+0xDABD3705 : Win Percentage
+0xDACC0A0C : SHADOW
+0xDB504D3E : Ranked
+0xDB6160FF : Adding Sal to your Crew will allow you to customize these Autosculpt items.
+0xDC03D35B : Section 2 Best Time
+0xDC14701F : Best Lap Score
+0xDC28E79B : CARBON FIBRE
+0xDC884F2F : These markers can include items such as unique vinyls.
+0xDC9D5EDA : Dodge Challenger Concept
+0xDD32645B : Online XP
+0xDE19A73F : *PURSUIT KNOCKOUT*
+0xDE2E30AE : Load
+0xDE58FBFC : Section 3 Best Time
+0xDE97F255 : Current Crew Member:
+0xDEF3ACF1 : Xbox Live Marketplace
+0xDFFBCCD3 : Select Car for Career
+0xE01F28AA : CLASSIC
+0xE04D3A4D : *CHALLENGE SERIES*
+0xE08C0F52 : BIO Video
+0xE096B29C : *REAR BUMPER*
+0xE10B24BC : Larger area behind the Crew member for Drafting^
+0xE1831299 : Record Shadow
+0xE1CEE3FD : 50%% boost to speedbreaker and nitrous^
+0xE2A01FD7 : · ‡ ‚ ‰ Ü Â Ê ™ â Á à ã È Ë è Î Í ç Ì Ï Ô Ó ë í î Ò Û Ú ¯ ˆ Ù ñ ò ö ù ú ü £ ˙ ˘ ¸ ˚ • ˝ Ø ¨ ® ∫ ∞ø ° ^¡ ¿ ¬ ≈ ƒ Ö ∆ Ç á « ä … » é À   å Õ Ã Œ œ ê ì — ï ” “ ÿ ÷ ‘ ó ô õ É û ¢ ⁄ Ÿ ‹ ⁄ § € › ´ ¶ ≠ ﬂ
+0xE2E0B9D4 : SUSPENSION
+0xE2F3A5E0 : NHLÆ 07
+0xE30ED807 : Winning races will actually mean less attention from the police.
+0xE360B2D2 : Tiger Woods PGA TOURÆ 07
+0xE38ABFC8 : Move Layer Down
+0xE38AF957 : Available
+0xE4D69CB6 : Neville has joined your Crew! ^^This is the Crew management screen. Here you can:^Select Crew member to join you in races.^Customize Crew member's cars.^View Crew member bio videos.^Fire Crew members (down to a minimum of 1).^Hire any new available Crew members (up to a maximum of 3).
+0xE4E603F2 : DELETE
+0xE52C71D0 : STOCK
+0xE53BC185 : AUTOSCULPT SPOILER
+0xE552E09B : There is no Shadow available for this track
+0xE5C8EAD3 : SHAPES
+0xE684E82E : A unique supercharger upgrade on any of your cars.
+0xE6ADB698 : G-FORCE
+0xE8334267 : Search Results
+0xE853D02B : Disable 10 cops in Career Freeroam.
+0xE89911C7 : Cops Rammed (Total)
+0xE9026B31 : NO CREW
+0xE905342B : Visit NeedforSpeed.com for more stats
+0xE9106DD0 : CARBONO MO5
+0xE9106DD1 : CARBONO HEX
+0xE9106DD2 : CARBONO REDLINE
+0xE9106DD3 : CARBONO GLITZ
+0xE9106DD4 : CARBONO ST-8
+0xE9106DD5 : CARBONO MULTI
+0xE9106DD6 : CARBONO SF15
+0xE9106DD7 : CARBONO RAZOR
+0xE9106DD8 : CARBONO ST-5
+0xE948BD0C : Layer 1
+0xE948BD0D : Layer 2
+0xE948BD0E : Layer 3
+0xEAE3819D : Stage %d
+0xEB1E6E98 : Mirror On
+0xEBDE4CBA : FRONT BUMPER
+0xEC0802EC : Best Jump Air Time
+0xEDC7E15B : *DEFEATED*
+0xEF2A6100 : P. KO (Police)
+0xF0430154 : *CREW LOGO*
+0xF0C12951 : Birthplace
+0xF0CCF29B : You have selected a Career car class. Would you like to use a Manual or Automatic transmission?
+0xF1E90F18 : Cost to State (Total)
+0xF22D0467 : Single Player
+0xF33C4502 : *QUICK RACE OPTIONS*
+0xF3DD53C9 : STOCK
+0xF452F44D : *YOU WON*
+0xF462C665 : Combo
+0xF4C70064 : FILL
+0xF4C70065 : FILL 1
+0xF4C70066 : FILL 2
+0xF4C70067 : FILL 3
+0xF4FDE840 : FRANCAIS
+0xF5387A53 : Random Encounters Won
+0xF541A774 : Your shopping cart is empty.
+0xF5EB055B : *FRONT BUMPER*
+0xF60E35AD : Player Saved Shadow
+0xF63027B1 : Record:
+0xF6A0376E : QUICK RACE
+0xF6CF2A8F : NORMAL
+0xF840A1D2 : Nissan 350Z
+0xF84227F6 : Select Class
+0xF8B614F3 : FREE ROAM
+0xF8F65E85 : Cops Rammed (Single Pursuit)
+0xF9A10A6B : Traffic Level
+0xF9ACD014 : ARASHI
+0xF9C9CBB4 : Porsche Cayman S
+0xFACA6BF5 : Mitsubishi Eclipse GT
+0xFB025128 : BODY PAINT
+0xFB6BB142 : Rank Points
+0xFB7B38C5 : ENKEI NT03+M
+0xFB7B38C6 : ENKEI J SPEED 3
+0xFB7B38C7 : ENKEI ES-TARMAC
+0xFB7B38C8 : ENKEI WRC TARMAC
+0xFB8AB745 : Recruit
+0xFC42B1FA : Cop SUV
+0xFC42B1FB : Cop Cruiser
+0xFC42B1FC : Cop Corvette Z06
+0xFC57F5B2 : Best Cumulative Speed
+0xFCDA27D2 : Need for SpeedÅ Carbon uses an Autosave feature. Game information is automatically saved throughout the game when the Autosave icon flashes as follows.
+0xFD5CB6FA : Most Cars Rammed
+0xFD9B4DC7 : Exit to Main Menu
+0xFDBFABE4 : Get any car you want out of Impound.
+0xFE3C1CDE : Highest Heat Level
+0xFE4E7F73 : Plymouth Hemi Cuda
+0xFE7FED70 : ONLINE
+0xFE7FED71 : online placeholder 2
+0xFE7FED72 : VIRUS
+0xFE8710B1 : Shortest Pursuit
+0xFED69AF2 : START CAREER
+0xFF6E5311 : Steer Right

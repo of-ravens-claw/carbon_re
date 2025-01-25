@@ -1,0 +1,27 @@
+NFS Carbon coordinates for normally unaccessible areas
+Taken from the Wii - may not match across versions (but that should be EXTREMELY unlikely.)
+
+NOTE: These are not meant to be 100% precise - they will lead to a road at the place in question, and should be useful as a rough guide.
+
+Format is X, Y, Z
+Z is the height. Mostly important for canyons, since they're pretty high up.
+Canyon coords are usually the start of the race.
+Coordinates have been altered in order to look nicer.
+
+San Juan: -2250, 2000, 5
+Drift Course: -1130, 7750, 5
+Unfinished Canyon: (Directly south of Cooper Ridge)
+Random Finish Line Marker (see minimap): 
+
+Canyons:
+
+Eternity Pass: -6320, 12950, 950
+Lofty Heights Downhill:
+Desperation Ridge: -710, 13000, 890
+Lookout Point: 3500, 10700, 600
+Devil's Creek Pass: 7350, 11080, 595
+Gold Valley Run: 5230, 8070, 500
+Deadfall Junction: 8140, 9540, 890
+Journeyman's Bane: -3250, 9620, 720
+Copper Ridge: -7020, 6230, 790
+Knife's Edge: -2500, 6215, 790
