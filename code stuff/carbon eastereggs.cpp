@@ -1,3 +1,4 @@
+#pragma region Enums from Most Wanted and ProStreet - for reference only!
 // A few left for reference - they are not correct.
 enum EasterEggsSpecial_MW_A121
 {
@@ -67,6 +68,7 @@ enum EasterEggGroups_ProStreet
 	EASTER_EGG_RENDERING_GROUP = 1,
 	v = 2 // ? what
 };
+#pragma endregion
 
 // New ones from Carbon - names derived from what little information I could find.
 
@@ -74,6 +76,8 @@ enum EasterEggsType // 4 bytes
 {
 	// todo: compare with MW/PS and match the names where possible.
 	// I feel like it probably matches ProStreet 1:1
+	// Since Most Wanted matches ProStreet almost perfectly 
+	// - the only difference is that `EASTER_EGG_GENERAL` was added, so everything is shifted by one.
 	EASTER_EGG_GENERAL = 0,
 	EASTER_EGG_UNKTYPE1 = 1,
 	EASTER_EGG_UNKTYPE2 = 2,
@@ -117,8 +121,6 @@ enum EasterEggsItem // 4 bytes
 	
 	EASTER_EGG_MAX = 18
 };
-
-00 00 00 2c 00 00 00 29 00 00 00 29 00 00 00 2a
 
 // Structures!
 struct EasterEggsData
