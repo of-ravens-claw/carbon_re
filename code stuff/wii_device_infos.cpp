@@ -1,3 +1,7 @@
+#ifndef NULL
+#define NULL 0
+#endif
+
 #pragma region Some WPAD defines
 
 // device type
@@ -45,7 +49,7 @@ struct DeviceScalarInfo // Size: 0x10
     int system_index;
 };
 
-// Custom structure made by me to display the `system_index` field in IDA better.
+// Custom enumeration made by me to display the `system_index` field in IDA better.
 // I don't know if this actually existed, I assume it probably did, but anyway.
 enum DeviceScalarSystemIndex
 {
@@ -183,6 +187,6 @@ DeviceScalarInfo device_infos[56] =
 	{ WPAD_DEV_CORE,       kJoyAxis,        "RC_SENSOR_UD_U",    28 }, // [53]
 	{ WPAD_DEV_CORE,       kJoyAxis,        "RC_SENSOR_UD_D",    29 }, // [54]
   
-	{ 0, 0, NULL, 0 } // [55]
+	{ 0, kJoyAxis, NULL, 0 } // [55]
 };
 
