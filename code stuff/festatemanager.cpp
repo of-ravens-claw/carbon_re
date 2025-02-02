@@ -310,3 +310,327 @@ struct FEStateManager
 	bool mCanSkipMovie;
 };
 
+// FEBootFlowStateManager
+enum FEBootFlowStateManager::eEntryPoint
+{
+	ENTRY_MAIN = 0x0,
+	ENTRY_ATTRACT = 0x1,
+};
+
+enum FEBootFlowStateManager::eExitPoint
+{
+	EXIT_NORMAL = 0x0,
+	EXIT_TIMEOUT = 0x1,
+	NUM_EXIT_POINTS = 0x2,
+};
+
+enum FEBootFlowStateManager::eFEBootFlowState
+{
+	// TODO: ALTER THIS TO MATCH CARBON
+	STATE_TERMINAL_STATE = -1, // match
+	STATE_ATTRACT = 0,
+	STATE_AUTOLOAD = 1,
+	STATE_BACKDROP = 2, // match
+	STATE_BOOTCHECK = 3, // match
+	STATE_CONTROLLER_CHECK = 4, // match
+	STATE_EA_LOGO = 5, // match
+	STATE_HI_DEF = 6, // match
+	STATE_ENABLE_HOME_MENU = 7, // match
+	STATE_LANGUAGE_SELECT = 8, // match
+	STATE_PSA = 9, // match
+	STATE_SPLASH = 10, // match
+	STATE_NUM_MAIN_STATES = 11,
+	
+	STATE_DO_AUTOLOAD = 12,
+	STATE_DO_BACKDROP = 13,
+	STATE_DO_BOOTCHECK = 14, // match
+	STATE_DO_CONTROLLER_CHECK = 15, // match
+	STATE_DO_LANGUAGE_SELECT = 16, // match
+	STATE_DO_SPLASH = 17, // match
+	STATE_POP_BACKDROP = 18,
+	STATE_SHOWING_SCREEN = 19,
+	STATE_PLAYING_ATTRACT = 20,
+	STATE_PLAYING_EA_LOGO = 21,
+	STATE_PLAYING_HI_DEF = 22,
+	STATE_PLAYING_MOVIE = 23,
+	STATE_NUM_TOTAL_STATES = 24,
+	
+};
+
+struct FEBootFlowState_vtbl
+{
+	void* __codewarrior_dummy[2];
+	void (*dtor)(FEBootFlowState* this, short should_delete);
+};
+
+struct FEBootFlowState : bTNode<FEBootFlowState>
+{
+	FEBootFlowState_vtbl* __vftable;
+	int mState;
+};
+
+struct FEBootFlowStateManager_vtbl // I don't think we can use inheritance here?
+{
+	#if 1 // so we can collapse it
+	void* __codewarrior_dummy[2];
+	void (*dtor)(FEBootFlowStateManager* this, short should_delete);
+	
+	eMenuSoundTriggers (*OnNotifySound)(FEBootFlowStateManager* this, unsigned int msg, eMenuSoundTriggers currrentUISND);
+	void (*OnPadButton)(FEBootFlowStateManager* this, FEStateManager::ePadButton button);
+	void (*OnPadButtonRelease)(FEBootFlowStateManager* this, FEStateManager::ePadButton button);
+	void (*OnScreenTick)(FEBootFlowStateManager* this);
+	void (*SetCanSkipMovie)(FEBootFlowStateManager* this, bool);
+	bool (*GetCanSkipMovie)(FEBootFlowStateManager* this);
+	
+#ifdef MILESTONE // Juice builds - you can build Milestone without Juice (see Undercover Wii), but this is close enough.
+	int (*JUICE_GetMaxStates)(FEBootFlowStateManager* this);
+#endif
+	
+	void (*Start)(FEBootFlowStateManager* this); // TODO: Set to NULL, Probably a purecall?
+	void (*SetInitialOption)(FEBootFlowStateManager* this, MenuScreen* pScreen);
+	void (*HandleAutosave)(FEBootFlowStateManager* this);
+	void (*HandleButtonPressed)(FEBootFlowStateManager* this, unsigned int nameHash); // DECOMP NOTE: `option` is used in ProStreet, however, OnButtonPressed (which calls this), takes in `nameHash` and just passes it in without doing anything to it.
+	void (*HandleButtonHighlight)(FEBootFlowStateManager* this, unsigned int nameHash);
+	void (*HandleChildFlowStart)(FEBootFlowStateManager* this);
+	void (*HandleChildFlowDone)(FEBootFlowStateManager* this, int exitPoint);
+	void (*HandleEasterEggActivated)(FEBootFlowStateManager* this, int egg);
+	void (*HandleEnterComplete)(FEBootFlowStateManager* this);
+	void (*HandleEvent)(FEBootFlowStateManager* this, int eventId);
+	void (*HandleExitAll)(FEBootFlowStateManager* this);
+	void (*HandleExitComplete)(FEBootFlowStateManager* this);
+	void (*HandleFlowDone)(FEBootFlowStateManager* this);
+	bool (*HandleIsGameMode)(FEBootFlowStateManager* this, int gameMode);
+	void (*HandleMouseChanged)(FEBootFlowStateManager* this);
+	void (*HandleMouseWheelDown)(FEBootFlowStateManager* this);
+	void (*HandleMouseWheelUp)(FEBootFlowStateManager* this);
+	void (*HandleMovieComplete)(FEBootFlowStateManager* this);
+	void (*HandleMovieStarted)(FEBootFlowStateManager* this);
+	eMenuSoundTriggers (*HandleNotifySound)(FEBootFlowStateManager* this, unsigned int msg, eMenuSoundTriggers currentUISND);
+	void (*HandleOnlineDisconnect)(FEBootFlowStateManager* this);
+	void (*HandleOptionHighlighted)(FEBootFlowStateManager* this, unsigned int option);
+	void (*HandleOptionSelected)(FEBootFlowStateManager* this, unsigned int option, FEStateManager::ePadButton button);
+	void (*HandlePadAccept)(FEBootFlowStateManager* this);
+	void (*HandlePadBack)(FEBootFlowStateManager* this);
+	void (*HandlePadDown)(FEBootFlowStateManager* this);
+	void (*HandlePadButton0)(FEBootFlowStateManager* this);
+	void (*HandlePadButton1)(FEBootFlowStateManager* this);
+	void (*HandlePadButton2)(FEBootFlowStateManager* this);
+	void (*HandlePadButton3)(FEBootFlowStateManager* this);
+	void (*HandlePadButton4)(FEBootFlowStateManager* this);
+	void (*HandlePadButton5)(FEBootFlowStateManager* this);
+	void (*HandlePadButton6)(FEBootFlowStateManager* this);
+	void (*HandlePadButton7)(FEBootFlowStateManager* this);
+	void (*HandlePadButton8)(FEBootFlowStateManager* this);
+	void (*HandlePadButton9)(FEBootFlowStateManager* this);
+	void (*HandlePadButton0Release)(FEBootFlowStateManager* this);
+	void (*HandlePadButton1Release)(FEBootFlowStateManager* this);
+	void (*HandlePadButton2Release)(FEBootFlowStateManager* this);
+	void (*HandlePadButton3Release)(FEBootFlowStateManager* this);
+	void (*HandlePadButton4Release)(FEBootFlowStateManager* this);
+	void (*HandlePadButton5Release)(FEBootFlowStateManager* this);
+	void (*HandlePadButton6Release)(FEBootFlowStateManager* this);
+	void (*HandlePadButton7Release)(FEBootFlowStateManager* this);
+	void (*HandlePadButton8Release)(FEBootFlowStateManager* this);
+	void (*HandlePadButton9Release)(FEBootFlowStateManager* this);
+	void (*HandleLTrigger)(FEBootFlowStateManager* this);
+	void (*HandleLTriggerRelease)(FEBootFlowStateManager* this);
+	void (*HandlePadLeft)(FEBootFlowStateManager* this, unsigned int nameHash);
+	void (*HandlePadUp)(FEBootFlowStateManager* this);
+	void (*HandlePadRight)(FEBootFlowStateManager* this, unsigned int nameHash);
+	void (*HandlePadStart)(FEBootFlowStateManager* this);
+	void (*HandlePadQuit)(FEBootFlowStateManager* this);
+	void (*HandleRefresh)(FEBootFlowStateManager* this);
+	void (*HandleRTrigger)(FEBootFlowStateManager* this);
+	void (*HandleRTriggerRelease)(FEBootFlowStateManager* this);
+	void (*HandleScreenConstructed)(FEBootFlowStateManager* this);
+	void (*HandleScreenDestructed)(FEBootFlowStateManager* this);
+	void (*HandleScreenTick)(FEBootFlowStateManager* this);
+	void (*HandleScreenTimeout)(FEBootFlowStateManager* this);
+	void (*HandleShowDialog)(FEBootFlowStateManager* this);
+	void (*HandleSignInComplete)(FEBootFlowStateManager* this);
+	void (*HandleStateChange)(FEBootFlowStateManager* this);
+	void (*HandleWidgetValueChanged)(FEBootFlowStateManager* this, unsigned int desc, unsigned int data);
+	#endif
+	
+	// New things begin here! For now, they are dummies!
+	void (*AddState)(FEBootFlowStateManager* this, int lnState);
+	/*HACK WARNING*/ int32_t (*CalculateLastJoyEventTime)(FEBootFlowStateManager* this); // protected: virtual class Timer __cdecl FEBootFlowStateManager::CalculateLastJoyEventTime(void)
+	int (*CheckForScreenTimeout)(FEBootFlowStateManager* this);
+	int (*DoControllerCheck)(FEBootFlowStateManager* this);
+	FEBootFlowState* (*FindAttractNode)(FEBootFlowStateManager* this);
+	float (*GetScreenTimeoutValue)(FEBootFlowStateManager* this);
+	void (*JumpToAttract)(FEBootFlowStateManager* this);
+	void (*PopToNextState)(FEBootFlowStateManager* this);
+	void (*GotoNextState)(FEBootFlowStateManager* this);
+	void (*ShowBackdrop)(FEBootFlowStateManager* this);
+	void (*InitStateList)(FEBootFlowStateManager* this); // purecall
+};
+
+struct FEBootFlowStateManager : FEStateManager
+{
+	Timer mTimer;
+	bTList<FEBootFlowState> mStateList;
+	FEBootFlowState* mpAttractStateNode;
+	FEBootFlowState* mpCurStateNode;
+	bool mBootCheckFailed;
+};
+
+enum WiiBootFlowStateManager::eFEBootFlowState // We can't inherit enums, but anyway.
+{
+	STATE_WII_CONTROLLER_SAFETY = 24, // shows a message about the wii strap
+	STATE_WII_CONTROLS_WARNING = 25, // shows "the nunchuk is needed to play this title" warning
+	
+	STATE_NUM_TOTAL_STATES = 26, // guess
+}
+
+struct WiiBootFlowStateManager : FEBootFlowStateManager
+{
+	bool mbPlayingMovie; // DECOMP NOTE: guessed
+};
+
+// FEManager  - TODO FIX FOR CARBON
+enum eGarageType
+{
+	GARAGETYPE_NONE = 0,
+	GARAGETYPE_MAIN_FE = 1,
+	GARAGETYPE_CAREER_SAFEHOUSE = 2,
+	GARAGETYPE_CUSTOMIZATION_SHOP = 3,
+	GARAGETYPE_CUSTOMIZATION_SHOP_BACKROOM = 4,
+	GARAGETYPE_CAR_LOT = 4,
+};
+
+
+enum FEManager::eFEEntryPoints
+{
+	FEENTRY_NONE = 0x0,
+	FEENTRY_BOOTFLOW = 0x1, // match
+	FEENTRY_DEBUG_CAR_CUSTOMIZE = 0x2,
+	FEENTRY_MAIN_MENU = 0x3, // match
+	FEENTRY_MAZDA = 0x4,
+	FEENTRY_CAR_CLASS_SELECT = 0x5, // Match
+	FEENTRY_CAR_LOT = 0x6, // Match
+	FEENTRY_QUICKRACE = 0x7,
+	FEENTRY_CAREER_MAIN = 0x8, // Seems to match
+	FEENTRY_CAREER_MANAGER = 0x9,
+	FEENTRY_CAREER_CAR_SELECT = 0xA,
+	FEENTRY_CAREER_BUSTED = 0xB,
+	FEENTRY_CAREER_NEW_WINGMAN = 0xC, // Match
+	FEENTRY_CAREER_NEW_WINGMAN_JUST_MOVIE = 0xD,
+	FEENTRY_CAREER_CREW_TUTORIAL = 0xE,
+	FEENTRY_BOSS_DEFEATED = 0xF, // Match
+	FEENTRY_WORLD_MAP = 0x10,
+	FEENTRY_CHALLENGE_SERIES = 0x11,
+	FEENTRY_GAME_ROOM = 0x12,
+	FEENTRY_CUSTOMMATCH_JOIN = 0x13,
+	FEENTRY_POSTRACE_JOIN = 0x14,
+	FEENTRY_WINGMAN_SELECT_FROM_INGAME = 0x15,
+	FEENTRY_GAME_WON = 0x16, // Match
+	FEENTRY_GAME_OVER = 0x17,
+	
+	// TODO: All of these are probably ProStreet only.
+	FEENTRY_HUB = 0x18,
+	FEENTRY_HUBMAP = 0x19,
+	FEENTRY_HUBMAP_RACE_DAY = 0x1A,
+	FEENTRY_HUBMAP_CAR_SELECT = 0x1B,
+	FEENTRY_HUBMAP_KING_INTRO = 0x1C,
+	FEENTRY_HUBMAP_KING_PROGESS = 0x1D,
+	FEENTRY_HUBMAP_KING_DEFEATED = 0x1E,
+	FEENTRY_HUBMAP_KING_INTRO_SPEED = 0x1F,
+	FEENTRY_HUBMAP_KING_INTRO_DRIFT = 0x20,
+	FEENTRY_HUBMAP_KING_INTRO_DRAG = 0x21,
+	FEENTRY_HUBMAP_KING_INTRO_GRIP = 0x22,
+};
+
+enum FEManager::ePauseReason
+{
+	PAUSE_MENU = 0x0,
+	CONFIRM_SAFEHOUSE = 0x1,
+	CONFIRM_CARLOT = 0x2,
+	POSTRACE_MENU = 0x3,
+	POSTHEAT_MENU = 0x4,
+	POSTEVENT_MENU = 0x5,
+	PURSUIT_EVADE_MENU = 0x6,
+	WORLD_MAP = 0x7,
+	SHOW_SMS_MAILBOX = 0x8,
+	SHOW_SMS_MESSAGE = 0x9,
+	PLAY_MOVIE = 0xA,
+	AUTOSAVE_ERROR = 0xB,
+};
+
+enum FEManager::eFERichPresence
+{
+	MAIN = 0x0,
+	CAR_CUSTOMIZATION = 0x1, // Used only by My Cars
+	// The following entries were guessed by me!
+	CAREER = 0x2,
+	CHALLENGE_SERIES = 0x3,
+	QUICK_RACE = 0x4,
+	// More?
+};
+
+enum FEManager::eFEEvents
+{
+	FEEVENT_GARAGE_CAR_LOADED = 0x0,
+	FEEVENT_CHAT_BUTTON_PRESSED = 0x1,
+	FEEVENT_ANIMATION_DONE = 0x2,
+	FEEVENT_CONTROLLER_ERROR_CLEARED = 0x3,
+};
+
+
+enum FEManager::eFELoadingDirection 
+{
+	// TODO: Probably incorrect...
+	LS_LOADING_NONE = 0,
+	LS_LOADING_HUB_FROM_FE = 1,
+	LS_LOADING_FE_FROM_HUB = 2,
+	LS_LOADING_EVENT_FROM_HUB = 3,
+	LS_LOADING_HUB_FROM_EVENT = 4,
+	LS_LOADING_DDAY = 5
+};
+
+enum FEManager::eFEManagerState
+{
+	FESTATE_AUTOSAVE = 0,
+	FESTATE_BOOTFLOW = 1,
+	FESTATE_DEBUG_CAR_CUSTOMIZE = 2,
+	FESTATE_MAIN_MENU = 3,
+	FESTATE_HUB = 4,
+	FESTATE_WAITING_FOR_HUB = 5,
+	FESTATE_PAUSE = 6,
+	FESTATE_CONFIRMSAFEHOUSE = 7,
+	FESTATE_CONFIRMCARLOT = 8,
+	FESTATE_POSTRACE = 9,
+	FESTATE_SERIESPOSTRACE = 10,
+	FESTATE_PRERACE = 11,
+	FESTATE_SPECTATOR = 12,
+	FESTATE_SMS = 13,
+	FESTATE_MOVIE = 14,
+	FESTATE_CAREERMAP = 15,
+	FESTATE_GAMEROOM = 16,
+	FESTATE_INVITE_GAMEROOM = 17,
+	FESTATE_TUTORIAL = 18,
+	FESTATE_LOADING_MAIN = 19,
+	FESTATE_CRASHFLOW = 20,
+	FESTATE_ICE_GRADIENT = 21,
+	FESTATE_IDLE = 22,
+	NUM_STATES = 23
+};
+
+struct FEManager : FEStateManager
+{
+	int mCurrControllingPlayer;
+	int mCurrErroringPlayer;
+	
+	int8_t* mPlayerJoyports;
+	int8_t* mLastUsedFeJoyport;
+	UserProfile** mUserProfiles; // DECOMP NOTE: Guessed
+	
+	eGarageType mGarageType;
+	eGarageType mPreviousGarageType;
+	int mEATraxDelay;
+	bool mEATraxFirstButton;
+	int mEventHash;
+	FEManager::eFELoadingDirection mCurrentLoadingState;
+	unsigned int mEventIndex;
+	bool mNISIntroFlasherPlaying;
+};
