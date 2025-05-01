@@ -35,21 +35,21 @@
 // The structure in question:
 enum DeviceScalarType
 {
-    kDigitalButton = 2,
+	kJoyAxis = 0,
     kAnalogButton = 1,
-    kJoyAxis = 0,
+    kDigitalButton = 2,
 };
 
-// Carbon Wii - my guesses
+// Wii DeviceScalarInfo, comes from NFS Nitro DWARF data 
 struct DeviceScalarInfo // Size: 0x10
 {
-    int device_type; // Guessed name, the rest were taken from the relevant structures from the other platforms.
+    unsigned int dev_type;
     DeviceScalarType type;
     const char* name;
-    int system_index;
+    unsigned int subtype;
 };
 
-// Custom enumeration made by me to display the `system_index` field in IDA better.
+// Custom enumeration made by me to display the `subtype` field in IDA better.
 // I don't know if this actually existed, I assume it probably did, but anyway.
 enum DeviceScalarSystemIndex
 {
