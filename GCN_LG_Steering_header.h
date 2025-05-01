@@ -4,6 +4,66 @@
 // The macros _should_ be correct, but I cannot be 100% certain.
 // The functions are, unfortunately, mostly guessed.
 
+#if 0
+// Simpsons Hit and Run's wheeldefines.h
+// Used to map PS2 steering defines into their GameCube equivalents.
+
+#ifndef WHEEL_DEFINES
+#define WHEEL_DEFINES
+
+#ifdef RAD_PS2
+typedef struct lgDevForceEffect LGForceEffect;
+#endif
+
+#ifdef RAD_PS2
+//Why the hell are these different?
+#define LG_TYPE_DAMPER LGTYPE_DAMPER
+#define LG_TYPE_SPRING LGTYPE_SPRING
+#define LG_TYPE_CONSTANT LGTYPE_CONSTANT
+#define LG_TYPE_TRIANGLE LGTYPE_TRIANGLE
+#define LG_TYPE_SQUARE LGTYPE_SQUARE
+#define LG_DURATION_INFINITE LGDURATION_INFINITE
+#define type Type
+#define duration Duration
+#define startDelay StartDelay
+#define magnitude Magnitude
+#define direction Direction
+#define offset Offset
+#define deadband Deadband
+#define saturationNeg SaturationNeg
+#define saturationPos SaturationPos
+#define coefficientNeg CoefficientNeg
+#define coefficientPos CoefficientPos
+#define period Period
+#define phase Phase
+#define attackTime AttackTime
+#define fadeTime FadeTime
+#define attackLevel AttackLevel
+#define fadeLevel FadeLevel
+#endif
+
+#ifdef RAD_WIN32
+enum eForceTypes
+{
+    CONSTANT_FORCE, 
+    RAMP_FORCE,
+    SQUARE, 
+    SINE,
+    TRIANGLE,
+    SAWTOOTH_UP, 
+    SAWTOOTH_DOWN, 
+    SPRING, 
+    DAMPER,
+    INERTIA, 
+    FRICTION, 
+    CUSTOM_FORCE 
+};
+#endif
+
+#endif
+
+#endif
+
 #ifndef __LG_H__
 #define __LG_H__
 
@@ -41,70 +101,70 @@ extern "C" {
 // -----------------------
 // Enumerations 
 // NOTE: I AM SO NOT SURE ABOUT THESE
-// NOTE 2: For some reason, the order is exported backwards, MUST FIX!!!
 // -----------------------
 
 typedef enum ForceType
 {
-    NUMBER_FORCE_EFFECTS = 10,
-    CAR_AIRBORNE = 9,
-    SURFACE_EFFECT = 8,
-    SLIPPERY_ROAD = 7,
-    BUMPY_ROAD = 6,
-    DIRT_ROAD = 5,
-    FRONTAL_COLLISION = 4,
-    SIDE_COLLISION = 3,
-    DAMPER = 2,
-    CONSTANT = 1,
+    NONE = -1, // NOTE: This may not exist!
     SPRING = 0,
+    CONSTANT = 1,
+    DAMPER = 2,
+    SIDE_COLLISION = 3,
+    FRONTAL_COLLISION = 4,
+    DIRT_ROAD = 5,
+    BUMPY_ROAD = 6,
+    SLIPPERY_ROAD = 7,
+    SURFACE_EFFECT = 8,
+    CAR_AIRBORNE = 9,
+    NUMBER_FORCE_EFFECTS = 10,
 } ForceType;
 
 typedef enum ConditionForceNumber
 {
-    CONDITION_7 = 7,
-    CONDITION_6 = 6,
-    CONDITION_5 = 5,
-    CONDITION_4 = 4,
-    CONDITION_3 = 3,
-    CONDITION_2 = 2,
-    CONDITION_1 = 1,
     CONDITION_0 = 0,
+    CONDITION_1 = 1,
+    CONDITION_2 = 2,
+    CONDITION_3 = 3,
+    CONDITION_4 = 4,
+    CONDITION_5 = 5,
+    CONDITION_6 = 6,
+    CONDITION_7 = 7,
 } ConditionForceNumber;
 
 typedef enum PeriodicForceNumber
 {
-    PERIODIC_7 = 7,
-    PERIODIC_6 = 6,
-    PERIODIC_5 = 5,
-    PERIODIC_4 = 4,
-    PERIODIC_3 = 3,
-    PERIODIC_2 = 2,
-    PERIODIC_1 = 1,
     PERIODIC_0 = 0,
+    PERIODIC_1 = 1,
+    PERIODIC_2 = 2,
+    PERIODIC_3 = 3,
+    PERIODIC_4 = 4,
+    PERIODIC_5 = 5,
+    PERIODIC_6 = 6,
+    PERIODIC_7 = 7,
 } PeriodicForceNumber;
 
 typedef enum ConstantForceNumber
 {
-    CONSTANT_7 = 7,
-    CONSTANT_6 = 6,
-    CONSTANT_5 = 5,
-    CONSTANT_4 = 4,
-    CONSTANT_3 = 3,
-    CONSTANT_2 = 2,
-    CONSTANT_1 = 1,
     CONSTANT_0 = 0,
+    CONSTANT_1 = 1,
+    CONSTANT_2 = 2,
+    CONSTANT_3 = 3,
+    CONSTANT_4 = 4,
+    CONSTANT_5 = 5,
+    CONSTANT_6 = 6,
+    CONSTANT_7 = 7,
 } ConstantForceNumber;
 
 typedef enum RampForceNumber
 {
-    RAMP_7 = 7,
-    RAMP_6 = 6,
-    RAMP_5 = 5,
-    RAMP_4 = 4,
-    RAMP_3 = 3,
-    RAMP_2 = 2,
-    RAMP_1 = 1,
     RAMP_0 = 0,
+    RAMP_1 = 1,
+    RAMP_2 = 2,
+    RAMP_3 = 3,
+    RAMP_4 = 4,
+    RAMP_5 = 5,
+    RAMP_6 = 6,
+    RAMP_7 = 7,
 } RampForceNumber;
 
 // -----------------------
@@ -198,14 +258,14 @@ typedef struct LGForceEffect
 // Negative values are error codes.
 
 void LGInit(void);
-int LGOpen(s32 chan, u32* pOutHandle);
+int LGOpen(u32 deviceId, u32* pOutHandle);
 int LGRead(LGPosition* pOut);
 int LGClose(u32 handle);
 
 // TODO: Force feedback functions
 int LGStartForceEffect(u32 effectId);
-int LGUpdateForceEffect(u32 effectId, LGForceEffect* pOut);
-int LGDownloadForceEffect(UNKNOWN /* seems to be a pointer */, u32* pEffectId, LGForceEffect* pOut)
+int LGUpdateForceEffect(u32 effectId, LGFFForceEffect* pNewEffect /* IN */);
+int LGDownloadForceEffect(UNKNOWN /* seems to be a pointer; maybe the handle, like on Wii? */, u32* pEffectId, LGFFForceEffect* pEffect /* IN */)
 int LGStopForceEffect(u32 effectId);
 int LGDestroyForceEffect(u32 effectId);
 
