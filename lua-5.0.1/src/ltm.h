@@ -42,7 +42,7 @@ typedef enum {
 #define fasttm(l,et,e)	gfasttm(G(l), et, e)
 
 
-const TObject *luaT_gettm (Table *events, TMS event, TString *ename);
+const TObject *luaT_gettm (LuaTable *events, TMS event, TString *ename);
 const TObject *luaT_gettmbyobj (lua_State *L, const TObject *o, TMS event);
 void luaT_init (lua_State *L);
 

@@ -47,7 +47,7 @@ struct BlockCnt;  /* defined in lparser.c */
 /* state needed to generate code for a given function */
 typedef struct FuncState {
   Proto *f;  /* current function header */
-  Table *h;  /* table to find (and reuse) elements in `k' */
+  LuaTable *h;  /* table to find (and reuse) elements in `k' */
   struct FuncState *prev;  /* enclosing function */
   struct LexState *ls;  /* lexical state */
   struct lua_State *L;  /* copy of the Lua state */

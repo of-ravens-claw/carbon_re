@@ -33,9 +33,9 @@ LUALIB_API int luaL_getmetafield (lua_State *L, int obj, const char *e);
 LUALIB_API int luaL_callmeta (lua_State *L, int obj, const char *e);
 LUALIB_API int luaL_typerror (lua_State *L, int narg, const char *tname);
 LUALIB_API int luaL_argerror (lua_State *L, int numarg, const char *extramsg);
-LUALIB_API const char *luaL_checklstring (lua_State *L, int numArg, size_t *l);
+LUALIB_API const char *luaL_checklstring (lua_State *L, int numArg, lua_size_t *l);
 LUALIB_API const char *luaL_optlstring (lua_State *L, int numArg,
-                                           const char *def, size_t *l);
+                                           const char *def, lua_size_t *l);
 LUALIB_API lua_Number luaL_checknumber (lua_State *L, int numArg);
 LUALIB_API lua_Number luaL_optnumber (lua_State *L, int nArg, lua_Number def);
 
@@ -59,7 +59,7 @@ LUALIB_API int luaL_getn (lua_State *L, int t);
 LUALIB_API void luaL_setn (lua_State *L, int t, int n);
 
 LUALIB_API int luaL_loadfile (lua_State *L, const char *filename);
-LUALIB_API int luaL_loadbuffer (lua_State *L, const char *buff, size_t sz,
+LUALIB_API int luaL_loadbuffer (lua_State *L, const char *buff, lua_size_t sz,
                                 const char *name);
 
 
@@ -107,7 +107,7 @@ typedef struct luaL_Buffer {
 
 LUALIB_API void luaL_buffinit (lua_State *L, luaL_Buffer *B);
 LUALIB_API char *luaL_prepbuffer (luaL_Buffer *B);
-LUALIB_API void luaL_addlstring (luaL_Buffer *B, const char *s, size_t l);
+LUALIB_API void luaL_addlstring (luaL_Buffer *B, const char *s, lua_size_t l);
 LUALIB_API void luaL_addstring (luaL_Buffer *B, const char *s);
 LUALIB_API void luaL_addvalue (luaL_Buffer *B);
 LUALIB_API void luaL_pushresult (luaL_Buffer *B);
@@ -123,7 +123,7 @@ LUALIB_API void luaL_pushresult (luaL_Buffer *B);
 
 LUALIB_API int   lua_dofile (lua_State *L, const char *filename);
 LUALIB_API int   lua_dostring (lua_State *L, const char *str);
-LUALIB_API int   lua_dobuffer (lua_State *L, const char *buff, size_t sz,
+LUALIB_API int   lua_dobuffer (lua_State *L, const char *buff, lua_size_t sz,
                                const char *n);
 
 

@@ -15,6 +15,9 @@
 
 #define MEMERRMSG	"not enough memory"
 
+// EA mod: everything takes an extra `LuaAllocType type` parameter.
+// LuaAllocType is an enum.
+// this is passed to every allocation related function, this is (presumably) done to track allocations
 
 void *luaM_realloc (lua_State *L, void *oldblock, lu_mem oldsize, lu_mem size);
 

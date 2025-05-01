@@ -158,8 +158,8 @@ void luaX_setinput (lua_State *L, LexState *LS, ZIO *z, TString *source) {
 #define save_and_next(LS, l)  (save(LS, LS->current, l), next(LS))
 
 
-static size_t readname (LexState *LS) {
-  size_t l = 0;
+static lua_size_t readname (LexState *LS) {
+  lua_size_t l = 0;
   checkbuffer(LS, l);
   do {
     checkbuffer(LS, l);
@@ -172,7 +172,7 @@ static size_t readname (LexState *LS) {
 
 /* LUA_NUMBER */
 static void read_numeral (LexState *LS, int comma, SemInfo *seminfo) {
-  size_t l = 0;
+  lua_size_t l = 0;
   checkbuffer(LS, l);
   if (comma) save(LS, '.', l);
   while (isdigit(LS->current)) {
@@ -210,7 +210,7 @@ static void read_numeral (LexState *LS, int comma, SemInfo *seminfo) {
 
 static void read_long_string (LexState *LS, SemInfo *seminfo) {
   int cont = 0;
-  size_t l = 0;
+  lua_size_t l = 0;
   checkbuffer(LS, l);
   save(LS, '[', l);  /* save first `[' */
   save_and_next(LS, l);  /* pass the second `[' */
@@ -256,7 +256,7 @@ static void read_long_string (LexState *LS, SemInfo *seminfo) {
 
 
 static void read_string (LexState *LS, int del, SemInfo *seminfo) {
-  size_t l = 0;
+  lua_size_t l = 0;
   checkbuffer(LS, l);
   save_and_next(LS, l);
   while (LS->current != del) {
@@ -394,7 +394,7 @@ int luaX_lex (LexState *LS, SemInfo *seminfo) {
         }
         else if (isalpha(LS->current) || LS->current == '_') {
           /* identifier or reserved word */
-          size_t l = readname(LS);
+          lua_size_t l = readname(LS);
           TString *ts = luaS_newlstr(LS->L, luaZ_buffer(LS->buff), l);
           if (ts->tsv.reserved > 0)  /* reserved word? */
             return ts->tsv.reserved - 1 + FIRST_RESERVED;

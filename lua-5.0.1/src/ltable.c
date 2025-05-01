@@ -80,7 +80,7 @@
 /*
 ** hash for lua_Numbers
 */
-static Node *hashnum (const Table *t, lua_Number n) {
+static Node *hashnum (const LuaTable *t, lua_Number n) {
   unsigned int a[numints];
   int i;
   n += 1;  /* normalize number (avoid -0) */
@@ -96,7 +96,7 @@ static Node *hashnum (const Table *t, lua_Number n) {
 ** returns the `main' position of an element in a table (that is, the index
 ** of its hash value)
 */
-Node *luaH_mainposition (const Table *t, const TObject *key) {
+Node *luaH_mainposition (const LuaTable *t, const TObject *key) {
   switch (ttype(key)) {
     case LUA_TNUMBER:
       return hashnum(t, nvalue(key));
@@ -132,7 +132,7 @@ static int arrayindex (const TObject *key) {
 ** elements in the array part, then elements in the hash part. The
 ** beginning and end of a traversal are signalled by -1.
 */
-static int luaH_index (lua_State *L, Table *t, StkId key) {
+static int luaH_index (lua_State *L, LuaTable *t, StkId key) {
   int i;
   if (ttisnil(key)) return -1;  /* first iteration */
   i = arrayindex(key);
@@ -150,7 +150,7 @@ static int luaH_index (lua_State *L, Table *t, StkId key) {
 }
 
 
-int luaH_next (lua_State *L, Table *t, StkId key) {
+int luaH_next (lua_State *L, LuaTable *t, StkId key) {
   int i = luaH_index(L, t, key);  /* find original element */
   for (i++; i < t->sizearray; i++) {  /* try first array part */
     if (!ttisnil(&t->array[i])) {  /* a non-nil value? */
@@ -198,7 +198,7 @@ static void computesizes  (int nums[], int ntotal, int *narray, int *nhash) {
 }
 
 
-static void numuse (const Table *t, int *narray, int *nhash) {
+static void numuse (const LuaTable *t, int *narray, int *nhash) {
   int nums[MAXBITS+1];
   int i, lg;
   int totaluse = 0;
@@ -236,7 +236,7 @@ static void numuse (const Table *t, int *narray, int *nhash) {
 }
 
 
-static void setarrayvector (lua_State *L, Table *t, int size) {
+static void setarrayvector (lua_State *L, LuaTable *t, int size) {
   int i;
   luaM_reallocvector(L, t->array, t->sizearray, size, TObject);
   for (i=t->sizearray; i<size; i++)
@@ -245,7 +245,7 @@ static void setarrayvector (lua_State *L, Table *t, int size) {
 }
 
 
-static void setnodevector (lua_State *L, Table *t, int lsize) {
+static void setnodevector (lua_State *L, LuaTable *t, int lsize) {
   int i;
   int size = twoto(lsize);
   if (lsize > MAXBITS)
@@ -269,7 +269,7 @@ static void setnodevector (lua_State *L, Table *t, int lsize) {
 }
 
 
-static void resize (lua_State *L, Table *t, int nasize, int nhsize) {
+static void resize (lua_State *L, LuaTable *t, int nasize, int nhsize) {
   int i;
   int oldasize = t->sizearray;
   int oldhsize = t->lsizenode;
@@ -311,7 +311,7 @@ static void resize (lua_State *L, Table *t, int nasize, int nhsize) {
 }
 
 
-static void rehash (lua_State *L, Table *t) {
+static void rehash (lua_State *L, LuaTable *t) {
   int nasize, nhsize;
   numuse(t, &nasize, &nhsize);  /* compute new sizes for array and hash parts */
   resize(L, t, nasize, luaO_log2(nhsize)+1);
@@ -324,8 +324,8 @@ static void rehash (lua_State *L, Table *t) {
 */
 
 
-Table *luaH_new (lua_State *L, int narray, int lnhash) {
-  Table *t = luaM_new(L, Table);
+LuaTable *luaH_new (lua_State *L, int narray, int lnhash) {
+  LuaTable *t = luaM_new(L, LuaTable);
   luaC_link(L, valtogco(t), LUA_TTABLE);
   t->metatable = hvalue(defaultmeta(L));
   t->flags = cast(lu_byte, ~0);
@@ -340,7 +340,7 @@ Table *luaH_new (lua_State *L, int narray, int lnhash) {
 }
 
 
-void luaH_free (lua_State *L, Table *t) {
+void luaH_free (lua_State *L, LuaTable *t) {
   if (t->lsizenode)
     luaM_freearray(L, t->node, sizenode(t), Node);
   luaM_freearray(L, t->array, t->sizearray, TObject);
@@ -353,7 +353,7 @@ void luaH_free (lua_State *L, Table *t) {
 ** try to remove an element from a hash table; cannot move any element
 ** (because gc can call `remove' during a table traversal)
 */
-void luaH_remove (Table *t, Node *e) {
+void luaH_remove (LuaTable *t, Node *e) {
   Node *mp = luaH_mainposition(t, gkey(e));
   if (e != mp) {  /* element not in its main position? */
     while (mp->next != e) mp = mp->next;  /* find previous */
@@ -376,7 +376,7 @@ void luaH_remove (Table *t, Node *e) {
 ** put new key in its main position; otherwise (colliding node is in its main 
 ** position), new key goes to an empty position. 
 */
-static TObject *newkey (lua_State *L, Table *t, const TObject *key) {
+static TObject *newkey (lua_State *L, LuaTable *t, const TObject *key) {
   TObject *val;
   Node *mp = luaH_mainposition(t, key);
   if (!ttisnil(gval(mp))) {  /* main position is not free? */
@@ -418,7 +418,7 @@ static TObject *newkey (lua_State *L, Table *t, const TObject *key) {
 /*
 ** generic search function
 */
-static const TObject *luaH_getany (Table *t, const TObject *key) {
+static const TObject *luaH_getany (LuaTable *t, const TObject *key) {
   if (ttisnil(key)) return &luaO_nilobject;
   else {
     Node *n = luaH_mainposition(t, key);
@@ -434,7 +434,7 @@ static const TObject *luaH_getany (Table *t, const TObject *key) {
 /*
 ** search function for integers
 */
-const TObject *luaH_getnum (Table *t, int key) {
+const TObject *luaH_getnum (LuaTable *t, int key) {
   if (1 <= key && key <= t->sizearray)
     return &t->array[key-1];
   else {
@@ -453,7 +453,7 @@ const TObject *luaH_getnum (Table *t, int key) {
 /*
 ** search function for strings
 */
-const TObject *luaH_getstr (Table *t, TString *key) {
+const TObject *luaH_getstr (LuaTable *t, TString *key) {
   Node *n = hashstr(t, key);
   do {  /* check whether `key' is somewhere in the chain */
     if (ttisstring(gkey(n)) && tsvalue(gkey(n)) == key)
@@ -467,7 +467,7 @@ const TObject *luaH_getstr (Table *t, TString *key) {
 /*
 ** main search function
 */
-const TObject *luaH_get (Table *t, const TObject *key) {
+const TObject *luaH_get (LuaTable *t, const TObject *key) {
   switch (ttype(key)) {
     case LUA_TSTRING: return luaH_getstr(t, tsvalue(key));
     case LUA_TNUMBER: {
@@ -482,7 +482,7 @@ const TObject *luaH_get (Table *t, const TObject *key) {
 }
 
 
-TObject *luaH_set (lua_State *L, Table *t, const TObject *key) {
+TObject *luaH_set (lua_State *L, LuaTable *t, const TObject *key) {
   const TObject *p = luaH_get(t, key);
   t->flags = 0;
   if (p != &luaO_nilobject)
@@ -496,7 +496,7 @@ TObject *luaH_set (lua_State *L, Table *t, const TObject *key) {
 }
 
 
-TObject *luaH_setnum (lua_State *L, Table *t, int key) {
+TObject *luaH_setnum (lua_State *L, LuaTable *t, int key) {
   const TObject *p = luaH_getnum(t, key);
   if (p != &luaO_nilobject)
     return cast(TObject *, p);

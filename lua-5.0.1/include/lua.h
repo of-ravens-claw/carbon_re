@@ -13,6 +13,14 @@
 #include <stdarg.h>
 #include <stddef.h>
 
+// EA mod: Use lua_size_t instead of size_t
+typedef size_t lua_size_t;
+
+// Another mod, is that they use `int` instead of `long`?
+// May again be because PS2 longs are 64 bit, but I don't know...
+// EDIT: In general, it seems like they avoid 64-bit constants
+// int instead of long would be done in another file...
+// TODO: Figure this out and apply it here!
 
 #define LUA_VERSION	"Lua 5.0.1"
 #define LUA_COPYRIGHT	"Copyright (C) 1994-2003 Tecgraf, PUC-Rio"
@@ -48,10 +56,10 @@ typedef int (*lua_CFunction) (lua_State *L);
 /*
 ** functions that read/write blocks when loading/dumping Lua chunks
 */
-typedef const char * (*lua_Chunkreader) (lua_State *L, void *ud, size_t *sz);
+typedef const char * (*lua_Chunkreader) (lua_State *L, void *ud, lua_size_t *sz);
 
 typedef int (*lua_Chunkwriter) (lua_State *L, const void* p,
-                                size_t sz, void* ud);
+                                lua_size_t sz, void* ud);
 
 
 /*
@@ -81,6 +89,8 @@ typedef int (*lua_Chunkwriter) (lua_State *L, const void* p,
 #include LUA_USER_H
 #endif
 
+// EA mod: they use float
+#define LUA_NUMBER float
 
 /* type of numbers in Lua */
 #ifndef LUA_NUMBER
@@ -138,9 +148,10 @@ LUA_API int            lua_lessthan (lua_State *L, int idx1, int idx2);
 LUA_API lua_Number      lua_tonumber (lua_State *L, int idx);
 LUA_API int             lua_toboolean (lua_State *L, int idx);
 LUA_API const char     *lua_tostring (lua_State *L, int idx);
-LUA_API size_t          lua_strlen (lua_State *L, int idx);
+LUA_API lua_size_t          lua_strlen (lua_State *L, int idx);
 LUA_API lua_CFunction   lua_tocfunction (lua_State *L, int idx);
 LUA_API void	       *lua_touserdata (lua_State *L, int idx);
+LUA_API lua_size_t   lua_userdatalen (lua_State *L, int idx); // EA addition
 LUA_API lua_State      *lua_tothread (lua_State *L, int idx);
 LUA_API const void     *lua_topointer (lua_State *L, int idx);
 
@@ -150,7 +161,7 @@ LUA_API const void     *lua_topointer (lua_State *L, int idx);
 */
 LUA_API void  lua_pushnil (lua_State *L);
 LUA_API void  lua_pushnumber (lua_State *L, lua_Number n);
-LUA_API void  lua_pushlstring (lua_State *L, const char *s, size_t l);
+LUA_API void  lua_pushlstring (lua_State *L, const char *s, lua_size_t l);
 LUA_API void  lua_pushstring (lua_State *L, const char *s);
 LUA_API const char *lua_pushvfstring (lua_State *L, const char *fmt,
                                                     va_list argp);
@@ -167,7 +178,7 @@ LUA_API void  lua_gettable (lua_State *L, int idx);
 LUA_API void  lua_rawget (lua_State *L, int idx);
 LUA_API void  lua_rawgeti (lua_State *L, int idx, int n);
 LUA_API void  lua_newtable (lua_State *L);
-LUA_API void *lua_newuserdata (lua_State *L, size_t sz);
+LUA_API void *lua_newuserdata (lua_State *L, lua_size_t sz);
 LUA_API int   lua_getmetatable (lua_State *L, int objindex);
 LUA_API void  lua_getfenv (lua_State *L, int idx);
 

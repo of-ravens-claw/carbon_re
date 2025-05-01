@@ -1,0 +1,27 @@
+L1 : Nunchuk C
+R1 : Nunchuk Z
+
+TRIANGLE : B
+CIRCLE   : 2
+CROSS    : A
+SQUARE   : 1
+
+LEFT_ANALOG : D-Pad (nothing pressed)
+DPAD_UP     : D-Pad Up
+DPAD_LEFT   : D-Pad Left
+DPAD_RIGHT  : D-Pad Right
+DPAD_DOWN   : D-Pad Down
+
+SELECT : HOME
+START  : + 
+
+RIGHT_ANALOG      : Nunchuk Stick
+RIGHT_ANALOG_UP   : Nunchuk Stick (Up)
+RIGHT_ANALOG_DOWN : Nunchuk Stick (Down)
+
+// Missing textures
+L1_LOADING
+R1_LOADING
+PC_KEY_ESC
+PC_KEY_SPC
+PC_KEY_M

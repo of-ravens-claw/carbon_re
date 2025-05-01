@@ -182,7 +182,7 @@ void luaD_callhook (lua_State *L, int event, int line) {
 
 static void adjust_varargs (lua_State *L, int nfixargs, StkId base) {
   int i;
-  Table *htab;
+  LuaTable *htab;
   TObject nname;
   int actual = L->top - base;  /* actual number of arguments */
   if (actual < nfixargs) {

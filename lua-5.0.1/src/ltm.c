@@ -45,7 +45,7 @@ void luaT_init (lua_State *L) {
 ** function to be used with macro "fasttm": optimized for absence of
 ** tag methods
 */
-const TObject *luaT_gettm (Table *events, TMS event, TString *ename) {
+const TObject *luaT_gettm (LuaTable *events, TMS event, TString *ename) {
   const TObject *tm = luaH_getstr(events, ename);
   lua_assert(event <= TM_EQ);
   if (ttisnil(tm)) {  /* no tag method? */

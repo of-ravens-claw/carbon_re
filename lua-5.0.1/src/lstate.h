@@ -166,7 +166,7 @@ union GCObject {
   union TString ts;
   union Udata u;
   union Closure cl;
-  struct Table h;
+  struct LuaTable h;
   struct Proto p;
   struct UpVal uv;
   struct lua_State th;  /* thread */

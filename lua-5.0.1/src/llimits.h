@@ -46,7 +46,7 @@ typedef unsigned int lu_hash;
 typedef int ls_hash;
 
 /* an unsigned integer big enough to count the total memory used by Lua; */
-/* it should be at least as large as size_t */
+/* it should be at least as large as lua_size_t */
 typedef unsigned long lu_mem;
 
 #define MAX_LUMEM	ULONG_MAX
@@ -59,7 +59,7 @@ typedef long ls_nstr;
 typedef unsigned char lu_byte;
 
 
-#define MAX_SIZET	((size_t)(~(size_t)0)-2)
+#define MAX_SIZET	((lua_size_t)(~(lua_size_t)0)-2)
 
 
 #define MAX_INT (INT_MAX-2)  /* maximum value of an int (-2 for safety) */

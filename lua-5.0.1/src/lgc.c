@@ -110,8 +110,8 @@ static void marktmu (GCState *st) {
 
 
 /* move `dead' udata that need finalization to list `tmudata' */
-size_t luaC_separateudata (lua_State *L) {
-  size_t deadmem = 0;
+lua_size_t luaC_separateudata (lua_State *L) {
+  lua_size_t deadmem = 0;
   GCObject **p = &G(L)->rootudata;
   GCObject *curr;
   GCObject *collected = NULL;  /* to collect udata with gc event */
@@ -147,7 +147,7 @@ static void removekey (Node *n) {
 }
 
 
-static void traversetable (GCState *st, Table *h) {
+static void traversetable (GCState *st, LuaTable *h) {
   int i;
   int weakkey = 0;
   int weakvalue = 0;
@@ -262,7 +262,7 @@ static void propagatemarks (GCState *st) {
   while (st->tmark) {  /* traverse marked objects */
     switch (st->tmark->gch.tt) {
       case LUA_TTABLE: {
-        Table *h = gcotoh(st->tmark);
+        LuaTable *h = gcotoh(st->tmark);
         st->tmark = h->gclist;
         traversetable(st, h);
         break;
@@ -303,7 +303,7 @@ static int valismarked (const TObject *o) {
 */
 static void cleartablekeys (GCObject *l) {
   while (l) {
-    Table *h = gcotoh(l);
+    LuaTable *h = gcotoh(l);
     int i = sizenode(h);
     lua_assert(h->marked & KEYWEAK);
     while (i--) {
@@ -321,7 +321,7 @@ static void cleartablekeys (GCObject *l) {
 */
 static void cleartablevalues (GCObject *l) {
   while (l) {
-    Table *h = gcotoh(l);
+    LuaTable *h = gcotoh(l);
     int i = h->sizearray;
     lua_assert(h->marked & VALUEWEAK);
     while (i--) {
@@ -390,14 +390,14 @@ static void sweepstrings (lua_State *L, int all) {
 }
 
 
-static void checkSizes (lua_State *L, size_t deadmem) {
+static void checkSizes (lua_State *L, lua_size_t deadmem) {
   /* check size of string hash */
   if (G(L)->strt.nuse < cast(ls_nstr, G(L)->strt.size/4) &&
       G(L)->strt.size > MINSTRTABSIZE*2)
     luaS_resize(L, G(L)->strt.size/2);  /* table is too big */
   /* check size of buffer */
   if (luaZ_sizebuffer(&G(L)->buff) > LUA_MINBUFFER*2) {  /* buffer too big? */
-    size_t newsize = luaZ_sizebuffer(&G(L)->buff) / 2;
+    lua_size_t newsize = luaZ_sizebuffer(&G(L)->buff) / 2;
     luaZ_resizebuffer(L, &G(L)->buff, newsize);
   }
   G(L)->GCthreshold = 2*G(L)->nblocks - deadmem;  /* new threshold */
@@ -454,8 +454,8 @@ static void markroot (GCState *st, lua_State *L) {
 }
 
 
-static size_t mark (lua_State *L) {
-  size_t deadmem;
+static lua_size_t mark (lua_State *L) {
+  lua_size_t deadmem;
   GCState st;
   GCObject *wkv;
   st.g = G(L);
@@ -482,7 +482,7 @@ static size_t mark (lua_State *L) {
 
 
 void luaC_collectgarbage (lua_State *L) {
-  size_t deadmem = mark(L);
+  lua_size_t deadmem = mark(L);
   luaC_sweep(L, 0);
   checkSizes(L, deadmem);
   luaC_callGCTM(L);

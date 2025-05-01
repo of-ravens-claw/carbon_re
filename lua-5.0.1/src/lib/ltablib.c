@@ -106,7 +106,7 @@ static int luaB_tremove (lua_State *L) {
 
 static int str_concat (lua_State *L) {
   luaL_Buffer b;
-  size_t lsep;
+  lua_size_t lsep;
   const char *sep = luaL_optlstring(L, 2, "", &lsep);
   int i = luaL_optint(L, 3, 1);
   int n = luaL_optint(L, 4, 0);

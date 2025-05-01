@@ -182,7 +182,7 @@ typedef union TString {
     CommonHeader;
     lu_byte reserved;
     lu_hash hash;
-    size_t len;
+    lua_size_t len;
   } tsv;
 } TString;
 
@@ -196,8 +196,8 @@ typedef union Udata {
   L_Umaxalign dummy;  /* ensures maximum alignment for `local' udata */
   struct {
     CommonHeader;
-    struct Table *metatable;
-    size_t len;
+    struct LuaTable *metatable;
+    lua_size_t len;
   } uv;
 } Udata;
 
@@ -293,17 +293,18 @@ typedef struct Node {
 } Node;
 
 
-typedef struct Table {
+// EA mod: Changed the name from `Table` to `LuaTable`
+typedef struct LuaTable {
   CommonHeader;
   lu_byte flags;  /* 1<<p means tagmethod(p) is not present */ 
   lu_byte lsizenode;  /* log2 of size of `node' array */
-  struct Table *metatable;
+  struct LuaTable *metatable;
   TObject *array;  /* array part */
   Node *node;
   Node *firstfree;  /* this position is free; all positions after it are full */
   GCObject *gclist;
   int sizearray;  /* size of `array' array */
-} Table;
+} LuaTable;
 
 
 

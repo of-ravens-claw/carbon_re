@@ -25,25 +25,25 @@
 #endif
 
 
-typedef long sint32;	/* a signed version for size_t */
+typedef long sint32;	/* a signed version for lua_size_t */
 
 
 static int str_len (lua_State *L) {
-  size_t l;
+  lua_size_t l;
   luaL_checklstring(L, 1, &l);
   lua_pushnumber(L, (lua_Number)l);
   return 1;
 }
 
 
-static sint32 posrelat (sint32 pos, size_t len) {
+static sint32 posrelat (sint32 pos, lua_size_t len) {
   /* relative string position: negative means back from end */
   return (pos>=0) ? pos : (sint32)len+pos+1;
 }
 
 
 static int str_sub (lua_State *L) {
-  size_t l;
+  lua_size_t l;
   const char *s = luaL_checklstring(L, 1, &l);
   sint32 start = posrelat(luaL_checklong(L, 2), l);
   sint32 end = posrelat(luaL_optlong(L, 3, -1), l);
@@ -57,8 +57,8 @@ static int str_sub (lua_State *L) {
 
 
 static int str_lower (lua_State *L) {
-  size_t l;
-  size_t i;
+  lua_size_t l;
+  lua_size_t i;
   luaL_Buffer b;
   const char *s = luaL_checklstring(L, 1, &l);
   luaL_buffinit(L, &b);
@@ -70,8 +70,8 @@ static int str_lower (lua_State *L) {
 
 
 static int str_upper (lua_State *L) {
-  size_t l;
-  size_t i;
+  lua_size_t l;
+  lua_size_t i;
   luaL_Buffer b;
   const char *s = luaL_checklstring(L, 1, &l);
   luaL_buffinit(L, &b);
@@ -82,7 +82,7 @@ static int str_upper (lua_State *L) {
 }
 
 static int str_rep (lua_State *L) {
-  size_t l;
+  lua_size_t l;
   luaL_Buffer b;
   const char *s = luaL_checklstring(L, 1, &l);
   int n = luaL_checkint(L, 2);
@@ -95,10 +95,10 @@ static int str_rep (lua_State *L) {
 
 
 static int str_byte (lua_State *L) {
-  size_t l;
+  lua_size_t l;
   const char *s = luaL_checklstring(L, 1, &l);
   sint32 pos = posrelat(luaL_optlong(L, 2, 1), l);
-  if (pos <= 0 || (size_t)(pos) > l)  /* index out of range? */
+  if (pos <= 0 || (lua_size_t)(pos) > l)  /* index out of range? */
     return 0;  /* no answer */
   lua_pushnumber(L, uchar(s[pos-1]));
   return 1;
@@ -120,7 +120,7 @@ static int str_char (lua_State *L) {
 }
 
 
-static int writer (lua_State *L, const void* b, size_t size, void* B) {
+static int writer (lua_State *L, const void* b, lua_size_t size, void* B) {
   (void)L;
   luaL_addlstring((luaL_Buffer*) B, (const char *)b, size);
   return 1;
@@ -338,10 +338,10 @@ static const char *end_capture (MatchState *ms, const char *s,
 
 
 static const char *match_capture (MatchState *ms, const char *s, int l) {
-  size_t len;
+  lua_size_t len;
   l = check_capture(ms, l);
   len = ms->capture[l].len;
-  if ((size_t)(ms->src_end-s) >= len &&
+  if ((lua_size_t)(ms->src_end-s) >= len &&
       memcmp(ms->capture[l].init, s, len) == 0)
     return s+len;
   else return NULL;
@@ -426,8 +426,8 @@ static const char *match (MatchState *ms, const char *s, const char *p) {
 
 
 
-static const char *lmemfind (const char *s1, size_t l1,
-                               const char *s2, size_t l2) {
+static const char *lmemfind (const char *s1, lua_size_t l1,
+                               const char *s2, lua_size_t l2) {
   if (l2 == 0) return s1;  /* empty strings are everywhere */
   else if (l2 > l1) return NULL;  /* avoids a negative `l1' */
   else {
@@ -474,12 +474,12 @@ static int push_captures (MatchState *ms, const char *s, const char *e) {
 
 
 static int str_find (lua_State *L) {
-  size_t l1, l2;
+  lua_size_t l1, l2;
   const char *s = luaL_checklstring(L, 1, &l1);
   const char *p = luaL_checklstring(L, 2, &l2);
   sint32 init = posrelat(luaL_optlong(L, 3, 1), l1) - 1;
   if (init < 0) init = 0;
-  else if ((size_t)(init) > l1) init = (sint32)l1;
+  else if ((lua_size_t)(init) > l1) init = (sint32)l1;
   if (lua_toboolean(L, 4) ||  /* explicit request? */
       strpbrk(p, SPECIALS) == NULL) {  /* or no special characters? */
     /* do a plain search */
@@ -515,13 +515,13 @@ static int str_find (lua_State *L) {
 static int gfind_aux (lua_State *L) {
   MatchState ms;
   const char *s = lua_tostring(L, lua_upvalueindex(1));
-  size_t ls = lua_strlen(L, lua_upvalueindex(1));
+  lua_size_t ls = lua_strlen(L, lua_upvalueindex(1));
   const char *p = lua_tostring(L, lua_upvalueindex(2));
   const char *src;
   ms.L = L;
   ms.src_init = s;
   ms.src_end = s+ls;
-  for (src = s + (size_t)lua_tonumber(L, lua_upvalueindex(3));
+  for (src = s + (lua_size_t)lua_tonumber(L, lua_upvalueindex(3));
        src <= ms.src_end;
        src++) {
     const char *e;
@@ -553,8 +553,8 @@ static void add_s (MatchState *ms, luaL_Buffer *b,
   lua_State *L = ms->L;
   if (lua_isstring(L, 3)) {
     const char *news = lua_tostring(L, 3);
-    size_t l = lua_strlen(L, 3);
-    size_t i;
+    lua_size_t l = lua_strlen(L, 3);
+    lua_size_t i;
     for (i=0; i<l; i++) {
       if (news[i] != ESC)
         luaL_putchar(b, news[i]);
@@ -584,7 +584,7 @@ static void add_s (MatchState *ms, luaL_Buffer *b,
 
 
 static int str_gsub (lua_State *L) {
-  size_t srcl;
+  lua_size_t srcl;
   const char *src = luaL_checklstring(L, 1, &srcl);
   const char *p = luaL_checkstring(L, 2);
   int max_s = luaL_optint(L, 4, srcl+1);
@@ -630,7 +630,7 @@ static int str_gsub (lua_State *L) {
 
 
 static void luaI_addquoted (lua_State *L, luaL_Buffer *b, int arg) {
-  size_t l;
+  lua_size_t l;
   const char *s = luaL_checklstring(L, arg, &l);
   luaL_putchar(b, '"');
   while (l--) {
@@ -680,7 +680,7 @@ static const char *scanformat (lua_State *L, const char *strfrmt,
 
 static int str_format (lua_State *L) {
   int arg = 1;
-  size_t sfl;
+  lua_size_t sfl;
   const char *strfrmt = luaL_checklstring(L, arg, &sfl);
   const char *strfrmt_end = strfrmt+sfl;
   luaL_Buffer b;
@@ -717,7 +717,7 @@ static int str_format (lua_State *L) {
           continue;  /* skip the `addsize' at the end */
         }
         case 's': {
-          size_t l;
+          lua_size_t l;
           const char *s = luaL_checklstring(L, arg, &l);
           if (!hasprecision && l >= 100) {
             /* no precision and string is too long to be formatted;

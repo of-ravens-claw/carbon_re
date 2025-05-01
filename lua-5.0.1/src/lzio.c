@@ -17,7 +17,7 @@
 
 
 int luaZ_fill (ZIO *z) {
-  size_t size;
+  lua_size_t size;
   const char *buff = z->reader(NULL, z->data, &size);
   if (buff == NULL || size == 0) return EOZ;
   z->n = size - 1;
@@ -47,9 +47,9 @@ void luaZ_init (ZIO *z, lua_Chunkreader reader, void *data, const char *name) {
 
 
 /* --------------------------------------------------------------- read --- */
-size_t luaZ_read (ZIO *z, void *b, size_t n) {
+lua_size_t luaZ_read (ZIO *z, void *b, lua_size_t n) {
   while (n) {
-    size_t m;
+    lua_size_t m;
     if (z->n == 0) {
       if (luaZ_fill(z) == EOZ)
         return n;  /* return number of missing bytes */
@@ -69,7 +69,7 @@ size_t luaZ_read (ZIO *z, void *b, size_t n) {
 }
 
 /* ------------------------------------------------------------------------ */
-char *luaZ_openspace (lua_State *L, Mbuffer *buff, size_t n) {
+char *luaZ_openspace (lua_State *L, Mbuffer *buff, lua_size_t n) {
   if (n > buff->buffsize) {
     if (n < LUA_MINBUFFER) n = LUA_MINBUFFER;
     luaM_reallocvector(L, buff->buffer, buff->buffsize, n, char);

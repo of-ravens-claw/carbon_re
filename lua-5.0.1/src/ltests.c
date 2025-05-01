@@ -67,8 +67,8 @@ static void setnameval (lua_State *L, const char *name, int val) {
 #define HEADER	(sizeof(L_Umaxalign)) /* ensures maximum alignment for HEADER */
 #define MARKSIZE	16  /* size of marks after each block */
 #define blockhead(b)	(cast(char *, b) - HEADER)
-#define setsize(newblock, size)	(*cast(size_t *, newblock) = size)
-#define checkblocksize(b, size) (size == (*cast(size_t *, blockhead(b))))
+#define setsize(newblock, size)	(*cast(lua_size_t *, newblock) = size)
+#define checkblocksize(b, size) (size == (*cast(lua_size_t *, blockhead(b))))
 #define fillmem(mem,size)	memset(mem, -MARK, size)
 #else
 /* external memory check: don't do it twice */
@@ -86,7 +86,7 @@ unsigned long memdebug_maxmem = 0;
 unsigned long memdebug_memlimit = ULONG_MAX;
 
 
-static void *checkblock (void *block, size_t size) {
+static void *checkblock (void *block, lua_size_t size) {
   void *b = blockhead(block);
   int i;
   for (i=0;i<MARKSIZE;i++)
@@ -95,7 +95,7 @@ static void *checkblock (void *block, size_t size) {
 }
 
 
-static void freeblock (void *block, size_t size) {
+static void freeblock (void *block, lua_size_t size) {
   if (block) {
     lua_assert(checkblocksize(block, size));
     block = checkblock(block, size);
@@ -107,7 +107,7 @@ static void freeblock (void *block, size_t size) {
 }
 
 
-void *debug_realloc (void *block, size_t oldsize, size_t size) {
+void *debug_realloc (void *block, lua_size_t oldsize, lua_size_t size) {
   lua_assert(oldsize == 0 || checkblocksize(block, oldsize));
   /* ISO does not specify what realloc(NULL, 0) does */
   lua_assert(block != NULL || size > 0);
@@ -120,8 +120,8 @@ void *debug_realloc (void *block, size_t oldsize, size_t size) {
   else {
     void *newblock;
     int i;
-    size_t realsize = HEADER+size+MARKSIZE;
-    size_t commonsize = (oldsize < size) ? oldsize : size;
+    lua_size_t realsize = HEADER+size+MARKSIZE;
+    lua_size_t commonsize = (oldsize < size) ? oldsize : size;
     if (realsize < size) return NULL;  /* overflow! */
     newblock = malloc(realsize);  /* alloc a new block */
     if (newblock == NULL) return NULL;
@@ -274,7 +274,7 @@ static int hash_query (lua_State *L) {
   }
   else {
     TObject *o = func_at(L, 1);
-    Table *t;
+    LuaTable *t;
     luaL_checktype(L, 2, LUA_TTABLE);
     t = hvalue(func_at(L, 2));
     lua_pushintegral(L, luaH_mainposition(t, o) - t->node);
@@ -295,7 +295,7 @@ static int stacklevel (lua_State *L) {
 
 
 static int table_query (lua_State *L) {
-  const Table *t;
+  const LuaTable *t;
   int i = luaL_optint(L, 2, -1);
   luaL_checktype(L, 1, LUA_TTABLE);
   t = hvalue(func_at(L, 1));
@@ -406,7 +406,7 @@ static int upvalue (lua_State *L) {
 
 
 static int newuserdata (lua_State *L) {
-  size_t size = luaL_checkint(L, 1);
+  lua_size_t size = luaL_checkint(L, 1);
   char *p = cast(char *, lua_newuserdata(L, size));
   while (size--) *p++ = '\0';
   return 1;
@@ -427,7 +427,7 @@ static int udataval (lua_State *L) {
 
 static int doonnewstack (lua_State *L) {
   lua_State *L1 = lua_newthread(L);
-  size_t l;
+  lua_size_t l;
   const char *s = luaL_checklstring(L, 1, &l);
   int status = luaL_loadbuffer(L1, s, l, s);
   if (status == 0)
@@ -487,7 +487,7 @@ static int closestate (lua_State *L) {
 
 static int doremote (lua_State *L) {
   lua_State *L1 = cast(lua_State *,cast(unsigned long,luaL_checknumber(L, 1)));
-  size_t lcode;
+  lua_size_t lcode;
   const char *code = luaL_checklstring(L, 2, &lcode);
   int status;
   lua_settop(L1, 0);
@@ -700,7 +700,7 @@ static int testC (lua_State *L) {
       lua_pcall(L, narg, nres, 0);
     }
     else if EQ("loadstring") {
-      size_t sl;
+      lua_size_t sl;
       const char *s = luaL_checklstring(L, getnum, &sl);
       luaL_loadbuffer(L, s, sl, s);
     }

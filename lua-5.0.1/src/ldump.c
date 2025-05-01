@@ -24,7 +24,7 @@ typedef struct {
  void* data;
 } DumpState;
 
-static void DumpBlock(const void* b, size_t size, DumpState* D)
+static void DumpBlock(const void* b, lua_size_t size, DumpState* D)
 {
  lua_unlock(D->L);
  (*D->write)(D->L,b,size,D->data);
@@ -42,7 +42,7 @@ static void DumpInt(int x, DumpState* D)
  DumpBlock(&x,sizeof(x),D);
 }
 
-static void DumpSize(size_t x, DumpState* D)
+static void DumpSize(lua_size_t x, DumpState* D)
 {
  DumpBlock(&x,sizeof(x),D);
 }
@@ -58,7 +58,7 @@ static void DumpString(TString* s, DumpState* D)
   DumpSize(0,D);
  else
  {
-  size_t size=s->tsv.len+1;		/* include trailing '\0' */
+  lua_size_t size=s->tsv.len+1;		/* include trailing '\0' */
   DumpSize(size,D);
   DumpBlock(getstr(s),size,D);
  }
@@ -145,7 +145,7 @@ static void DumpHeader(DumpState* D)
  DumpByte(VERSION,D);
  DumpByte(luaU_endianness(),D);
  DumpByte(sizeof(int),D);
- DumpByte(sizeof(size_t),D);
+ DumpByte(sizeof(lua_size_t),D);
  DumpByte(sizeof(Instruction),D);
  DumpByte(SIZE_OP,D);
  DumpByte(SIZE_A,D);

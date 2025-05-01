@@ -154,7 +154,7 @@ const TObject *luaV_gettable (lua_State *L, const TObject *t, TObject *key,
   if (loop > MAXTAGLOOP)
     luaG_runerror(L, "loop in gettable");
   if (ttistable(t)) {  /* `t' is a table? */
-    Table *h = hvalue(t);
+    LuaTable *h = hvalue(t);
     const TObject *v = luaH_get(h, key);  /* do a primitive get */
     if (!ttisnil(v)) return v;
     else return luaV_index(L, t, key, loop+1);
@@ -171,7 +171,7 @@ void luaV_settable (lua_State *L, const TObject *t, TObject *key, StkId val) {
   int loop = 0;
   do {
     if (ttistable(t)) {  /* `t' is a table? */
-      Table *h = hvalue(t);
+      LuaTable *h = hvalue(t);
       TObject *oldval = luaH_set(L, h, key); /* do a primitive set */
       if (!ttisnil(oldval) ||  /* result is no nil? */
           (tm = fasttm(L, h->metatable, TM_NEWINDEX)) == NULL) { /* or no TM? */
@@ -206,7 +206,7 @@ static int call_binTM (lua_State *L, const TObject *p1, const TObject *p2,
 }
 
 
-static const TObject *get_compTM (lua_State *L, Table *mt1, Table *mt2,
+static const TObject *get_compTM (lua_State *L, LuaTable *mt1, LuaTable *mt2,
                                   TMS event) {
   const TObject *tm1 = fasttm(L, mt1, event);
   const TObject *tm2;
@@ -235,14 +235,14 @@ static int call_orderTM (lua_State *L, const TObject *p1, const TObject *p2,
 
 static int luaV_strcmp (const TString *ls, const TString *rs) {
   const char *l = getstr(ls);
-  size_t ll = ls->tsv.len;
+  lua_size_t ll = ls->tsv.len;
   const char *r = getstr(rs);
-  size_t lr = rs->tsv.len;
+  lua_size_t lr = rs->tsv.len;
   for (;;) {
     int temp = strcoll(l, r);
     if (temp != 0) return temp;
     else {  /* strings are equal up to a `\0' */
-      size_t len = strlen(l);  /* index of first `\0' in both strings */
+      lua_size_t len = strlen(l);  /* index of first `\0' in both strings */
       if (len == lr)  /* r is finished? */
         return (len == ll) ? 0 : 1;
       else if (len == ll)  /* l is finished? */
@@ -333,7 +333,7 @@ void luaV_concat (lua_State *L, int total, int last) {
       buffer = luaZ_openspace(L, &G(L)->buff, tl);
       tl = 0;
       for (i=n; i>0; i--) {  /* concat all strings */
-        size_t l = tsvalue(top-i)->tsv.len;
+        lua_size_t l = tsvalue(top-i)->tsv.len;
         memcpy(buffer+tl, svalue(top-i), l);
         tl += l;
       }
@@ -733,7 +733,7 @@ StkId luaV_execute (lua_State *L) {
       case OP_SETLISTO: {
         int bc;
         int n;
-        Table *h;
+        LuaTable *h;
         runtime_check(L, ttistable(ra));
         h = hvalue(ra);
         bc = GETARG_Bx(i);

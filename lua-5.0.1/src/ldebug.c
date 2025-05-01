@@ -175,7 +175,7 @@ static void funcinfo (lua_Debug *ar, StkId func) {
 
 
 static const char *travglobals (lua_State *L, const TObject *o) {
-  Table *g = hvalue(gt(L));
+  LuaTable *g = hvalue(gt(L));
   int i = sizenode(g);
   while (i--) {
     Node *n = gnode(g, i);
