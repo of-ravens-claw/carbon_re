@@ -62,9 +62,7 @@ new_camera_code:
     ori     r3, r3, 0x1C8C
     stw     r3, 0x10(r31)
 
-    # TODO: Adjust this for the Wii using SDA (r13)
     # 0x80566F28 - address of "CDActionDebug"
-    # EDIT: Do we need to bother with that?
     lis     r3, 0x8056
     ori     r3, r3, 0x6F28
     stw     r3, 0x14(r31)

@@ -37,6 +37,10 @@ new_camera_code:
     bl      0x824474E8 # GetAction
     lwz     r11, 0x50(r1)
 
+    # NOTE: Technically, this *could* be a NULL pointer.
+    # Chances of that happening are probably rather low, but game code normally checks for that.
+    # We don't, though. Just so you know.
+
     # r11 is now ActionData*
     lwz     r10, 0x00(r11) # Get the id
 
