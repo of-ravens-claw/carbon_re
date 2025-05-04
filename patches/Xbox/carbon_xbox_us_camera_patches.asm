@@ -42,7 +42,7 @@ new_camera_code:
     ; Chances of that happening are probably rather low, but game code normally checks for that.
     ; We don't, though. Just so you know.
 
-    ; eax is now ActionData*
+    ; ecx is now ActionData*
     mov     eax, dword ptr [ecx]
     
 
