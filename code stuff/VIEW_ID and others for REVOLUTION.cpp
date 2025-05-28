@@ -50,8 +50,6 @@ enum EVIEW_ID
     NUM_RVM_VIEWS = 1,  
 };
 
-// TODO: Check if it matches?
-// I can confirm that FILTER_TOTAL is 11, but that's all.
 enum FILTER_ID
 {
     FILTER_OFF = 0,
@@ -104,4 +102,31 @@ enum TARGET_ID
     LAST_RENDER_TARGET = 20,
 
     NUM_RENDER_TARGETS = 21,
+};
+
+enum eShaderMode
+{
+    ePS_LINE,
+    ePS_GOURAUD,
+    ePS_REPLACE,
+    ePS_VERTEX_ONLY,
+    ePS_REPLACE_NOALPHA,
+    ePS_MODULATE,
+    ePS_MODULATE_NORMAL_AS_STQ,
+    ePS_MOTIONBLUR,
+    ePS_GLOWBLOOM,
+    ePS_DEPTH_TEXTURE,
+    ePS_DEPTH_OF_FIELD,
+    ePS_INTENSITY_REPLACEMENT,
+    ePS_INTENSITY_ACCUMULATE,
+    ePS_TINT,
+    ePS_HORIZON_FOG,
+    ePS_SCREEN_CONTRAST,
+    ePS_MINIMAP_ALPHA_MASK, // Despite the name, it's used for `psFEMultiTexture`
+    ePS_NOS_GAUGE_ALPHA_MASK,
+    ePS_RVM,
+    ePS_RAINDROP,
+    ePS_MODEL,
+
+    ePS_MAXNUM,
 };

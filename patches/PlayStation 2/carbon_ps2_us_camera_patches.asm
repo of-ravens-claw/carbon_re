@@ -12,6 +12,7 @@
 # ActionQueue::GetAction : 0x0037bf60
 # ActionQueue::PopAction : 0x0037beb8
 #
+.set noreorder
 
 # ReadBuildVersionScript address : 0x00387798
 
