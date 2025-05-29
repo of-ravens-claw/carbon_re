@@ -39,15 +39,15 @@ extern "C" {
 
 
 // These are used by LGFFForceEffect's type field
-#define LG_TYPE_CONSTANT 0 // CConstantEffect
-#define LG_TYPE_UNKNOWN1 1 // CRampEffect
-#define LG_TYPE_UNKNOWN2 2 // CSineEffect
-#define LG_TYPE_SQUARE   3 // CSquareEffect
-#define LG_TYPE_TRIANGLE 4 // CTriangleEffect
-#define LG_TYPE_UNKNOWN5 5 // CSawUpEffect
-#define LG_TYPE_UNKNOWN6 6 // CSawDownEffect
-#define LG_TYPE_SPRING   7 // CCougarSpringEffect
-#define LG_TYPE_DAMPER   8 // CCougarDamperEffect
+#define LG_TYPE_CONSTANT      0 // CConstantEffect
+#define LG_TYPE_RAMP          1 // CRampEffect
+#define LG_TYPE_SINE          2 // CSineEffect
+#define LG_TYPE_SQUARE        3 // CSquareEffect
+#define LG_TYPE_TRIANGLE      4 // CTriangleEffect
+#define LG_TYPE_SAWTOOTH_UP   5 // CSawUpEffect
+#define LG_TYPE_SAWTOOTH_DOWN 6 // CSawDownEffect
+#define LG_TYPE_SPRING        7 // CCougarSpringEffect
+#define LG_TYPE_DAMPER        8 // CCougarDamperEffect
 
 
 // TODO: This should probably be an error code...
@@ -55,6 +55,8 @@ extern "C" {
 // I think we should rename this to LG_INVALID_HANDLE.
 // Or add another case for invalid effects (which are handles, too)
 #define LG_INVALID_DEVICE (-1)
+
+// #define LG_DURATION_INFINITE /* TODO */
 
 // Error codes
 #define LG_SUCCESS 0
@@ -67,6 +69,10 @@ extern "C" {
 #define LG_PROPERTY_FF_DEVICE_GAIN 1
 #define LG_PROPERTY_DEFAULT_SPRING 2
 #define LG_PROPERTY_CONNECTED 3
+
+// Helper functions
+#define LGCalculateMEM1Size(maxEffects, maxDevices) (((0x54 * (maxEffects)) + 0x288) * (maxDevices))
+#define LGCalculateMEM2Size(maxDevices) (0x60 * (maxDevices))
 
 // -----------------------
 // Enumerations 
